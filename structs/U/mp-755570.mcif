@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Li(NiS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75815819
+_cell_length_b   6.65015187
+_cell_length_c   6.40854687
+_cell_angle_alpha   91.62970036
+_cell_angle_beta   87.85987476
+_cell_angle_gamma   87.91041558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(NiS)2
+_chemical_formula_sum   'Li2 Ni4 S4'
+_cell_volume   159.87508981
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99672600  0.98841700  0.00281600  1
+  Li  Li1  1  0.50402400  0.51296800  0.99736000  1
+  Ni  Ni2  1  0.02841600  0.65907900  0.62537800  1
+  Ni  Ni3  1  0.97762300  0.35521600  0.37467100  1
+  Ni  Ni4  1  0.53578100  0.14382600  0.62385900  1
+  Ni  Ni5  1  0.45782800  0.84110700  0.37708700  1
+  S  S6  1  0.50031100  0.16826000  0.25011700  1
+  S  S7  1  0.98930700  0.66715200  0.23785600  1
+  S  S8  1  0.00981200  0.33069400  0.74853100  1
+  S  S9  1  0.50017200  0.83328000  0.76232300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  0.00001861  -0.00001564  -0.00100086
+  Li1  -0.00001861  0.00001564  0.00100086
+  Ni2  0.01993082  -0.01675380  -1.07191629
+  Ni3  0.02787710  -0.02343342  -1.49928161
+  Ni4  -0.02763517  0.02323005  1.48627049
+  Ni5  -0.02020996  0.01698844  1.08692912
+  S6  0.00022331  -0.00018772  -0.01201027
+  S7  0.00070716  -0.00059444  -0.03803251
+  S8  -0.00018610  0.00015643  0.01000856
+  S9  -0.00074438  0.00062573  0.04003422

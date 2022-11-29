@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mg(VS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27902903
+_cell_length_b   7.41227365
+_cell_length_c   7.27933009
+_cell_angle_alpha   60.58463755
+_cell_angle_beta   90.00969742
+_cell_angle_gamma   60.59992620
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(VS2)2
+_chemical_formula_sum   'Mg2 V4 S8'
+_cell_volume   282.59315246
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.49998400  0.00003800  0.49996100  1
+  Mg  Mg1  1  0.75003500  0.49995400  0.25003100  1
+  V  V2  1  0.12498400  0.75000600  0.87499300  1
+  V  V3  1  0.12501200  0.74997400  0.37500200  1
+  V  V4  1  0.62496800  0.25004900  0.87498800  1
+  V  V5  1  0.12500200  0.25002900  0.87498700  1
+  S  S6  1  0.88870000  0.22261800  0.12140800  1
+  S  S7  1  0.34404400  0.77739000  0.11129400  1
+  S  S8  1  0.87854200  0.77740900  0.11129200  1
+  S  S9  1  0.36134100  0.27731300  0.62863900  1
+  S  S10  1  0.36129000  0.27742100  0.09405200  1
+  S  S11  1  0.90594700  0.72263500  0.63868600  1
+  S  S12  1  0.88872400  0.22253800  0.65597700  1
+  S  S13  1  0.37142600  0.72262600  0.63868900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V2  -0.00033424  0.00034689  -1.93717040
+  V3  -0.00033441  0.00034707  -1.93817049
+  V4  0.00033424  -0.00034689  1.93717040
+  V5  0.00033424  -0.00034689  1.93717040
+  S6  -0.00000466  0.00000484  -0.02700238
+  S7  0.00000466  -0.00000484  0.02700238
+  S8  0.00000466  -0.00000484  0.02700238
+  S9  -0.00000466  0.00000484  -0.02700238
+  S10  -0.00000449  0.00000466  -0.02600229
+  S11  0.00000466  -0.00000484  0.02700238
+  S12  -0.00000449  0.00000466  -0.02600229
+  S13  0.00000466  -0.00000484  0.02700238

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_LiPRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.83218064
+_cell_length_b   14.42498279
+_cell_length_c   10.36063599
+_cell_angle_alpha   89.96264610
+_cell_angle_beta   90.00014116
+_cell_angle_gamma   89.99998794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPRu2
+_chemical_formula_sum   'Li2 P2 Ru4'
+_cell_volume   1469.43870725
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99990100  0.00000000  0.00000000  1
+  Li  Li1  1  0.49979500  0.50000000  0.50000000  1
+  P  P2  1  0.49998800  0.00000000  0.00000000  1
+  P  P3  1  0.00009900  0.50000000  0.50000000  1
+  Ru  Ru4  1  0.79074500  0.50000000  0.50000000  1
+  Ru  Ru5  1  0.70937100  0.00000000  0.99999900  1
+  Ru  Ru6  1  0.29060400  0.00000000  0.00000100  1
+  Ru  Ru7  1  0.20949800  0.50000000  0.50000000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  P2  -0.00144580  -0.00213428  -0.00153306
+  P3  0.00096387  0.00142285  0.00102204
+  Ru4  -0.78507128  -1.15891227  -0.83244902
+  Ru5  -0.77784226  -1.14824089  -0.82478374
+  Ru6  0.77928806  1.15037516  0.82631680
+  Ru7  0.78025193  1.15179801  0.82733883

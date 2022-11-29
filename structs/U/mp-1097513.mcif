@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_LiGa2Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.24075655
+_cell_length_b   19.43468812
+_cell_length_c   19.30425558
+_cell_angle_alpha   99.38074258
+_cell_angle_beta   74.78733513
+_cell_angle_gamma   90.02851737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGa2Co
+_chemical_formula_sum   'Li4 Ga8 Co4'
+_cell_volume   3654.22928212
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000700  0.99998600  0.99998600  1
+  Li  Li1  1  0.24999000  0.25001100  0.50001400  1
+  Li  Li2  1  0.50000100  0.50004000  0.00001000  1
+  Li  Li3  1  0.75000800  0.74998000  0.49998200  1
+  Ga  Ga4  1  0.26266900  0.99981900  0.00008300  1
+  Ga  Ga5  1  0.51266700  0.25007800  0.50010700  1
+  Ga  Ga6  1  0.76395200  0.49972100  0.00007800  1
+  Ga  Ga7  1  0.01378800  0.75031200  0.50014700  1
+  Ga  Ga8  1  0.73732900  0.00016300  0.99991400  1
+  Ga  Ga9  1  0.98733800  0.24992500  0.49988900  1
+  Ga  Ga10  1  0.23605600  0.50032400  0.99990700  1
+  Ga  Ga11  1  0.48619900  0.74968600  0.49987100  1
+  Co  Co12  1  0.99999600  0.49998100  0.00000400  1
+  Co  Co13  1  0.25000400  0.74998600  0.49998900  1
+  Co  Co14  1  0.50000100  0.99999000  0.99999700  1
+  Co  Co15  1  0.74999200  0.25000100  0.50002000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  -0.00049212  -0.00087919  -0.00174202
+  Li1  -0.00024606  -0.00043960  -0.00087101
+  Li2  0.00049212  0.00087919  0.00174202
+  Li3  0.00024606  0.00043960  0.00087101
+  Ga4  -0.02657437  -0.04747648  -0.09406917
+  Ga5  -0.02682043  -0.04791608  -0.09494018
+  Ga6  0.02632831  0.04703688  0.09319816
+  Ga7  0.02657437  0.04747648  0.09406917
+  Ga8  -0.02657437  -0.04747648  -0.09406917
+  Ga9  -0.02682043  -0.04791608  -0.09494018
+  Ga10  0.02632831  0.04703688  0.09319816
+  Ga11  0.02657437  0.04747648  0.09406917
+  Co12  -0.41707000  -0.74511696  -1.47636341
+  Co13  -0.41805424  -0.74687534  -1.47984745
+  Co14  0.42149907  0.75302970  1.49204161
+  Co15  0.42199118  0.75390890  1.49378363

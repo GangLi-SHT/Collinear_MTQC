@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_LiFeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65356374
+_cell_length_b   4.32569177
+_cell_length_c   11.36508233
+_cell_angle_alpha   87.51730613
+_cell_angle_beta   90.11590480
+_cell_angle_gamma   57.79358838
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeAs
+_chemical_formula_sum   'Li4 Fe4 As4'
+_cell_volume   193.30950430
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.65726600  0.68292200  0.62227800  1
+  Li  Li1  1  0.34701100  0.31553400  0.37824100  1
+  Li  Li2  1  0.02060200  0.98004300  0.25437700  1
+  Li  Li3  1  0.99325000  0.01800600  0.74560100  1
+  Fe  Fe4  1  0.66957300  0.66564800  0.13495800  1
+  Fe  Fe5  1  0.33250000  0.33544200  0.86567600  1
+  Fe  Fe6  1  0.00215700  0.99895500  0.50004700  1
+  Fe  Fe7  1  0.00257700  0.00121800  0.99970200  1
+  As  As8  1  0.66816400  0.63665500  0.88760100  1
+  As  As9  1  0.30354800  0.36718500  0.11167600  1
+  As  As10  1  0.68962600  0.63075900  0.36932600  1
+  As  As11  1  0.31372600  0.36763300  0.63051700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  -0.00003288  0.00006018  -0.00200203
+  Li1  -0.00003288  0.00006018  -0.00200203
+  Li2  0.00001644  -0.00003009  0.00100101
+  Li3  0.00001644  -0.00003009  0.00100101
+  Fe4  -0.05615091  0.10279369  -3.41946167
+  Fe5  -0.05593722  0.10240250  -3.40644850
+  Fe6  0.05777823  -0.10577278  3.51856200
+  Fe7  0.05513178  -0.10092800  3.35739885
+  As8  -0.00016438  0.00030092  -0.01001013
+  As9  -0.00019725  0.00036110  -0.01201216
+  As10  0.00019725  -0.00036110  0.01201216
+  As11  0.00021369  -0.00039119  0.01301317

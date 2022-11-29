@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_CaCoSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57343214
+_cell_length_b   6.59063314
+_cell_length_c   13.18905514
+_cell_angle_alpha   90.03484246
+_cell_angle_beta   90.06594965
+_cell_angle_gamma   89.32604977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCoSe2
+_chemical_formula_sum   'Ca4 Co4 Se8'
+_cell_volume   397.51420444
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.82396000  0.00279700  0.49973900  1
+  Ca  Ca1  1  0.17527700  0.50251800  0.74795000  1
+  Ca  Ca2  1  0.82847800  0.99644900  0.00008800  1
+  Ca  Ca3  1  0.17318500  0.50550900  0.24817600  1
+  Co  Co4  1  0.49837300  0.49915900  0.50040700  1
+  Co  Co5  1  0.50218700  0.99730000  0.75134000  1
+  Co  Co6  1  0.50013500  0.49228100  0.00009600  1
+  Co  Co7  1  0.49647600  0.00081200  0.25121800  1
+  Se  Se8  1  0.69103800  0.29567000  0.64989800  1
+  Se  Se9  1  0.68283500  0.69954700  0.85224400  1
+  Se  Se10  1  0.69405300  0.29322900  0.14974800  1
+  Se  Se11  1  0.68000900  0.70481800  0.35210000  1
+  Se  Se12  1  0.30926800  0.20883200  0.39839100  1
+  Se  Se13  1  0.31353400  0.80039500  0.60066900  1
+  Se  Se14  1  0.31185900  0.20330500  0.89786200  1
+  Se  Se15  1  0.31933100  0.79737800  0.10007500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00600027  0.00002975  0.00000382
+  Ca1  -0.00600027  0.00002975  0.00000382
+  Ca2  0.00500023  -0.00002479  -0.00000318
+  Ca3  0.00600027  -0.00002975  -0.00000382
+  Co4  -2.38710766  0.01183700  0.00151990
+  Co5  -2.38810770  0.01184196  0.00152053
+  Co6  2.38710766  -0.01183700  -0.00151990
+  Co7  2.38810770  -0.01184196  -0.00152053
+  Se8  -0.08500383  0.00042151  0.00005412
+  Se10  0.08700392  -0.00043143  -0.00005540
+  Se11  -0.00100005  0.00000496  0.00000064
+  Se12  0.00200009  -0.00000992  -0.00000127
+  Se13  -0.08400379  0.00041655  0.00005349
+  Se14  -0.00100005  0.00000496  0.00000064
+  Se15  0.08300374  -0.00041159  -0.00005285

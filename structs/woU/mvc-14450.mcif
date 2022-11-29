@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Mg(VS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25182124
+_cell_length_b   7.26845614
+_cell_length_c   7.23746781
+_cell_angle_alpha   60.01657570
+_cell_angle_beta   60.17824075
+_cell_angle_gamma   59.69177101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(VS2)2
+_chemical_formula_sum   'Mg2 V4 S8'
+_cell_volume   269.50832719
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.74995800  0.74996600  0.74995400  1
+  Mg  Mg1  1  0.00010200  0.00034200  0.99978300  1
+  V  V2  1  0.37580700  0.87441300  0.37401800  1
+  V  V3  1  0.87471600  0.37570900  0.37554000  1
+  V  V4  1  0.37559700  0.37409600  0.87519400  1
+  V  V5  1  0.37403100  0.37563900  0.37530100  1
+  S  S6  1  0.61617100  0.15941900  0.61295700  1
+  S  S7  1  0.59046300  0.13400200  0.13917700  1
+  S  S8  1  0.13633500  0.13900900  0.13402500  1
+  S  S9  1  0.13897400  0.13649700  0.59047000  1
+  S  S10  1  0.61308300  0.61123900  0.61658500  1
+  S  S11  1  0.61142600  0.61276200  0.15910700  1
+  S  S12  1  0.13374100  0.59089400  0.13649300  1
+  S  S13  1  0.15959600  0.61601300  0.61139500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  0.00002668  -0.00002774  0.01500057
+  Mg1  0.00002668  -0.00002774  0.01500057
+  V2  0.00331915  -0.00345106  1.86607100
+  V3  0.00327468  -0.00340483  1.84107005
+  V4  0.00332270  -0.00345476  1.86807108
+  V5  0.00328179  -0.00341222  1.84507020
+  S6  -0.00010672  0.00011097  -0.06000228
+  S7  -0.00010850  0.00011282  -0.06100232
+  S8  -0.00010672  0.00011097  -0.06000228
+  S9  -0.00010672  0.00011097  -0.06000228
+  S10  -0.00010672  0.00011097  -0.06000228
+  S11  -0.00010672  0.00011097  -0.06000228
+  S12  -0.00010850  0.00011282  -0.06100232
+  S13  -0.00010672  0.00011097  -0.06000228

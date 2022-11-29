@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_MgCo2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.28584738
+_cell_length_b   14.03809422
+_cell_length_c   10.35072898
+_cell_angle_alpha   87.77300318
+_cell_angle_beta   89.48127292
+_cell_angle_gamma   89.90763099
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCo2Sn
+_chemical_formula_sum   'Mg2 Co4 Sn2'
+_cell_volume   1493.38877719
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99904400  0.00002500  0.00008000  1
+  Mg  Mg1  1  0.50090200  0.50008300  0.50002200  1
+  Co  Co2  1  0.76337300  0.49997000  0.49986000  1
+  Co  Co3  1  0.73666600  0.99972800  0.00088500  1
+  Co  Co4  1  0.25803700  0.00007100  0.99966200  1
+  Co  Co5  1  0.24194500  0.50014000  0.49994100  1
+  Sn  Sn6  1  0.50321700  0.00000000  0.99987600  1
+  Sn  Sn7  1  0.99681500  0.49998300  0.49967400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  -0.00243786  -0.00351395  -0.00243109
+  Mg1  -0.00195029  -0.00281116  -0.00194487
+  Co2  -0.91078316  -1.31281082  -0.90825374
+  Co3  -0.93516173  -1.34795030  -0.93256460
+  Co4  0.97270472  1.40206509  0.97000332
+  Co5  0.96441601  1.39011767  0.96173763
+  Sn6  0.07216055  0.10401285  0.07196015
+  Sn7  0.06972269  0.10049890  0.06952906

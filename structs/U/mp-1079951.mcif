@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Na2CoSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07170896
+_cell_length_b   7.45149924
+_cell_length_c   11.86262973
+_cell_angle_alpha   81.49994154
+_cell_angle_beta   75.16536137
+_cell_angle_gamma   65.93509415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CoSe2
+_chemical_formula_sum   'Na8 Co4 Se8'
+_cell_volume   473.14931813
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.64218900  0.62065800  0.09499500  1
+  Na  Na1  1  0.64216400  0.12065700  0.59498400  1
+  Na  Na2  1  0.35783800  0.37935600  0.90500900  1
+  Na  Na3  1  0.35781900  0.87933300  0.40501000  1
+  Na  Na4  1  0.14218300  0.45284000  0.26284400  1
+  Na  Na5  1  0.14214000  0.95283100  0.76283000  1
+  Na  Na6  1  0.85786200  0.54716600  0.73715400  1
+  Na  Na7  1  0.85780300  0.04716300  0.23716900  1
+  Co  Co8  1  0.25013200  0.49999000  0.50000600  1
+  Co  Co9  1  0.74972900  0.00001000  0.99999500  1
+  Co  Co10  1  0.25025600  0.00000400  0.99999500  1
+  Co  Co11  1  0.74987900  0.49999700  0.50000400  1
+  Se  Se12  1  0.38761100  0.56398900  0.66038900  1
+  Se  Se13  1  0.38773700  0.06391300  0.16035300  1
+  Se  Se14  1  0.61227400  0.43602500  0.33964400  1
+  Se  Se15  1  0.61240900  0.93609600  0.83959100  1
+  Se  Se16  1  0.88754600  0.27265700  0.95190600  1
+  Se  Se17  1  0.88762400  0.77256600  0.45191800  1
+  Se  Se18  1  0.11235100  0.72739700  0.04812900  1
+  Se  Se19  1  0.11245600  0.22735000  0.54807400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co8  1.79923598  -1.13803750  -1.78932434
+  Co9  1.79762952  -1.13702140  -1.78772673
+  Co10  -1.79923598  1.13803750  1.78932434
+  Co11  -1.79843275  1.13752945  1.78852554

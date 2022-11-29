@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_SrMnBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64813477
+_cell_length_b   12.24756701
+_cell_length_c   4.64756896
+_cell_angle_alpha   79.06929681
+_cell_angle_beta   90.00620767
+_cell_angle_gamma   100.93211969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMnBi2
+_chemical_formula_sum   'Sr2 Mn2 Bi4'
+_cell_volume   254.88745242
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.11326200  0.22676300  0.88673600  1
+  Sr  Sr1  1  0.88673800  0.77323700  0.11326400  1
+  Mn  Mn2  1  0.25013300  0.50002500  0.25010800  1
+  Mn  Mn3  1  0.74986700  0.49997500  0.74989200  1
+  Bi  Bi4  1  0.50000000  0.00000000  0.00000100  1
+  Bi  Bi5  1  0.00000000  0.00000000  0.50000000  1
+  Bi  Bi6  1  0.32927700  0.65877600  0.67072300  1
+  Bi  Bi7  1  0.67072200  0.34122400  0.32927700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn2  0.01954181  -4.55641052  1.74805159
+  Mn3  -0.01954181  4.55641052  -1.74805159

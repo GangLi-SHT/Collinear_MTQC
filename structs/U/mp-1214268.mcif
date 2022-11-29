@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ca2MnSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41263885
+_cell_length_b   3.41216468
+_cell_length_c   14.17300812
+_cell_angle_alpha   89.96396719
+_cell_angle_beta   89.89503176
+_cell_angle_gamma   59.99398967
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2MnSi2
+_chemical_formula_sum   'Ca2 Mn1 Si2'
+_cell_volume   142.91766836
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50021600  0.49985700  0.63179200  1
+  Ca  Ca1  1  0.49945600  0.50067700  0.36823900  1
+  Mn  Mn2  1  0.50096000  0.49929000  0.99997400  1
+  Si  Si3  1  0.50012900  0.49986000  0.17642000  1
+  Si  Si4  1  0.49923900  0.50031600  0.82357500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00000096  -0.00000093  0.00300000
+  Ca1  -0.00000096  -0.00000093  0.00300000
+  Mn2  -0.00143861  -0.00138618  4.47400284
+  Si3  0.00000772  0.00000744  -0.02400002
+  Si4  0.00000804  0.00000775  -0.02500002

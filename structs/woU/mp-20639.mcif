@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_BaMnGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41637101
+_cell_length_b   4.41551401
+_cell_length_c   16.50772001
+_cell_angle_alpha   89.99830811
+_cell_angle_beta   89.99760047
+_cell_angle_gamma   90.00910826
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnGe
+_chemical_formula_sum   'Ba4 Mn4 Ge4'
+_cell_volume   321.90958365
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.99999600  0.49999500  0.34028000  1
+  Ba  Ba1  1  0.99999700  0.49999600  0.83916500  1
+  Ba  Ba2  1  0.50000300  0.00000400  0.16083600  1
+  Ba  Ba3  1  0.50000200  0.00000100  0.65971300  1
+  Mn  Mn4  1  0.50000100  0.50000400  0.50000500  1
+  Mn  Mn5  1  0.00000100  0.99999800  0.99999600  1
+  Mn  Mn6  1  0.49999900  0.50000100  0.99999400  1
+  Mn  Mn7  1  0.00000600  0.99999700  0.50000600  1
+  Ge  Ge8  1  0.49999400  0.99999800  0.41578800  1
+  Ge  Ge9  1  0.49999700  0.99999600  0.91533300  1
+  Ge  Ge10  1  0.00000100  0.50000400  0.08467700  1
+  Ge  Ge11  1  0.00000400  0.50000600  0.58420700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn4  0.00007312  0.00005097  -3.55000000
+  Mn5  0.00007324  0.00005106  -3.55600000
+  Mn6  -0.00007324  -0.00005106  3.55600000
+  Mn7  -0.00007316  -0.00005100  3.55200000

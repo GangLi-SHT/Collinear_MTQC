@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Li6FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28278506
+_cell_length_b   7.51845080
+_cell_length_c   7.37824921
+_cell_angle_alpha   104.45812737
+_cell_angle_beta   60.61233700
+_cell_angle_gamma   89.40194702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6FeS4
+_chemical_formula_sum   'Li12 Fe2 S8'
+_cell_volume   336.60444009
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.17664200  0.55989700  0.24618100  1
+  Li  Li1  1  0.17655500  0.05986900  0.24608900  1
+  Li  Li2  1  0.42296200  0.43686700  0.75382100  1
+  Li  Li3  1  0.42281700  0.93681600  0.75371900  1
+  Li  Li4  1  0.11471700  0.68516800  0.73134300  1
+  Li  Li5  1  0.11517200  0.18507000  0.73119200  1
+  Li  Li6  1  0.84645500  0.31952600  0.26881200  1
+  Li  Li7  1  0.84612300  0.81959100  0.26872000  1
+  Li  Li8  1  0.76183200  0.65359600  0.61814700  1
+  Li  Li9  1  0.76145400  0.15378500  0.61845400  1
+  Li  Li10  1  0.37982700  0.34446400  0.38166200  1
+  Li  Li11  1  0.37990200  0.84449900  0.38194800  1
+  Fe  Fe12  1  0.71986700  0.49967500  0.00021300  1
+  Fe  Fe13  1  0.71973800  0.99986600  0.00001900  1
+  S  S14  1  0.04100700  0.50244600  0.99995900  1
+  S  S15  1  0.04087600  0.00256100  0.99995000  1
+  S  S16  1  0.50904300  0.25262100  0.00000300  1
+  S  S17  1  0.50932100  0.75238900  0.99991000  1
+  S  S18  1  0.99173700  0.37913200  0.52550400  1
+  S  S19  1  0.99179000  0.87927100  0.52540800  1
+  S  S20  1  0.51728100  0.61643100  0.47454600  1
+  S  S21  1  0.51724400  0.11646000  0.47440300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Fe12  3.50658334  -1.83996755  -3.62226917
+  Fe13  -3.50756064  1.84048036  3.62327872
+  S14  0.03127388  -0.01640997  -0.03230563
+  S15  -0.03127388  0.01640997  0.03230563
+  S16  0.00293193  -0.00153843  -0.00302865
+  S17  -0.00293193  0.00153843  0.00302865
+  S18  0.02247810  -0.01179466  -0.02321967
+  S19  -0.02247810  0.01179466  0.02321967
+  S20  0.02150079  -0.01128185  -0.02221012
+  S21  -0.02150079  0.01128185  0.02221012

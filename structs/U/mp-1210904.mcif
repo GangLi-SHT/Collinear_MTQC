@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_LiMnAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62710220
+_cell_length_b   14.68841346
+_cell_length_c   10.42334961
+_cell_angle_alpha   32.40973997
+_cell_angle_beta   90.00142623
+_cell_angle_gamma   90.00541902
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnAs2
+_chemical_formula_sum   'Li4 Mn4 As8'
+_cell_volume   297.63412356
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.49994600  0.01590400  0.98238700  1
+  Li  Li1  1  0.50003500  0.01588300  0.48237800  1
+  Li  Li2  1  0.00005900  0.98377500  0.26803400  1
+  Li  Li3  1  0.00004100  0.98392400  0.76781900  1
+  Mn  Mn4  1  0.49996300  0.52312400  0.22179300  1
+  Mn  Mn5  1  0.99999300  0.47724400  0.52768500  1
+  Mn  Mn6  1  0.49994000  0.52307900  0.72184500  1
+  Mn  Mn7  1  0.00001600  0.47737400  0.02763300  1
+  As  As8  1  0.49995800  0.24810000  0.90288000  1
+  As  As9  1  0.49996000  0.24818600  0.40260200  1
+  As  As10  1  0.99997100  0.25425900  0.10025800  1
+  As  As11  1  0.99992200  0.25424100  0.60011900  1
+  As  As12  1  0.50013200  0.74571800  0.64960200  1
+  As  As13  1  0.50012900  0.74576900  0.14969100  1
+  As  As14  1  0.99995600  0.75171200  0.84766300  1
+  As  As15  1  0.99997900  0.75170800  0.34760900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  -0.00000033  -0.00350493  0.00227264
+  Li1  0.00000033  0.00350493  -0.00227264
+  Li2  0.00000049  0.00525740  -0.00340895
+  Li3  -0.00000049  -0.00525740  0.00340895
+  Mn4  -0.00072630  -7.77744684  5.04297933
+  Mn5  -0.00072646  -7.77919930  5.04411565
+  Mn6  0.00072630  7.77744684  -5.04297933
+  Mn7  0.00072630  7.77744684  -5.04297933
+  As8  0.00000376  0.04030673  -0.02613531
+  As9  -0.00000376  -0.04030673  0.02613531
+  As10  -0.00000851  -0.09112826  0.05908854
+  As11  0.00000851  0.09112826  -0.05908854
+  As12  -0.00000851  -0.09112826  0.05908854
+  As13  0.00000851  0.09112826  -0.05908854
+  As14  0.00000393  0.04205920  -0.02727163
+  As15  -0.00000376  -0.04030673  0.02613531

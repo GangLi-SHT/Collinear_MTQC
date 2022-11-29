@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_V5Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40953026
+_cell_length_b   7.40941601
+_cell_length_c   9.01499830
+_cell_angle_alpha   54.62710327
+_cell_angle_beta   54.62629134
+_cell_angle_gamma   64.09615066
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V5Te8
+_chemical_formula_sum   'V5 Te8'
+_cell_volume   325.18801906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.71154700  0.28845200  0.50000000  1
+  V  V1  1  0.28847100  0.71152900  0.49999900  1
+  V  V2  1  0.71697400  0.71697000  0.04961200  1
+  V  V3  1  0.28303500  0.28303300  0.95038900  1
+  V  V4  1  0.99997800  0.00001600  0.00000500  1
+  Te  Te5  1  0.42875100  0.42874300  0.34598100  1
+  Te  Te6  1  0.57125700  0.57125100  0.65401600  1
+  Te  Te7  1  0.53975000  0.04614800  0.16585500  1
+  Te  Te8  1  0.46025400  0.95385600  0.83413900  1
+  Te  Te9  1  0.95385200  0.46024800  0.83414400  1
+  Te  Te10  1  0.04614100  0.53974700  0.16586100  1
+  Te  Te11  1  0.98697900  0.98698800  0.32008800  1
+  Te  Te12  1  0.01301000  0.01301900  0.67991200  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V0  -0.00037684  -0.00034545  1.72941808
+  V1  -0.00037641  -0.00034505  1.72741760
+  V2  -0.00039907  -0.00036583  1.83144274
+  V3  -0.00039929  -0.00036603  1.83244299
+  V4  -0.00041237  -0.00037802  1.89245749
+  Te5  0.00002899  0.00002657  -0.13303216
+  Te6  0.00002899  0.00002657  -0.13303216
+  Te7  0.00002746  0.00002517  -0.12603047
+  Te8  0.00002746  0.00002517  -0.12603047
+  Te9  0.00002746  0.00002517  -0.12603047
+  Te10  0.00002746  0.00002517  -0.12603047
+  Te11  0.00002921  0.00002677  -0.13403240
+  Te12  0.00002942  0.00002697  -0.13503264

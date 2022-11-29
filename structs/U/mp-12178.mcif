@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_KCr5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54266090
+_cell_length_b   8.85061200
+_cell_length_c   9.29451008
+_cell_angle_alpha   105.40032692
+_cell_angle_beta   100.99088801
+_cell_angle_gamma   90.00390218
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCr5S8
+_chemical_formula_sum   'K1 Cr5 S8'
+_cell_volume   275.41315951
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr1  1  0.70444200  0.33454600  0.40894700  1
+  Cr  Cr2  1  0.34221800  0.02881900  0.68436200  1
+  Cr  Cr3  1  0.65778200  0.97118100  0.31563800  1
+  Cr  Cr4  1  0.00000000  0.00000000  0.00000000  1
+  Cr  Cr5  1  0.29555800  0.66545400  0.59105300  1
+  S  S6  1  0.23740300  0.15444100  0.47463800  1
+  S  S7  1  0.76259700  0.84555900  0.52536200  1
+  S  S8  1  0.17080700  0.48574500  0.34169100  1
+  S  S9  1  0.82919300  0.51425500  0.65830900  1
+  S  S10  1  0.08310400  0.82449400  0.16633700  1
+  S  S11  1  0.91689600  0.17550600  0.83366300  1
+  S  S12  1  0.42269000  0.85348700  0.84539400  1
+  S  S13  1  0.57731000  0.14651300  0.15460600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  K0  -0.00000013  -0.00000004  -0.00100004
+  Cr1  0.00041876  0.00012665  3.16511344
+  Cr2  0.00041743  0.00012625  3.15511308
+  Cr3  0.00041743  0.00012625  3.15511308
+  Cr4  0.00041161  0.00012449  3.11111151
+  Cr5  0.00041876  0.00012665  3.16511344
+  S6  -0.00001641  -0.00000496  -0.12400444
+  S7  -0.00001641  -0.00000496  -0.12400444
+  S8  -0.00002408  -0.00000728  -0.18200652
+  S9  -0.00002408  -0.00000728  -0.18200652
+  S10  -0.00001998  -0.00000604  -0.15100541
+  S11  -0.00001998  -0.00000604  -0.15100541
+  S12  -0.00001945  -0.00000588  -0.14700527
+  S13  -0.00001945  -0.00000588  -0.14700527

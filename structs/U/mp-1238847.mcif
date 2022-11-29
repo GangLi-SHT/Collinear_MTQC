@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.48136188
+_cell_length_b   5.91386235
+_cell_length_c   7.68198990
+_cell_angle_alpha   110.34611941
+_cell_angle_beta   103.11979315
+_cell_angle_gamma   90.00039735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(CrS2)2
+_chemical_formula_sum   'Na1 Cr2 S4'
+_cell_volume   143.88015205
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000300  0.50000300  0.00000400  1
+  Cr  Cr1  1  0.75235800  0.75868900  0.50448500  1
+  Cr  Cr2  1  0.24764000  0.24130900  0.49551400  1
+  S  S3  1  0.35097300  0.00627900  0.70128900  1
+  S  S4  1  0.64903000  0.99371400  0.29870800  1
+  S  S5  1  0.84689400  0.50040500  0.69366200  1
+  S  S6  1  0.15310200  0.49960100  0.30633900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cr1  0.00029422  0.08254157  3.07778428
+  Cr2  0.00029412  0.08251451  3.07677517
+  S3  -0.00002142  -0.00600794  -0.22402233
+  S4  -0.00002151  -0.00603501  -0.22503144
+  S5  -0.00001939  -0.00543962  -0.20283103
+  S6  -0.00001939  -0.00543962  -0.20283103

@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Mg(NiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.99951176
+_cell_length_b   7.00343718
+_cell_length_c   7.01040383
+_cell_angle_alpha   89.88862663
+_cell_angle_beta   120.05703815
+_cell_angle_gamma   120.03519556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(NiS2)2
+_chemical_formula_sum   'Mg2 Ni4 S8'
+_cell_volume   242.89737784
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.24897800  0.87406800  0.12281000  1
+  Mg  Mg1  1  0.75218300  0.12467200  0.87691900  1
+  Ni  Ni2  1  0.99930400  0.50046400  0.49975800  1
+  Ni  Ni3  1  0.49940500  0.49963100  0.50009500  1
+  Ni  Ni4  1  0.00040900  0.00058000  0.50010900  1
+  Ni  Ni5  1  0.50038000  0.49987400  0.00016100  1
+  S  S6  1  0.53253300  0.73321800  0.26600900  1
+  S  S7  1  0.03340200  0.26727600  0.73377700  1
+  S  S8  1  0.03363900  0.26703400  0.30065600  1
+  S  S9  1  0.46692800  0.70067500  0.73431500  1
+  S  S10  1  0.96525300  0.73366400  0.69914600  1
+  S  S11  1  0.53175000  0.29854700  0.26553000  1
+  S  S12  1  0.46846400  0.26632800  0.73461500  1
+  S  S13  1  0.96737700  0.73397600  0.26610700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  0.00001219  -0.00002922  0.01900613
+  Mg1  0.00001219  -0.00002922  0.01900613
+  Ni2  0.00039986  -0.00095815  0.62320100
+  Ni3  0.00040243  -0.00096430  0.62720229
+  Ni4  0.00039601  -0.00094892  0.61719906
+  Ni5  0.00039280  -0.00094123  0.61219745
+  S6  0.00005456  -0.00013073  0.08502742
+  S7  0.00005391  -0.00012919  0.08402710
+  S8  0.00005263  -0.00012611  0.08202646
+  S9  0.00005456  -0.00013073  0.08502742
+  S10  0.00005263  -0.00012611  0.08202646
+  S11  0.00005456  -0.00013073  0.08502742
+  S12  0.00005391  -0.00012919  0.08402710
+  S13  0.00005327  -0.00012765  0.08302678

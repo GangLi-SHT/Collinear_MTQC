@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mg(MnSn)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45414600
+_cell_length_b   5.45527699
+_cell_length_c   8.97052600
+_cell_angle_alpha   89.99998077
+_cell_angle_beta   90.00000639
+_cell_angle_gamma   119.99751003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(MnSn)6
+_chemical_formula_sum   'Mg1 Mn6 Sn6'
+_cell_volume   231.15484632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.99998000  1
+  Mn  Mn1  1  0.00000200  0.50000100  0.75099400  1
+  Mn  Mn2  1  0.00000100  0.50000100  0.24902500  1
+  Mn  Mn3  1  0.50000000  0.00000000  0.75096100  1
+  Mn  Mn4  1  0.49999900  0.99999900  0.24902100  1
+  Mn  Mn5  1  0.50000000  0.50000000  0.75100300  1
+  Mn  Mn6  1  0.49999900  0.50000000  0.24902700  1
+  Sn  Sn7  1  0.00000000  0.00000000  0.67688700  1
+  Sn  Sn8  1  0.00000000  0.00000000  0.32307000  1
+  Sn  Sn9  1  0.33332700  0.66671100  0.00006600  1
+  Sn  Sn10  1  0.66667200  0.33328900  0.00006600  1
+  Sn  Sn11  1  0.33331400  0.66666000  0.49995100  1
+  Sn  Sn12  1  0.66668600  0.33334000  0.49995100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  0.00000000  0.00000000  -0.02300000
+  Mn1  0.00000011  -0.00000031  2.42000000
+  Mn2  0.00000011  -0.00000031  2.41700000
+  Mn3  0.00000011  -0.00000031  2.42200000
+  Mn4  0.00000011  -0.00000031  2.42000000
+  Mn5  0.00000011  -0.00000031  2.41900000
+  Mn6  0.00000011  -0.00000031  2.41700000
+  Sn7  0.00000000  0.00000002  -0.13000000
+  Sn8  0.00000000  0.00000002  -0.13000000
+  Sn9  0.00000000  0.00000002  -0.12700000
+  Sn10  0.00000000  0.00000002  -0.12700000
+  Sn11  0.00000000  0.00000002  -0.13400000
+  Sn12  0.00000000  0.00000002  -0.13400000

@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Cr5Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98491700
+_cell_length_b   7.98490342
+_cell_length_c   6.39510600
+_cell_angle_alpha   89.99996984
+_cell_angle_beta   89.99991215
+_cell_angle_gamma   120.00006040
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr5Te8
+_chemical_formula_sum   'Cr5 Te8'
+_cell_volume   353.11664416
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.50000000  0.50000000  0.99999200  1
+  Cr  Cr1  1  0.49999800  0.00000000  0.99999600  1
+  Cr  Cr2  1  0.99999900  0.49999900  0.99999800  1
+  Cr  Cr3  1  0.00000100  0.00000000  0.50000300  1
+  Cr  Cr4  1  0.00000000  0.99999900  0.00000800  1
+  Te  Te5  1  0.66666600  0.33333400  0.23957500  1
+  Te  Te6  1  0.33333300  0.66666700  0.76042400  1
+  Te  Te7  1  0.16768100  0.33536200  0.24526400  1
+  Te  Te8  1  0.83232000  0.66463900  0.75473700  1
+  Te  Te9  1  0.66463800  0.83231900  0.24526400  1
+  Te  Te10  1  0.83232000  0.16768000  0.75473700  1
+  Te  Te11  1  0.33536100  0.16768000  0.75473600  1
+  Te  Te12  1  0.16768100  0.83231900  0.24526500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cr0  -0.00000393  -0.00000248  3.43700000
+  Cr1  -0.00000393  -0.00000248  3.43600000
+  Cr2  -0.00000393  -0.00000248  3.43700000
+  Cr3  -0.00000420  -0.00000265  3.67600000
+  Cr4  -0.00000397  -0.00000251  3.47500000
+  Te5  0.00000034  0.00000021  -0.29600000
+  Te6  0.00000034  0.00000021  -0.29600000
+  Te7  0.00000034  0.00000022  -0.29900000
+  Te8  0.00000034  0.00000022  -0.29900000
+  Te9  0.00000034  0.00000022  -0.29900000
+  Te10  0.00000034  0.00000022  -0.30000000
+  Te11  0.00000034  0.00000022  -0.29900000
+  Te12  0.00000034  0.00000022  -0.30000000

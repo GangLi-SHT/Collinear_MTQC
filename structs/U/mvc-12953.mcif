@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mg(FeS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01070566
+_cell_length_b   7.27201085
+_cell_length_c   7.00771088
+_cell_angle_alpha   117.40023781
+_cell_angle_beta   59.60622287
+_cell_angle_gamma   89.11799789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(FeS2)4
+_chemical_formula_sum   'Mg1 Fe4 S8'
+_cell_volume   258.82289610
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.50000000  0.00000000  1
+  Fe  Fe1  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe2  1  0.50000000  0.00000000  0.50000000  1
+  Fe  Fe3  1  0.49999900  0.00000000  0.00000000  1
+  Fe  Fe4  1  0.00000000  0.00000000  0.50000000  1
+  S  S5  1  0.73604100  0.78244900  0.51854900  1
+  S  S6  1  0.26395800  0.21755100  0.48145200  1
+  S  S7  1  0.24308200  0.77346000  0.51373300  1
+  S  S8  1  0.75575900  0.22792800  0.98380000  1
+  S  S9  1  0.75691900  0.22654000  0.48626700  1
+  S  S10  1  0.26006100  0.22639600  0.98290000  1
+  S  S11  1  0.73993800  0.77360500  0.01710000  1
+  S  S12  1  0.24424100  0.77207100  0.01619900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  0.00039739  -0.02095506  -0.01978954
+  Fe1  0.07489783  -3.94953048  -3.72985646
+  Fe2  0.07062120  -3.72401408  -3.51688335
+  Fe3  -0.07239997  3.81781294  3.60546509
+  Fe4  -0.07238105  3.81681508  3.60452273
+  S5  -0.00196801  0.10377746  0.09800532
+  S6  -0.00196801  0.10377746  0.09800532
+  S7  0.00160847  -0.08481811  -0.08010051
+  S8  -0.00041631  0.02195292  0.02073190
+  S9  0.00160847  -0.08481811  -0.08010051
+  S10  0.00157062  -0.08282239  -0.07821579
+  S11  0.00157062  -0.08282239  -0.07821579
+  S12  -0.00041631  0.02195292  0.02073190

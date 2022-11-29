@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li3(Fe2S3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18221323
+_cell_length_b   6.46790529
+_cell_length_c   6.46878329
+_cell_angle_alpha   120.01681598
+_cell_angle_beta   90.62882020
+_cell_angle_gamma   88.79208617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3(Fe2S3)2
+_chemical_formula_sum   'Li3 Fe4 S6'
+_cell_volume   223.91886200
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00008900  0.00001800  0.00001600  1
+  Li  Li1  1  0.00009000  0.35023400  0.70048000  1
+  Li  Li2  1  0.00010500  0.64969300  0.29950400  1
+  Fe  Fe3  1  0.62406400  0.66677500  0.66948500  1
+  Fe  Fe4  1  0.37591200  0.00269400  0.66942800  1
+  Fe  Fe5  1  0.62407800  0.99725200  0.33060300  1
+  Fe  Fe6  1  0.37582000  0.33328200  0.33051900  1
+  S  S7  1  0.75668100  0.69197400  0.00000600  1
+  S  S8  1  0.24339900  0.30797100  0.99998000  1
+  S  S9  1  0.74056000  0.98880600  0.65213300  1
+  S  S10  1  0.74049600  0.33672900  0.34790100  1
+  S  S11  1  0.25932300  0.01130700  0.34799400  1
+  S  S12  1  0.25938200  0.66326700  0.65194900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li1  0.00001349  0.00000716  0.00300369
+  Li2  -0.00001349  -0.00000716  -0.00300369
+  Fe3  -0.01187993  -0.00630736  -2.64525287
+  Fe4  -0.01188892  -0.00631213  -2.64725533
+  Fe5  0.01190691  0.00632168  2.65126025
+  Fe6  0.01190241  0.00631929  2.65025902
+  S7  0.00000899  0.00000477  0.00200246
+  S8  0.00000450  0.00000239  0.00100123
+  S9  -0.00013490  -0.00007162  -0.03003694
+  S10  0.00014839  0.00007878  0.03304063
+  S11  0.00014839  0.00007878  0.03304063
+  S12  -0.00013490  -0.00007162  -0.03003694

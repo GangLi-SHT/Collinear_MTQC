@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Li2CoSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40061697
+_cell_length_b   7.65697419
+_cell_length_c   4.40061061
+_cell_angle_alpha   106.76800775
+_cell_angle_beta   120.06149506
+_cell_angle_gamma   73.23151303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CoSb
+_chemical_formula_sum   'Li4 Co2 Sb2'
+_cell_volume   121.00911584
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.87489600  0.37525300  0.12510100  1
+  Li  Li1  1  0.37492400  0.87518400  0.62507800  1
+  Li  Li2  1  0.62507600  0.12481600  0.37492300  1
+  Li  Li3  1  0.12510300  0.62474700  0.87489800  1
+  Co  Co4  1  0.50000000  0.50000000  0.50000000  1
+  Co  Co5  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb6  1  0.24999400  0.25003200  0.75000600  1
+  Sb  Sb7  1  0.75000600  0.74996700  0.24999300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  0.00100189  0.00173149  0.00099995
+  Li1  -0.00100189  -0.00173149  -0.00099995
+  Li2  -0.00100189  -0.00173149  -0.00099995
+  Li3  0.00100189  0.00173149  0.00099995
+  Co4  -0.81002930  -1.39990769  -0.80846244
+  Co5  0.81153214  1.40250492  0.80996237

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaMn2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08017412
+_cell_length_b   6.74010315
+_cell_length_c   13.35705529
+_cell_angle_alpha   90.02404302
+_cell_angle_beta   89.99974241
+_cell_angle_gamma   89.98609689
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMn2S5
+_chemical_formula_sum   'Ca2 Mn4 S10'
+_cell_volume   367.32958902
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50023100  0.56981900  0.99997500  1
+  Ca  Ca1  1  0.99973900  0.43018100  0.49970400  1
+  Mn  Mn2  1  0.49983200  0.99494900  0.34592700  1
+  Mn  Mn3  1  0.00022100  0.00508000  0.84588500  1
+  Mn  Mn4  1  0.00005700  0.00591400  0.15442100  1
+  Mn  Mn5  1  0.49994500  0.99396700  0.65450800  1
+  S  S6  1  0.49973700  0.14500000  0.50030300  1
+  S  S7  1  0.00025600  0.85501000  0.00018300  1
+  S  S8  1  0.49998700  0.83657100  0.19648000  1
+  S  S9  1  0.99989500  0.16518900  0.30366200  1
+  S  S10  1  0.50013800  0.83493300  0.80363700  1
+  S  S11  1  0.00002400  0.16335100  0.69656300  1
+  S  S12  1  0.00022400  0.32102100  0.91986600  1
+  S  S13  1  0.49979800  0.67837300  0.57951900  1
+  S  S14  1  0.49973100  0.67900100  0.41972800  1
+  S  S15  1  0.00018500  0.32163900  0.07963900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn2  0.00000705  -0.00070150  -3.36200022
+  Mn3  0.00000705  -0.00070150  -3.36200022
+  Mn4  -0.00000704  0.00070129  3.36100022
+  Mn5  -0.00000704  0.00070129  3.36100022
+  S8  0.00000000  0.00000021  0.00100000
+  S12  0.00000004  -0.00000355  -0.01700000
+  S13  -0.00000004  0.00000355  0.01700000
+  S14  0.00000004  -0.00000355  -0.01700000
+  S15  -0.00000004  0.00000376  0.01800000

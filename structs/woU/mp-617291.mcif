@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Mn5Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96552103
+_cell_length_b   7.12801115
+_cell_length_c   7.12646221
+_cell_angle_alpha   119.98628304
+_cell_angle_beta   90.00445157
+_cell_angle_gamma   89.98834373
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn5Ge3
+_chemical_formula_sum   'Mn10 Ge6'
+_cell_volume   218.47302242
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50001200  0.33333400  0.66678800  1
+  Mn  Mn1  1  0.50008000  0.66666500  0.33331000  1
+  Mn  Mn2  1  0.00003100  0.33322000  0.66675400  1
+  Mn  Mn3  1  0.00005300  0.66672000  0.33314900  1
+  Mn  Mn4  1  0.75143300  0.24377600  0.24366900  1
+  Mn  Mn5  1  0.75174900  0.99980600  0.75646200  1
+  Mn  Mn6  1  0.75159000  0.75649600  0.00020400  1
+  Mn  Mn7  1  0.24838800  0.24372100  0.00010200  1
+  Mn  Mn8  1  0.24846200  0.75632900  0.75613800  1
+  Mn  Mn9  1  0.24818200  0.99994600  0.24339800  1
+  Ge  Ge10  1  0.25023900  0.60608500  0.99988600  1
+  Ge  Ge11  1  0.74996300  0.60590600  0.60607100  1
+  Ge  Ge12  1  0.25028100  0.00008200  0.60605900  1
+  Ge  Ge13  1  0.74968200  0.00013700  0.39405400  1
+  Ge  Ge14  1  0.25005600  0.39393700  0.39404300  1
+  Ge  Ge15  1  0.74979900  0.39383900  0.99991400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn0  2.19700003  -0.00024376  -0.00003622
+  Mn1  2.15100003  -0.00023866  -0.00003546
+  Mn2  2.17000003  -0.00024076  -0.00003578
+  Mn3  2.16700003  -0.00024043  -0.00003573
+  Mn4  3.06700005  -0.00034029  -0.00005056
+  Mn5  3.07300005  -0.00034095  -0.00005066
+  Mn6  3.07000005  -0.00034062  -0.00005061
+  Mn7  3.06700005  -0.00034029  -0.00005056
+  Mn8  3.06600005  -0.00034018  -0.00005055
+  Mn9  3.06800005  -0.00034040  -0.00005058
+  Ge10  -0.15900000  0.00001764  0.00000262
+  Ge11  -0.15800000  0.00001753  0.00000260
+  Ge12  -0.15800000  0.00001753  0.00000260
+  Ge13  -0.15800000  0.00001753  0.00000260
+  Ge14  -0.15800000  0.00001753  0.00000260
+  Ge15  -0.15800000  0.00001753  0.00000260

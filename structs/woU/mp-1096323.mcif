@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_MgSiRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.66752017
+_cell_length_b   15.25893454
+_cell_length_c   10.83466133
+_cell_angle_alpha   90.03638305
+_cell_angle_beta   90.00101131
+_cell_angle_gamma   90.00033342
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSiRu2
+_chemical_formula_sum   'Mg2 Si2 Ru4'
+_cell_volume   1598.28620044
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00017000  0.00000100  0.00000100  1
+  Mg  Mg1  1  0.49934700  0.49999900  0.50000100  1
+  Si  Si2  1  0.50015500  0.00000100  0.00000300  1
+  Si  Si3  1  0.99943300  0.49999800  0.50000200  1
+  Ru  Ru4  1  0.77802200  0.50000100  0.50000000  1
+  Ru  Ru5  1  0.22087000  0.50000200  0.49999700  1
+  Ru  Ru6  1  0.27958200  0.99999900  0.99999800  1
+  Ru  Ru7  1  0.72242100  0.99999800  0.99999900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  0.00092388  0.00144850  0.00102480
+  Mg1  0.00415748  0.00651826  0.00461160
+  Si2  -0.02817849  -0.04417929  -0.03125639
+  Si3  0.04711813  0.07387357  0.05226479
+  Ru4  -0.20648829  -0.32374006  -0.22904275
+  Ru5  -0.59590579  -0.93428339  -0.66099585
+  Ru6  0.32797916  0.51421799  0.36380392
+  Ru7  1.11281942  1.74471992  1.23437132

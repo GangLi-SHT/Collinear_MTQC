@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_CaMn2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23499701
+_cell_length_b   11.21850193
+_cell_length_c   7.36862079
+_cell_angle_alpha   70.87786583
+_cell_angle_beta   89.99322850
+_cell_angle_gamma   79.12222762
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMn2Te3
+_chemical_formula_sum   'Ca2 Mn4 Te6'
+_cell_volume   324.10640736
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000100  0.00000100  0.49999800  1
+  Ca  Ca1  1  0.00000200  0.00000000  0.00000000  1
+  Mn  Mn2  1  0.82991700  0.34020000  0.16365000  1
+  Mn  Mn3  1  0.17007900  0.65980000  0.83635000  1
+  Mn  Mn4  1  0.32993300  0.34016200  0.66366700  1
+  Mn  Mn5  1  0.67006400  0.65983700  0.33633400  1
+  Te  Te6  1  0.25000100  0.49999900  0.25000700  1
+  Te  Te7  1  0.75000300  0.50000100  0.74999200  1
+  Te  Te8  1  0.59564500  0.80878400  0.92904100  1
+  Te  Te9  1  0.09565300  0.80878000  0.42901800  1
+  Te  Te10  1  0.40435200  0.19121700  0.07095900  1
+  Te  Te11  1  0.90434900  0.19122000  0.57098300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00529983  0.02808406  -0.00921116
+  Ca1  0.00529983  -0.02808406  0.00921116
+  Mn2  0.85347642  -4.52261352  1.48335124
+  Mn3  0.85347642  -4.52261352  1.48335124
+  Mn4  -0.85347642  4.52261352  -1.48335124
+  Mn5  -0.85347642  4.52261352  -1.48335124
+  Te8  0.00305759  -0.01620234  0.00531413
+  Te9  -0.00305759  0.01620234  -0.00531413
+  Te10  0.00305759  -0.01620234  0.00531413
+  Te11  -0.00305759  0.01620234  -0.00531413

@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_LiAl2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.21331932
+_cell_length_b   14.11902002
+_cell_length_c   20.76927431
+_cell_angle_alpha   89.98453314
+_cell_angle_beta   90.05950128
+_cell_angle_gamma   90.05293922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl2Ru
+_chemical_formula_sum   'Li4 Al8 Ru4'
+_cell_volume   2994.96913765
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.49999500  0.50000100  0.74997000  1
+  Li  Li1  1  0.49999700  0.49999900  0.25001900  1
+  Li  Li2  1  0.00000700  0.99999700  0.49999400  1
+  Li  Li3  1  0.99999300  0.00000200  0.00000700  1
+  Al  Al4  1  0.00016400  0.99994900  0.86523600  1
+  Al  Al5  1  0.00016000  0.99995400  0.36520900  1
+  Al  Al6  1  0.50000100  0.50000000  0.61447400  1
+  Al  Al7  1  0.50000300  0.49999900  0.11383700  1
+  Al  Al8  1  0.99983500  0.00005100  0.63475300  1
+  Al  Al9  1  0.99984200  0.00004500  0.13480600  1
+  Al  Al10  1  0.50000300  0.50000000  0.38553600  1
+  Al  Al11  1  0.50000000  0.49999900  0.88616600  1
+  Ru  Ru12  1  0.00000200  0.00000000  0.74999600  1
+  Ru  Ru13  1  0.49999900  0.50000100  0.49999500  1
+  Ru  Ru14  1  0.00000000  0.00000000  0.25000100  1
+  Ru  Ru15  1  0.49999900  0.50000000  0.00000600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Al4  -0.02012768  0.02796226  0.02026809
+  Al5  0.01962449  -0.02726320  -0.01976138
+  Al6  -0.01811491  0.02516603  0.01824128
+  Al7  0.01761172  -0.02446698  -0.01773458
+  Al8  -0.02012768  0.02796226  0.02026809
+  Al9  0.01962449  -0.02726320  -0.01976138
+  Al10  -0.01811491  0.02516603  0.01824128
+  Al11  0.01761172  -0.02446698  -0.01773458
+  Ru12  1.02248600  -1.42048276  -1.02961882
+  Ru13  1.01695089  -1.41279314  -1.02404509
+  Ru14  -1.02600835  1.42537616  1.03316573
+  Ru15  -1.01292536  1.40720069  1.01999148

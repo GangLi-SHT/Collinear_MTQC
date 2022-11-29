@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Mg2MnAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28483801
+_cell_length_b   8.02212627
+_cell_length_c   7.39538958
+_cell_angle_alpha   62.43286358
+_cell_angle_beta   89.99332708
+_cell_angle_gamma   105.49208229
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2MnAs2
+_chemical_formula_sum   'Mg4 Mn2 As4'
+_cell_volume   214.86811324
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50038500  0.00076900  0.49961000  1
+  Mg  Mg1  1  0.00038500  0.00076900  0.99961100  1
+  Mg  Mg2  1  0.81845700  0.63694700  0.84837800  1
+  Mg  Mg3  1  0.31845700  0.63694700  0.34837900  1
+  Mn  Mn4  1  0.18130800  0.36253000  0.15236800  1
+  Mn  Mn5  1  0.68130700  0.36252700  0.65237000  1
+  As  As6  1  0.61553600  0.23102500  0.05093200  1
+  As  As7  1  0.11553800  0.23102700  0.55093900  1
+  As  As8  1  0.38431500  0.76873200  0.94870600  1
+  As  As9  1  0.88431100  0.76872600  0.44870900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  0.00158007  0.00591538  -0.00273219
+  Mg1  -0.00158007  -0.00591538  0.00273219
+  Mg2  0.00031601  0.00118308  -0.00054644
+  Mg3  -0.00031601  -0.00118308  0.00054644
+  Mn4  -1.42206050  -5.32384289  2.45897200
+  Mn5  1.42206050  5.32384289  -2.45897200
+  As6  -0.00094804  -0.00354923  0.00163931
+  As7  0.00094804  0.00354923  -0.00163931
+  As8  -0.00031601  -0.00118308  0.00054644
+  As9  0.00031601  0.00118308  -0.00054644

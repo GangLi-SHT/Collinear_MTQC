@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_V5Se8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10352409
+_cell_length_b   7.10389557
+_cell_length_c   8.70037214
+_cell_angle_alpha   54.66891769
+_cell_angle_beta   54.67372071
+_cell_angle_gamma   63.13771751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V5Se8
+_chemical_formula_sum   'V5 Se8'
+_cell_volume   287.64552443
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.99985400  0.99998400  0.00001000  1
+  V  V1  1  0.73010600  0.73001900  0.01146500  1
+  V  V2  1  0.26992500  0.26995000  0.98850900  1
+  V  V3  1  0.72564600  0.27444000  0.49996800  1
+  V  V4  1  0.27442600  0.72556500  0.50004900  1
+  Se  Se5  1  0.54583200  0.03134000  0.17226000  1
+  Se  Se6  1  0.45409700  0.96868200  0.82778000  1
+  Se  Se7  1  0.96864600  0.45412800  0.82775400  1
+  Se  Se8  1  0.03139900  0.54584100  0.17225100  1
+  Se  Se9  1  0.97802300  0.97797900  0.32435300  1
+  Se  Se10  1  0.02200000  0.02203600  0.67561000  1
+  Se  Se11  1  0.45063000  0.45058400  0.33363500  1
+  Se  Se12  1  0.54941700  0.54945400  0.66635500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V0  0.02505658  0.02486899  2.08589901
+  V1  0.02407327  0.02389304  2.00404104
+  V2  0.02407327  0.02389304  2.00404104
+  V3  0.02282933  0.02265841  1.90048577
+  V4  0.02282933  0.02265841  1.90048577
+  Se5  -0.00177706  -0.00176376  -0.14793610
+  Se6  -0.00177706  -0.00176376  -0.14793610
+  Se7  -0.00176522  -0.00175200  -0.14694986
+  Se8  -0.00177706  -0.00176376  -0.14793610
+  Se9  -0.00195477  -0.00194013  -0.16272971
+  Se10  -0.00195477  -0.00194013  -0.16272971
+  Se11  -0.00264190  -0.00262212  -0.21993167
+  Se12  -0.00264190  -0.00262212  -0.21993167

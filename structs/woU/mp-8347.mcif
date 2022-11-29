@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_BaMnS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15908900
+_cell_length_b   7.05832200
+_cell_length_c   13.98530600
+_cell_angle_alpha   90.00260152
+_cell_angle_beta   89.99993967
+_cell_angle_gamma   89.99996999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnS2
+_chemical_formula_sum   'Ba4 Mn4 S8'
+_cell_volume   410.55529138
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75000000  0.28828800  0.62374600  1
+  Ba  Ba1  1  0.25000000  0.71170200  0.37624200  1
+  Ba  Ba2  1  0.75000000  0.78830000  0.87624100  1
+  Ba  Ba3  1  0.25000100  0.21169400  0.12374700  1
+  Mn  Mn4  1  0.25000100  0.26634600  0.85848200  1
+  Mn  Mn5  1  0.75000000  0.23366300  0.35845600  1
+  Mn  Mn6  1  0.25000000  0.76636700  0.64157900  1
+  Mn  Mn7  1  0.74999900  0.73365500  0.14151500  1
+  S  S8  1  0.75000000  0.47157700  0.24187800  1
+  S  S9  1  0.25000000  0.52840700  0.75811800  1
+  S  S10  1  0.75000000  0.97156700  0.25810400  1
+  S  S11  1  0.25000000  0.02844300  0.74189700  1
+  S  S12  1  0.75000100  0.24461000  0.94716100  1
+  S  S13  1  0.25000100  0.25538800  0.44713900  1
+  S  S14  1  0.74999900  0.74461800  0.55285900  1
+  S  S15  1  0.24999900  0.75537500  0.05283800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ba0  0.00000000  -0.00000036  -0.01600000
+  Ba1  0.00000000  0.00000036  0.01600000
+  Ba2  0.00000000  0.00000036  0.01600000
+  Ba3  0.00000000  -0.00000036  -0.01600000
+  Mn4  0.00000229  -0.00009036  -3.99900000
+  Mn5  0.00000229  -0.00009036  -3.99900000
+  Mn6  -0.00000229  0.00009036  3.99900000
+  Mn7  -0.00000229  0.00009038  4.00000000
+  S8  0.00000000  -0.00000011  -0.00500000
+  S9  0.00000000  0.00000011  0.00500000
+  S10  0.00000000  0.00000011  0.00500000
+  S11  0.00000000  -0.00000011  -0.00500000
+  S12  0.00000002  -0.00000088  -0.03900000
+  S13  0.00000002  -0.00000088  -0.03900000
+  S14  -0.00000002  0.00000088  0.03900000
+  S15  -0.00000002  0.00000086  0.03800000

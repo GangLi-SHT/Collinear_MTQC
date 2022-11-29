@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_NaFeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32930142
+_cell_length_b   6.91474152
+_cell_length_c   7.15549355
+_cell_angle_alpha   118.89466187
+_cell_angle_beta   68.13631226
+_cell_angle_gamma   89.99997201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaFeS2
+_chemical_formula_sum   'Na2 Fe2 S4'
+_cell_volume   208.93379206
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.70056100  0.29942100  0.59885500  1
+  Na  Na1  1  0.29943500  0.70056700  0.40114700  1
+  Fe  Fe2  1  0.49999200  0.00000200  0.00000500  1
+  Fe  Fe3  1  0.00000800  0.99999800  0.99999600  1
+  S  S4  1  0.64162800  0.29126700  0.21788600  1
+  S  S5  1  0.14045200  0.92662800  0.21787400  1
+  S  S6  1  0.85956400  0.70873800  0.78211000  1
+  S  S7  1  0.35836000  0.07338000  0.78212600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Na0  -0.00075471  -0.00000260  0.00099303
+  Na1  -0.00075471  -0.00000260  0.00099303
+  Fe2  2.16752292  0.00746151  -2.85197210
+  Fe3  -2.15771171  -0.00742774  2.83906276
+  S4  -0.00150942  -0.00000520  0.00198605
+  S5  -0.00150942  -0.00000520  0.00198605
+  S6  -0.00150942  -0.00000520  0.00198605
+  S7  -0.00150942  -0.00000520  0.00198605

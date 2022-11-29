@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_LiMnP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90590837
+_cell_length_b   8.49418280
+_cell_length_c   7.90652512
+_cell_angle_alpha   92.68769867
+_cell_angle_beta   136.92262559
+_cell_angle_gamma   110.09654634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMnP2
+_chemical_formula_sum   'Li4 Mn4 P8'
+_cell_volume   225.30602025
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.11164100  0.50348200  0.24978600  1
+  Li  Li1  1  0.38874800  0.49656300  0.75133500  1
+  Li  Li2  1  0.61426800  0.50369000  0.25220400  1
+  Li  Li3  1  0.88688100  0.49643500  0.74958000  1
+  Mn  Mn4  1  0.35253300  0.00184700  0.25261700  1
+  Mn  Mn5  1  0.14710800  0.99820000  0.74675900  1
+  Mn  Mn6  1  0.65234600  0.99827000  0.75206400  1
+  Mn  Mn7  1  0.84740300  0.00157700  0.24747800  1
+  P  P8  1  0.19396200  0.21995900  0.22637000  1
+  P  P9  1  0.46968900  0.21503600  0.72229400  1
+  P  P10  1  0.68686100  0.21858900  0.22147300  1
+  P  P11  1  0.97457900  0.21635300  0.72860600  1
+  P  P12  1  0.03041000  0.78489600  0.27730700  1
+  P  P13  1  0.30566500  0.78003200  0.77316000  1
+  P  P14  1  0.52482600  0.78371100  0.27088100  1
+  P  P15  1  0.81308200  0.78136000  0.77808500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn4  -0.39892862  -2.10299120  -0.45488739
+  Mn5  -0.39791301  -2.09763736  -0.45372933
+  Mn6  0.39710053  2.09335428  0.45280288
+  Mn7  0.39852238  2.10084966  0.45442417
+  P8  -0.00121872  -0.00642462  -0.00138968
+  P9  -0.00264057  -0.01392000  -0.00301097
+  P10  0.00162496  0.00856616  0.00185290
+  P11  0.00243745  0.01284923  0.00277935
+  P12  -0.00264057  -0.01392000  -0.00301097
+  P13  -0.00121872  -0.00642462  -0.00138968
+  P14  0.00223433  0.01177846  0.00254774
+  P15  0.00162496  0.00856616  0.00185290

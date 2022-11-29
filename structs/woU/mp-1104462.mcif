@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ca(Al2Fe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06880199
+_cell_length_b   6.66353928
+_cell_length_c   6.66766546
+_cell_angle_alpha   81.72656606
+_cell_angle_beta   112.20118387
+_cell_angle_gamma   112.30937969
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(Al2Fe)4
+_chemical_formula_sum   'Ca1 Al8 Fe4'
+_cell_volume   192.90419509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Al  Al1  1  0.00058400  0.66284400  0.33765800  1
+  Al  Al2  1  0.99941600  0.33715600  0.66234200  1
+  Al  Al3  1  0.33760200  0.33717100  0.33770300  1
+  Al  Al4  1  0.66239800  0.66282900  0.66229800  1
+  Al  Al5  1  0.49949500  0.22561800  0.77368400  1
+  Al  Al6  1  0.50050400  0.77438200  0.22631500  1
+  Al  Al7  1  0.27420800  0.77447200  0.77375100  1
+  Al  Al8  1  0.72579200  0.22552800  0.22624900  1
+  Fe  Fe9  1  0.50000000  0.50000000  0.00000100  1
+  Fe  Fe10  1  0.00000100  0.00000000  0.50000000  1
+  Fe  Fe11  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe12  1  0.50000000  0.00000000  0.50000000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.01820853  0.00001034  -0.02395996
+  Al1  -0.01062165  0.00000603  -0.01397664
+  Al2  -0.01062165  0.00000603  -0.01397664
+  Al3  -0.01062165  0.00000603  -0.01397664
+  Al4  -0.01062165  0.00000603  -0.01397664
+  Al5  -0.01365640  0.00000775  -0.01796997
+  Al6  -0.01365640  0.00000775  -0.01796997
+  Al7  -0.01365640  0.00000775  -0.01796997
+  Al8  -0.01365640  0.00000775  -0.01796997
+  Fe9  1.21769576  -0.00069141  1.60232249
+  Fe10  1.18734820  -0.00067418  1.56238922
+  Fe11  1.20024592  -0.00068150  1.57936086
+  Fe12  1.20328067  -0.00068323  1.58335419

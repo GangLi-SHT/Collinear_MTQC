@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KMnSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77259800
+_cell_length_b   4.77257100
+_cell_length_c   8.41670000
+_cell_angle_alpha   90.00105921
+_cell_angle_beta   89.99937473
+_cell_angle_gamma   89.99985594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnSb
+_chemical_formula_sum   'K2 Mn2 Sb2'
+_cell_volume   191.71191288
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49999900  0.00000200  0.65398600  1
+  K  K1  1  0.00000100  0.49999900  0.34599900  1
+  Mn  Mn2  1  0.00002000  0.00003100  0.00003300  1
+  Mn  Mn3  1  0.49997900  0.49997800  0.99998600  1
+  Sb  Sb4  1  0.50000400  0.99999900  0.19663900  1
+  Sb  Sb5  1  0.99999700  0.49999200  0.80335800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn2  0.00002489  -0.00004220  -4.55400000
+  Mn3  -0.00002489  0.00004220  4.55400000

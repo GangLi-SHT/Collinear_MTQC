@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_NiSb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04779899
+_cell_length_b   8.05036042
+_cell_length_c   8.05076544
+_cell_angle_alpha   109.05577630
+_cell_angle_beta   109.84776338
+_cell_angle_gamma   109.53401977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiSb3
+_chemical_formula_sum   'Ni4 Sb12'
+_cell_volume   401.38746437
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.99942000  0.99986200  0.49991200  1
+  Ni  Ni1  1  0.50023900  0.00025700  0.00023800  1
+  Ni  Ni2  1  0.00084600  0.50000900  0.00021600  1
+  Ni  Ni3  1  0.49993900  0.49968800  0.49998800  1
+  Sb  Sb4  1  0.15806300  0.81701000  0.65883100  1
+  Sb  Sb5  1  0.84166200  0.18297800  0.34116300  1
+  Sb  Sb6  1  0.84188600  0.50066800  0.65897300  1
+  Sb  Sb7  1  0.15817600  0.49914000  0.34123800  1
+  Sb  Sb8  1  0.81637100  0.65848300  0.15737400  1
+  Sb  Sb9  1  0.18427300  0.34148100  0.84246200  1
+  Sb  Sb10  1  0.50128800  0.65874300  0.84256200  1
+  Sb  Sb11  1  0.49923300  0.34167100  0.15761400  1
+  Sb  Sb12  1  0.65952000  0.15659900  0.81575900  1
+  Sb  Sb13  1  0.34039700  0.84390500  0.18402900  1
+  Sb  Sb14  1  0.65886600  0.84339400  0.50302100  1
+  Sb  Sb15  1  0.33981900  0.15611300  0.49661900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ni0  0.00178583  -0.00255362  0.89776553
+  Ni1  0.00180373  -0.00257921  0.90676318
+  Ni2  0.00177788  -0.00254224  0.89376657
+  Ni3  0.00178782  -0.00255646  0.89876527
+  Sb4  0.00002188  -0.00003128  0.01099713
+  Sb5  0.00002188  -0.00003128  0.01099713
+  Sb6  0.00001989  -0.00002844  0.00999739
+  Sb7  0.00001989  -0.00002844  0.00999739
+  Sb8  0.00002983  -0.00004266  0.01499608
+  Sb9  0.00002983  -0.00004266  0.01499608
+  Sb10  0.00003977  -0.00005687  0.01999478
+  Sb11  0.00003977  -0.00005687  0.01999478
+  Sb12  0.00003381  -0.00004834  0.01699556
+  Sb13  0.00003381  -0.00004834  0.01699556
+  Sb14  0.00003182  -0.00004550  0.01599582
+  Sb15  0.00003381  -0.00004834  0.01699556

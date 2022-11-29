@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Ca2Ni3Ge2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05826907
+_cell_length_b   6.91061312
+_cell_length_c   9.18328711
+_cell_angle_alpha   90.01065134
+_cell_angle_beta   89.98410648
+_cell_angle_gamma   90.01562895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ni3Ge2
+_chemical_formula_sum   'Ca4 Ni6 Ge4'
+_cell_volume   257.54643389
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.99976200  0.83741500  0.24998200  1
+  Ca  Ca1  1  0.00025300  0.16254200  0.75001300  1
+  Ca  Ca2  1  0.50009200  0.49997900  0.99998200  1
+  Ca  Ca3  1  0.49988300  0.50000000  0.50002300  1
+  Ni  Ni4  1  0.49992600  0.18682300  0.24985200  1
+  Ni  Ni5  1  0.50008500  0.81320300  0.75013400  1
+  Ni  Ni6  1  0.00031300  0.15701200  0.06918100  1
+  Ni  Ni7  1  0.00016100  0.84300100  0.93087000  1
+  Ni  Ni8  1  0.99972600  0.15678800  0.43083700  1
+  Ni  Ni9  1  0.99979000  0.84316200  0.56911800  1
+  Ge  Ge10  1  0.99996600  0.40007100  0.25005000  1
+  Ge  Ge11  1  0.00004900  0.59990000  0.74995700  1
+  Ge  Ge12  1  0.50025900  0.00005400  0.00000200  1
+  Ge  Ge13  1  0.49973700  0.00005100  0.49999900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  0.00000014  -0.00000007  -0.00100000
+  Ca1  0.00000014  -0.00000007  -0.00100000
+  Ca2  -0.00000071  0.00000034  0.00500000
+  Ca3  -0.00000071  0.00000034  0.00500000
+  Ni4  -0.00012988  0.00006129  0.91400004
+  Ni5  -0.00013002  0.00006136  0.91500004
+  Ni6  -0.00000682  0.00000322  0.04800000
+  Ni7  -0.00000682  0.00000322  0.04800000
+  Ni8  -0.00000654  0.00000308  0.04600000
+  Ni9  -0.00000668  0.00000315  0.04700000
+  Ge10  -0.00000142  0.00000067  0.01000000
+  Ge11  -0.00000142  0.00000067  0.01000000
+  Ge12  0.00000284  -0.00000134  -0.02000000
+  Ge13  0.00000284  -0.00000134  -0.02000000

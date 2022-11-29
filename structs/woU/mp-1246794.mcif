@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mg(CrS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00969670
+_cell_length_b   7.01577603
+_cell_length_c   7.02108401
+_cell_angle_alpha   60.08927576
+_cell_angle_beta   60.06087315
+_cell_angle_gamma   60.03116267
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(CrS2)4
+_chemical_formula_sum   'Mg1 Cr4 S8'
+_cell_volume   244.48845436
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.87485800  0.87487700  0.87556100  1
+  Cr  Cr1  1  0.49165700  0.49161100  0.49270200  1
+  Cr  Cr2  1  0.49239000  0.49235500  0.02238200  1
+  Cr  Cr3  1  0.49251500  0.02298700  0.49247500  1
+  Cr  Cr4  1  0.02282400  0.49254200  0.49253800  1
+  S  S5  1  0.25564200  0.25575500  0.25572700  1
+  S  S6  1  0.73538000  0.73531000  0.29321100  1
+  S  S7  1  0.29287000  0.73566000  0.73532400  1
+  S  S8  1  0.73572000  0.29282600  0.73531600  1
+  S  S9  1  0.73309800  0.25552000  0.25537900  1
+  S  S10  1  0.25549000  0.73296400  0.25546200  1
+  S  S11  1  0.73580000  0.73573000  0.73564600  1
+  S  S12  1  0.25519300  0.25530000  0.73353800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  0.00000039  0.00000036  0.01199963
+  Cr1  0.00008563  0.00007800  2.63291837
+  Cr2  0.00008589  0.00007824  2.64091812
+  Cr3  0.00008592  0.00007827  2.64191809
+  Cr4  0.00008556  0.00007794  2.63091843
+  S5  -0.00000439  -0.00000400  -0.13499581
+  S6  -0.00000384  -0.00000350  -0.11799634
+  S7  -0.00000381  -0.00000347  -0.11699637
+  S8  -0.00000381  -0.00000347  -0.11699637
+  S9  -0.00000439  -0.00000400  -0.13499581
+  S10  -0.00000446  -0.00000406  -0.13699575
+  S11  -0.00000374  -0.00000341  -0.11499643
+  S12  -0.00000449  -0.00000409  -0.13799572

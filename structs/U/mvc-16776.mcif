@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Li(VS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91395307
+_cell_length_b   7.11298944
+_cell_length_c   7.11433780
+_cell_angle_alpha   61.68253031
+_cell_angle_beta   60.91900022
+_cell_angle_gamma   60.93560503
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(VS2)2
+_chemical_formula_sum   'Li2 V4 S8'
+_cell_volume   253.93290615
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99999900  0.50000000  0.50000100  1
+  Li  Li1  1  0.99999900  0.00000000  0.00000100  1
+  V  V2  1  0.50000300  0.49999800  0.00000100  1
+  V  V3  1  0.50000000  0.50000000  0.49999800  1
+  V  V4  1  0.00000000  0.50000200  0.99999700  1
+  V  V5  1  0.50000100  0.99999900  0.00000000  1
+  S  S6  1  0.25459800  0.25931700  0.23155900  1
+  S  S7  1  0.73821800  0.25664000  0.75665300  1
+  S  S8  1  0.25465600  0.73158300  0.75929100  1
+  S  S9  1  0.75137200  0.74339700  0.24341700  1
+  S  S10  1  0.74534400  0.26841600  0.24071000  1
+  S  S11  1  0.26178100  0.74336100  0.24334700  1
+  S  S12  1  0.24862700  0.25660400  0.75658500  1
+  S  S13  1  0.74540100  0.74068400  0.76844000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  -0.00002867  -0.00000712  -0.00198250
+  Li1  -0.00002867  -0.00000712  -0.00198250
+  V2  0.02045365  0.00508071  1.41451096
+  V3  0.02815065  0.00699266  1.94681116
+  V4  0.02091232  0.00519465  1.44623090
+  V5  0.02815065  0.00699266  1.94681116
+  S6  -0.00219300  -0.00054474  -0.15166095
+  S7  -0.00124700  -0.00030976  -0.08623858
+  S8  -0.00219300  -0.00054474  -0.15166095
+  S9  -0.00129000  -0.00032044  -0.08921232
+  S10  -0.00219300  -0.00054474  -0.15166095
+  S11  -0.00124700  -0.00030976  -0.08623858
+  S12  -0.00129000  -0.00032044  -0.08921232
+  S13  -0.00219300  -0.00054474  -0.15166095

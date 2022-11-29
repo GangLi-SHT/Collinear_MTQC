@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Co3Ge2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92717505
+_cell_length_b   6.25411690
+_cell_length_c   6.25411566
+_cell_angle_alpha   77.83934221
+_cell_angle_beta   71.69138966
+_cell_angle_gamma   108.30856338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co3Ge2
+_chemical_formula_sum   'Co6 Ge4'
+_cell_volume   130.04016439
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00003900  0.12091100  0.12083200  1
+  Co  Co1  1  0.99999100  0.62087900  0.62089400  1
+  Co  Co2  1  0.00003900  0.37916900  0.37909000  1
+  Co  Co3  1  0.99999200  0.87910400  0.87911900  1
+  Co  Co4  1  0.33333200  0.08335100  0.41665000  1
+  Co  Co5  1  0.33335500  0.58337300  0.91662700  1
+  Ge  Ge6  1  0.33330400  0.33333500  0.66671100  1
+  Ge  Ge7  1  0.33329700  0.83328200  0.16667200  1
+  Ge  Ge8  1  0.66673100  0.41670400  0.08329800  1
+  Ge  Ge9  1  0.66658600  0.91655800  0.58344100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co0  -0.00000029  0.57452970  0.57452993
+  Co1  -0.00000029  0.57452970  0.57452993
+  Co2  -0.00000029  0.56874585  0.56874607
+  Co3  -0.00000029  0.56746055  0.56746077
+  Co4  -0.00000015  0.29818991  0.29819003
+  Co5  -0.00000015  0.29818991  0.29819003
+  Ge6  0.00000001  -0.02506338  -0.02506339
+  Ge7  0.00000001  -0.02506338  -0.02506339
+  Ge8  0.00000001  -0.02827663  -0.02827664
+  Ge9  0.00000001  -0.02827663  -0.02827664

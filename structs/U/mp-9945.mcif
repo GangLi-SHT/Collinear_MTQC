@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_CoTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62345005
+_cell_length_b   6.62387297
+_cell_length_c   7.47216079
+_cell_angle_alpha   71.71553449
+_cell_angle_beta   71.73940742
+_cell_angle_gamma   106.94321058
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoTe2
+_chemical_formula_sum   'Co4 Te8'
+_cell_volume   266.56125374
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50064400  0.50067100  0.00005200  1
+  Co  Co1  1  0.25066100  0.75064800  0.50005000  1
+  Co  Co2  1  0.00066300  0.00069700  0.00005300  1
+  Co  Co3  1  0.75066500  0.25065600  0.50005200  1
+  Te  Te4  1  0.42829900  0.20667000  0.36458600  1
+  Te  Te5  1  0.92822300  0.70661600  0.36463700  1
+  Te  Te6  1  0.57110400  0.79262100  0.63533900  1
+  Te  Te7  1  0.07107600  0.29259500  0.63530100  1
+  Te  Te8  1  0.54244400  0.82093100  0.13552200  1
+  Te  Te9  1  0.04242500  0.32089200  0.13550700  1
+  Te  Te10  1  0.95693000  0.67852600  0.86443600  1
+  Te  Te11  1  0.45686700  0.17847900  0.86446600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co0  0.53079825  0.53099719  -1.19880144
+  Co1  0.52663104  0.52682842  -1.18938985
+  Co2  -0.52611014  -0.52630732  1.18821340
+  Co3  -0.53027735  -0.53047609  1.19762499
+  Te4  -0.01614794  -0.01615399  0.03646992
+  Te5  0.01562703  0.01563289  -0.03529347
+  Te6  -0.01614794  -0.01615399  0.03646992
+  Te7  0.01510613  0.01511179  -0.03411702
+  Te8  -0.01562703  -0.01563289  0.03529347
+  Te9  0.01614794  0.01615399  -0.03646992
+  Te10  -0.01614794  -0.01615399  0.03646992
+  Te11  0.01614794  0.01615399  -0.03646992

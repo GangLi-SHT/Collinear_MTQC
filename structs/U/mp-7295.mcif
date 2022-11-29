@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_RbCr5S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54762559
+_cell_length_b   8.89785830
+_cell_length_c   9.30377906
+_cell_angle_alpha   105.16024946
+_cell_angle_beta   100.98888417
+_cell_angle_gamma   90.00200416
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCr5S8
+_chemical_formula_sum   'Rb1 Cr5 S8'
+_cell_volume   277.88130101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr1  1  0.29525900  0.66557900  0.59046100  1
+  Cr  Cr2  1  0.70474100  0.33442100  0.40953900  1
+  Cr  Cr3  1  0.34112200  0.02531500  0.68220300  1
+  Cr  Cr4  1  0.65887700  0.97468400  0.31779700  1
+  Cr  Cr5  1  0.00000000  0.00000000  0.00000000  1
+  S  S6  1  0.23831700  0.15605400  0.47657100  1
+  S  S7  1  0.76168300  0.84394600  0.52343000  1
+  S  S8  1  0.17176100  0.48508200  0.34358900  1
+  S  S9  1  0.82823900  0.51491800  0.65641000  1
+  S  S10  1  0.08530200  0.83005400  0.17065000  1
+  S  S11  1  0.91469800  0.16994600  0.82935000  1
+  S  S12  1  0.42289500  0.85257600  0.84580900  1
+  S  S13  1  0.57710600  0.14742400  0.15419000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Rb0  0.00000000  0.00000023  -0.00199994
+  Cr1  -0.00001411  -0.00036635  3.16790148
+  Cr2  -0.00001411  -0.00036635  3.16790148
+  Cr3  -0.00001404  -0.00036461  3.15290195
+  Cr4  -0.00001404  -0.00036461  3.15290195
+  Cr5  -0.00001388  -0.00036033  3.11590310
+  S6  0.00000054  0.00001411  -0.12199621
+  S7  0.00000054  0.00001411  -0.12199621
+  S8  0.00000082  0.00002139  -0.18499425
+  S9  0.00000082  0.00002139  -0.18499425
+  S10  0.00000068  0.00001758  -0.15199527
+  S11  0.00000068  0.00001758  -0.15199527
+  S12  0.00000065  0.00001700  -0.14699543
+  S13  0.00000065  0.00001700  -0.14699543

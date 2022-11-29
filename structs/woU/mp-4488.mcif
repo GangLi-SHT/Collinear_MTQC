@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Sr(FeAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54045000
+_cell_length_b   6.62823788
+_cell_length_c   5.68242421
+_cell_angle_alpha   64.62928425
+_cell_angle_beta   89.99991840
+_cell_angle_gamma   90.00006230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(FeAs)2
+_chemical_formula_sum   'Sr2 Fe4 As4'
+_cell_volume   188.55197521
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50001800  0.00000000  0.50000000  1
+  Sr  Sr1  1  0.99998200  0.00000000  0.00000000  1
+  Fe  Fe2  1  0.24997100  0.50000000  0.00000000  1
+  Fe  Fe3  1  0.75002900  0.50000000  0.00000000  1
+  Fe  Fe4  1  0.74997200  0.50000000  0.50000000  1
+  Fe  Fe5  1  0.25002800  0.50000000  0.50000000  1
+  As  As6  1  0.99999600  0.28325600  0.35827200  1
+  As  As7  1  0.50000500  0.28325600  0.85823900  1
+  As  As8  1  0.50000400  0.71674400  0.14176100  1
+  As  As9  1  0.99999500  0.71674400  0.64172800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Fe2  -0.81991902  -1.87728523  0.80453766
+  Fe3  -0.81948382  -1.87628880  0.80411063
+  Fe4  0.82035422  1.87828167  -0.80496470
+  Fe5  0.81861342  1.87429593  -0.80325655

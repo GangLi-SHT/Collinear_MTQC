@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ca(MnS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95567564
+_cell_length_b   6.95620432
+_cell_length_c   6.95588716
+_cell_angle_alpha   60.92310932
+_cell_angle_beta   60.92370150
+_cell_angle_gamma   60.92297384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(MnS2)4
+_chemical_formula_sum   'Ca1 Mn4 S8'
+_cell_volume   242.93655800
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.50000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn3  1  0.50000000  0.00000000  0.50000000  1
+  Mn  Mn4  1  0.00000000  0.50000000  0.50000000  1
+  S  S5  1  0.73212600  0.28929800  0.73212500  1
+  S  S6  1  0.73212600  0.73212800  0.28929900  1
+  S  S7  1  0.28930100  0.73212600  0.73212300  1
+  S  S8  1  0.73904400  0.73904700  0.73904500  1
+  S  S9  1  0.26095600  0.26095300  0.26095600  1
+  S  S10  1  0.26787400  0.26787200  0.71070100  1
+  S  S11  1  0.71069900  0.26787400  0.26787700  1
+  S  S12  1  0.26787400  0.71070200  0.26787500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00000222  -0.00000164  -0.01299812
+  Mn1  0.00037242  0.00027501  2.17868531
+  Mn2  0.00045412  0.00033534  2.65661628
+  Mn3  0.00045531  0.00033623  2.66361527
+  Mn4  0.00045446  0.00033560  2.65861599
+  S5  -0.00000855  -0.00000631  -0.04999278
+  S6  -0.00000855  -0.00000631  -0.04999278
+  S7  -0.00000855  -0.00000631  -0.04999278
+  S8  -0.00000820  -0.00000606  -0.04799307
+  S9  -0.00000820  -0.00000606  -0.04799307
+  S10  -0.00000855  -0.00000631  -0.04999278
+  S11  -0.00000855  -0.00000631  -0.04999278
+  S12  -0.00000855  -0.00000631  -0.04999278

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_MgSiRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.83517151
+_cell_length_b   10.55561820
+_cell_length_c   10.55568921
+_cell_angle_alpha   87.57368355
+_cell_angle_beta   117.76717865
+_cell_angle_gamma   62.23260877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSiRu2
+_chemical_formula_sum   'Mg1 Si1 Ru2'
+_cell_volume   809.55237054
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000200  0.00000000  0.00000000  1
+  Si  Si1  1  0.49999500  0.00000000  0.00000000  1
+  Ru  Ru2  1  0.71922800  0.00000000  0.00000000  1
+  Ru  Ru3  1  0.28077400  0.00000000  0.00000000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ru2  -2.01993470  -0.00217655  -2.18036358
+  Ru3  2.01900642  0.00217555  2.17936158

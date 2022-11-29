@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Li3VS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04490932
+_cell_length_b   6.76225651
+_cell_length_c   6.76225600
+_cell_angle_alpha   68.48048618
+_cell_angle_beta   72.66410026
+_cell_angle_gamma   107.33590001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3VS3
+_chemical_formula_sum   'Li6 V2 S6'
+_cell_volume   218.13388631
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.60010500  0.45790800  0.09990400  1
+  Li  Li1  1  0.10010500  0.90009600  0.54209200  1
+  Li  Li2  1  0.64219700  0.54209200  0.55781200  1
+  Li  Li3  1  0.14219700  0.44218800  0.45790800  1
+  Li  Li4  1  0.70000900  0.09990400  0.44218800  1
+  Li  Li5  1  0.20000900  0.55781200  0.90009600  1
+  V  V6  1  0.39789700  0.00000000  0.00000000  1
+  V  V7  1  0.89789700  0.00000000  0.00000000  1
+  S  S8  1  0.32024600  0.16874500  0.65187500  1
+  S  S9  1  0.82024600  0.34812500  0.83125500  1
+  S  S10  1  0.47212100  0.82062000  0.34812500  1
+  S  S11  1  0.97212100  0.65187500  0.17938000  1
+  S  S12  1  0.65150100  0.83125500  0.82062000  1
+  S  S13  1  0.15150100  0.17938000  0.16874500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  0.00000000  0.00000000  0.00100000
+  Li1  0.00000000  0.00000000  0.00100000
+  Li2  0.00000000  0.00000000  0.00100000
+  Li3  0.00000000  0.00000000  0.00100000
+  Li4  0.00000000  0.00000000  0.00100000
+  Li5  0.00000000  0.00000000  0.00100000
+  V6  0.00000000  0.00000000  1.81900000
+  V7  0.00000000  0.00000000  1.81500000
+  S8  0.00000000  0.00000000  -0.03200000
+  S9  0.00000000  0.00000000  -0.03200000
+  S10  0.00000000  0.00000000  -0.03200000
+  S11  0.00000000  0.00000000  -0.03200000
+  S12  0.00000000  0.00000000  -0.03200000
+  S13  0.00000000  0.00000000  -0.03200000

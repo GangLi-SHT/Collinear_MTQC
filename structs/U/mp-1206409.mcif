@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_K(FeP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73704034
+_cell_length_b   7.30751626
+_cell_length_c   5.67587148
+_cell_angle_alpha   67.17630521
+_cell_angle_beta   89.95777318
+_cell_angle_gamma   90.56821014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(FeP)2
+_chemical_formula_sum   'K2 Fe4 P4'
+_cell_volume   219.30797899
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.49998900  0.00000700  0.50001500  1
+  K  K1  1  0.00000700  0.99999300  0.99997900  1
+  Fe  Fe2  1  0.25003600  0.49982800  0.51721100  1
+  Fe  Fe3  1  0.24995800  0.50017000  0.98280300  1
+  Fe  Fe4  1  0.75004600  0.49978700  0.01716500  1
+  Fe  Fe5  1  0.74996200  0.50021600  0.48283300  1
+  P  P6  1  0.49188500  0.69451400  0.15257200  1
+  P  P7  1  0.99168400  0.69451000  0.65264900  1
+  P  P8  1  0.00812000  0.30548600  0.34740100  1
+  P  P9  1  0.50831300  0.30548900  0.84737100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Fe2  -1.36684401  -3.43431714  1.33346079
+  Fe3  -1.36644598  -3.43331705  1.33307248
+  Fe4  1.36644598  3.43331705  -1.33307248
+  Fe5  1.36644598  3.43331705  -1.33307248
+  P6  0.00358229  0.00900083  -0.00349480
+  P7  -0.00358229  -0.00900083  0.00349480
+  P8  0.00358229  0.00900083  -0.00349480
+  P9  -0.00358229  -0.00900083  0.00349480

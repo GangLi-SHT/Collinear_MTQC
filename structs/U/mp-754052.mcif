@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li3(Fe2S3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36494291
+_cell_length_b   6.71296282
+_cell_length_c   6.75459835
+_cell_angle_alpha   119.27873516
+_cell_angle_beta   89.66219491
+_cell_angle_gamma   92.35432039
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3(Fe2S3)2
+_chemical_formula_sum   'Li3 Fe4 S6'
+_cell_volume   251.49266856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00108900  0.99980400  0.99947500  1
+  Li  Li1  1  0.99993800  0.35758400  0.71472900  1
+  Li  Li2  1  0.00182300  0.64281400  0.28469700  1
+  Fe  Fe3  1  0.62837400  0.66143000  0.67420000  1
+  Fe  Fe4  1  0.37013900  0.33674800  0.32356800  1
+  Fe  Fe5  1  0.62840000  0.97093700  0.31028800  1
+  Fe  Fe6  1  0.37031000  0.03008100  0.69061000  1
+  S  S7  1  0.77428900  0.67644300  0.99000900  1
+  S  S8  1  0.22329000  0.32522400  0.00833900  1
+  S  S9  1  0.74972900  0.98367500  0.65299000  1
+  S  S10  1  0.74304600  0.33688600  0.35390800  1
+  S  S11  1  0.24938900  0.01321400  0.34595100  1
+  S  S12  1  0.26018300  0.66516100  0.65123700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li1  0.00000404  0.00000696  -0.00099659
+  Li2  0.00000404  0.00000696  -0.00099659
+  Fe3  0.01516913  0.02617659  -3.74619163
+  Fe4  0.01490279  0.02571698  -3.68041652
+  Fe5  -0.01423695  -0.02456797  3.51597874
+  Fe6  -0.01424502  -0.02458190  3.51797192
+  S7  0.00028651  0.00049442  -0.07075808
+  S8  0.00018966  0.00032729  -0.04683985
+  S9  0.00019774  0.00034122  -0.04883304
+  S10  0.00049232  0.00084957  -0.12158430
+  S11  0.00012106  0.00020891  -0.02989778
+  S12  0.00049232  0.00084957  -0.12158430

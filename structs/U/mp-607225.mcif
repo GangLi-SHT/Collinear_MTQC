@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Mn2Ga5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.33084352
+_cell_length_b   9.33417453
+_cell_length_c   2.95206200
+_cell_angle_alpha   89.99970840
+_cell_angle_beta   90.00425433
+_cell_angle_gamma   89.90046231
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Ga5
+_chemical_formula_sum   'Mn4 Ga10'
+_cell_volume   257.11158249
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.68123500  0.18115900  0.49991800  1
+  Mn  Mn1  1  0.31875000  0.81876600  0.50011700  1
+  Mn  Mn2  1  0.18134000  0.31862100  0.50015300  1
+  Mn  Mn3  1  0.81864200  0.68138400  0.50016300  1
+  Ga  Ga4  1  0.50002200  0.00002900  0.99998900  1
+  Ga  Ga5  1  0.99997600  0.50003500  0.99989100  1
+  Ga  Ga6  1  0.55973800  0.70129600  0.99993300  1
+  Ga  Ga7  1  0.44026100  0.29868500  0.99997300  1
+  Ga  Ga8  1  0.05982300  0.79857200  0.99993600  1
+  Ga  Ga9  1  0.94019500  0.20144800  0.00000500  1
+  Ga  Ga10  1  0.29862500  0.55978200  0.99994700  1
+  Ga  Ga11  1  0.70138200  0.44021400  0.00000100  1
+  Ga  Ga12  1  0.20128200  0.05972200  0.99995700  1
+  Ga  Ga13  1  0.79872800  0.94028800  0.00001400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn0  0.00016222  -0.00000745  4.31400001
+  Mn1  0.00016222  -0.00000745  4.31400001
+  Mn2  0.00016222  -0.00000745  4.31400001
+  Mn3  0.00016222  -0.00000745  4.31400001
+  Ga4  -0.00000256  0.00000012  -0.06800000
+  Ga5  -0.00000263  0.00000012  -0.07000000
+  Ga6  -0.00000282  0.00000013  -0.07500000
+  Ga7  -0.00000282  0.00000013  -0.07500000
+  Ga8  -0.00000278  0.00000013  -0.07400000
+  Ga9  -0.00000278  0.00000013  -0.07400000
+  Ga10  -0.00000278  0.00000013  -0.07400000
+  Ga11  -0.00000278  0.00000013  -0.07400000
+  Ga12  -0.00000282  0.00000013  -0.07500000
+  Ga13  -0.00000282  0.00000013  -0.07500000

@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Ba(FeSb3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01419642
+_cell_length_b   8.01462216
+_cell_length_c   8.01494700
+_cell_angle_alpha   109.47326701
+_cell_angle_beta   109.46965896
+_cell_angle_gamma   109.46983850
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(FeSb3)4
+_chemical_formula_sum   'Ba1 Fe4 Sb12'
+_cell_volume   396.30231468
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.50000000  0.50000000  0.50000000  1
+  Fe  Fe2  1  0.00000000  0.50000000  0.00000000  1
+  Fe  Fe3  1  0.00000000  0.00000000  0.50000000  1
+  Fe  Fe4  1  0.50000000  0.00000000  0.00000000  1
+  Sb  Sb5  1  0.83649300  0.49855500  0.66206300  1
+  Sb  Sb6  1  0.16350800  0.50144500  0.33793800  1
+  Sb  Sb7  1  0.83649200  0.17443000  0.33793600  1
+  Sb  Sb8  1  0.16350800  0.82557000  0.66206400  1
+  Sb  Sb9  1  0.33794000  0.16350900  0.50144600  1
+  Sb  Sb10  1  0.66206000  0.83649100  0.49855400  1
+  Sb  Sb11  1  0.66206000  0.16350400  0.82557100  1
+  Sb  Sb12  1  0.33794000  0.83649600  0.17442900  1
+  Sb  Sb13  1  0.17443100  0.33793800  0.83649200  1
+  Sb  Sb14  1  0.82556900  0.66206200  0.16350800  1
+  Sb  Sb15  1  0.49855500  0.66206400  0.83649200  1
+  Sb  Sb16  1  0.50144500  0.33793600  0.16350800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ba0  0.00000120  0.00000021  -0.03399953
+  Fe1  -0.00002292  -0.00000408  0.65199100
+  Fe2  -0.00001754  -0.00000313  0.49899311
+  Fe3  -0.00002166  -0.00000386  0.61599149
+  Fe4  -0.00002370  -0.00000422  0.67399069
+  Sb5  0.00000067  0.00000012  -0.01899974
+  Sb6  0.00000067  0.00000012  -0.01899974
+  Sb7  0.00000063  0.00000011  -0.01799975
+  Sb8  0.00000063  0.00000011  -0.01799975
+  Sb9  0.00000063  0.00000011  -0.01799975
+  Sb10  0.00000063  0.00000011  -0.01799975
+  Sb11  0.00000067  0.00000012  -0.01899974
+  Sb12  0.00000067  0.00000012  -0.01899974
+  Sb13  0.00000063  0.00000011  -0.01799975
+  Sb14  0.00000063  0.00000011  -0.01799975
+  Sb15  0.00000063  0.00000011  -0.01799975
+  Sb16  0.00000063  0.00000011  -0.01799975

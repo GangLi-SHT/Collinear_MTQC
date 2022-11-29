@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Rb2Co3S4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65892454
+_cell_length_b   9.14168563
+_cell_length_c   9.14266725
+_cell_angle_alpha   86.22993876
+_cell_angle_beta   71.95928368
+_cell_angle_gamma   108.04868451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Co3S4
+_chemical_formula_sum   'Rb4 Co6 S8'
+_cell_volume   420.69230588
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.88348100  0.12261000  0.87729200  1
+  Rb  Rb1  1  0.11651300  0.87728700  0.12260700  1
+  Rb  Rb2  1  0.36185200  0.62269500  0.37736800  1
+  Rb  Rb3  1  0.63815000  0.37736700  0.62269600  1
+  Co  Co4  1  0.49998000  0.74998300  0.74997400  1
+  Co  Co5  1  0.76491400  0.51493300  0.98505700  1
+  Co  Co6  1  0.23503800  0.98504600  0.51494500  1
+  Co  Co7  1  0.50004400  0.25006600  0.25003700  1
+  Co  Co8  1  0.23519200  0.48517600  0.01487100  1
+  Co  Co9  1  0.76484200  0.01486300  0.48518500  1
+  S  S10  1  0.14311700  0.52333400  0.78834800  1
+  S  S11  1  0.85684500  0.78835000  0.52334300  1
+  S  S12  1  0.59164700  0.71160100  0.97673400  1
+  S  S13  1  0.40837900  0.97674000  0.71159400  1
+  S  S14  1  0.85687200  0.47664500  0.21173400  1
+  S  S15  1  0.14308900  0.21174400  0.47663600  1
+  S  S16  1  0.40828200  0.28829900  0.02327200  1
+  S  S17  1  0.59176200  0.02325900  0.28830600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co4  0.01361025  0.00036476  -2.30220322
+  Co5  0.01305944  0.00035000  -2.20903312
+  Co6  0.01310090  0.00035111  -2.21604592
+  Co7  -0.01361025  -0.00036476  2.30220322
+  Co8  -0.01309498  -0.00035095  2.21504409
+  Co9  -0.01308313  -0.00035064  2.21304044
+  S10  0.00022506  0.00000603  -0.03806951
+  S11  0.00021914  0.00000587  -0.03706768
+  S12  0.00021914  0.00000587  -0.03706768
+  S13  0.00021914  0.00000587  -0.03706768
+  S14  -0.00021322  -0.00000571  0.03606585
+  S15  -0.00021914  -0.00000587  0.03706768
+  S16  -0.00021322  -0.00000571  0.03606585
+  S17  -0.00021914  -0.00000587  0.03706768

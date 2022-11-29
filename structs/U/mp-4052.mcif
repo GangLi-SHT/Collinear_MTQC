@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Rb2Mn3Se4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27833138
+_cell_length_b   9.95193140
+_cell_length_c   9.95192672
+_cell_angle_alpha   85.55982814
+_cell_angle_beta   108.39741229
+_cell_angle_gamma   71.60266949
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Mn3Se4
+_chemical_formula_sum   'Rb4 Mn6 Se8'
+_cell_volume   548.94727025
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.11486100  0.12231800  0.87768100  1
+  Rb  Rb1  1  0.35949900  0.37768800  0.62231300  1
+  Rb  Rb2  1  0.64050000  0.62231300  0.37768700  1
+  Rb  Rb3  1  0.88513900  0.87768100  0.12231800  1
+  Mn  Mn4  1  0.50000000  0.25000000  0.25000100  1
+  Mn  Mn5  1  0.76987100  0.48012100  0.01987300  1
+  Mn  Mn6  1  0.23012900  0.01987300  0.48012200  1
+  Mn  Mn7  1  0.50000000  0.74999900  0.74999900  1
+  Mn  Mn8  1  0.23012800  0.51987800  0.98012600  1
+  Mn  Mn9  1  0.76987100  0.98012700  0.51987900  1
+  Se  Se10  1  0.85505700  0.22146700  0.48793900  1
+  Se  Se11  1  0.58817400  0.27856700  0.01178400  1
+  Se  Se12  1  0.41182700  0.01178400  0.27856700  1
+  Se  Se13  1  0.14494300  0.48793900  0.22146700  1
+  Se  Se14  1  0.14494400  0.77853300  0.51206100  1
+  Se  Se15  1  0.41182700  0.72143300  0.98821700  1
+  Se  Se16  1  0.58817300  0.98821600  0.72143300  1
+  Se  Se17  1  0.85505700  0.51206100  0.77853300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn4  -2.90847217  0.04140050  -4.57469333
+  Mn5  -2.89256149  0.04117402  -4.54966765
+  Mn6  -2.89256149  0.04117402  -4.54966765
+  Mn7  2.90847217  -0.04140050  4.57469333
+  Mn8  2.89256149  -0.04117402  4.54966765
+  Mn9  2.89256149  -0.04117402  4.54966765
+  Se10  0.00509142  -0.00007247  0.00800822
+  Se11  0.00509142  -0.00007247  0.00800822
+  Se12  0.00509142  -0.00007247  0.00800822
+  Se13  0.00509142  -0.00007247  0.00800822
+  Se14  -0.00509142  0.00007247  -0.00800822
+  Se15  -0.00509142  0.00007247  -0.00800822
+  Se16  -0.00509142  0.00007247  -0.00800822
+  Se17  -0.00509142  0.00007247  -0.00800822

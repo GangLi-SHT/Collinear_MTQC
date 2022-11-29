@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_LiIn2Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.78233780
+_cell_length_b   10.74988342
+_cell_length_c   18.03003201
+_cell_angle_alpha   107.99494300
+_cell_angle_beta   72.59880564
+_cell_angle_gamma   119.72566744
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiIn2Cu
+_chemical_formula_sum   'Li2 In4 Cu2'
+_cell_volume   1698.92683532
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00005200  0.00004700  0.99999800  1
+  Li  Li1  1  0.49968600  0.50000400  0.49997800  1
+  In  In2  1  0.26250700  0.00072800  0.99973100  1
+  In  In3  1  0.76187900  0.50051600  0.50023800  1
+  In  In4  1  0.73760000  0.99937500  0.00026100  1
+  In  In5  1  0.23805600  0.49928000  0.49978200  1
+  Cu  Cu6  1  0.00015100  0.50001000  0.50001700  1
+  Cu  Cu7  1  0.50007000  0.00004000  0.99999500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  0.00757176  0.00825051  0.01416358
+  Li1  -0.00757176  -0.00825051  -0.01416358
+  In2  0.05584176  0.06084749  0.10445638
+  In3  -0.05631499  -0.06136314  -0.10534161
+  In4  0.05584176  0.06084749  0.10445638
+  In5  -0.05631499  -0.06136314  -0.10534161
+  Cu6  -0.00520559  -0.00567222  -0.00973746
+  Cu7  0.00520559  0.00567222  0.00973746

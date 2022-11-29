@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Cs2CoS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32133191
+_cell_length_b   7.42402143
+_cell_length_c   14.00339976
+_cell_angle_alpha   90.00054136
+_cell_angle_beta   89.99994594
+_cell_angle_gamma   89.99955527
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2CoS2
+_chemical_formula_sum   'Cs8 Co4 S8'
+_cell_volume   657.17539893
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.49999300  0.83120100  0.35207800  1
+  Cs  Cs1  1  0.99998200  0.33111900  0.85224300  1
+  Cs  Cs2  1  0.99998600  0.66888200  0.14775700  1
+  Cs  Cs3  1  0.49999700  0.16879900  0.64792000  1
+  Cs  Cs4  1  0.50001500  0.33111800  0.14775800  1
+  Cs  Cs5  1  0.00000200  0.83120100  0.64792300  1
+  Cs  Cs6  1  0.00000500  0.16880000  0.35207900  1
+  Cs  Cs7  1  0.50001800  0.66888300  0.85224400  1
+  Co  Co8  1  0.75000200  0.50000000  0.50000000  1
+  Co  Co9  1  0.74999900  0.00000100  0.00000000  1
+  Co  Co10  1  0.25000100  0.00000100  0.00000000  1
+  Co  Co11  1  0.24999900  0.50000000  0.50000000  1
+  S  S12  1  0.50013200  0.83722700  0.08980900  1
+  S  S13  1  0.99998800  0.33706000  0.59002300  1
+  S  S14  1  0.99999100  0.66294200  0.40997500  1
+  S  S15  1  0.50013200  0.16277200  0.91019100  1
+  S  S16  1  0.99986600  0.16277300  0.08980700  1
+  S  S17  1  0.50000900  0.66294200  0.59002100  1
+  S  S18  1  0.50001200  0.33705600  0.40997700  1
+  S  S19  1  0.99986800  0.83722400  0.91019300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co8  0.85749130  1.01377075  -1.90732970
+  Co9  0.85638438  1.01246210  -1.90486757
+  Co10  -0.85638438  -1.01246210  1.90486757
+  Co11  -0.85712233  -1.01333454  1.90650899

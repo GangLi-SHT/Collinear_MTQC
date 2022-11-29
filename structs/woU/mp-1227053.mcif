@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_CaMnSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93046787
+_cell_length_b   8.09667518
+_cell_length_c   6.99162850
+_cell_angle_alpha   90.00009949
+_cell_angle_beta   109.60171787
+_cell_angle_gamma   90.00017895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMnSe2
+_chemical_formula_sum   'Ca4 Mn4 Se8'
+_cell_volume   369.59013270
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000200  0.99998500  0.00000200  1
+  Ca  Ca1  1  0.99999900  0.25001700  0.50000000  1
+  Ca  Ca2  1  0.99999900  0.49999000  0.99999900  1
+  Ca  Ca3  1  0.99999900  0.75000900  0.49999900  1
+  Mn  Mn4  1  0.50000100  0.99911300  0.50000100  1
+  Mn  Mn5  1  0.49999600  0.25088600  0.00000100  1
+  Mn  Mn6  1  0.49999800  0.49911500  0.49999400  1
+  Mn  Mn7  1  0.49999800  0.75088300  0.00000000  1
+  Se  Se8  1  0.27639800  0.25005900  0.25830500  1
+  Se  Se9  1  0.27639800  0.49995200  0.75830100  1
+  Se  Se10  1  0.27639400  0.75004800  0.25830600  1
+  Se  Se11  1  0.27640100  0.99993900  0.75830600  1
+  Se  Se12  1  0.72360500  0.75005000  0.74169800  1
+  Se  Se13  1  0.72360300  0.99994200  0.24169600  1
+  Se  Se14  1  0.72360500  0.25006000  0.74169900  1
+  Se  Se15  1  0.72360300  0.49995300  0.24169500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  0.00899485  0.00262506  0.00453674
+  Ca1  0.00899485  0.00262506  0.00453674
+  Ca2  -0.00899485  -0.00262506  -0.00453674
+  Ca3  -0.00899485  -0.00262506  -0.00453674
+  Mn4  -4.30153543  -1.25536262  -2.16957113
+  Mn5  -4.30153543  -1.25536262  -2.16957113
+  Mn6  4.30153543  1.25536262  2.16957113
+  Mn7  4.30153543  1.25536262  2.16957113
+  Se8  -0.01898912  -0.00554180  -0.00957757
+  Se9  0.01998855  0.00583347  0.01008165
+  Se10  0.01898912  0.00554180  0.00957757
+  Se11  -0.01898912  -0.00554180  -0.00957757
+  Se12  0.01898912  0.00554180  0.00957757
+  Se13  -0.01898912  -0.00554180  -0.00957757
+  Se14  -0.01898912  -0.00554180  -0.00957757
+  Se15  0.01898912  0.00554180  0.00957757

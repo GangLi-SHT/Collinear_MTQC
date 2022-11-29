@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Mn4As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.53670268
+_cell_length_b   9.21228201
+_cell_length_c   6.71519490
+_cell_angle_alpha   77.81427816
+_cell_angle_beta   74.74729975
+_cell_angle_gamma   90.05189572
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4As3
+_chemical_formula_sum   'Mn8 As6'
+_cell_volume   205.95582960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.99997200  0.49995800  0.00004000  1
+  Mn  Mn1  1  0.00005400  0.00009000  0.99990000  1
+  Mn  Mn2  1  0.43431500  0.28873600  0.13158800  1
+  Mn  Mn3  1  0.56563800  0.71115400  0.86848200  1
+  Mn  Mn4  1  0.21829400  0.16198500  0.56282400  1
+  Mn  Mn5  1  0.78177200  0.83790000  0.43713600  1
+  Mn  Mn6  1  0.34996900  0.54800600  0.29900300  1
+  Mn  Mn7  1  0.65002200  0.45211000  0.70103700  1
+  As  As8  1  0.06076100  0.27069600  0.87643200  1
+  As  As9  1  0.93926100  0.72947300  0.12349700  1
+  As  As10  1  0.18783500  0.65663400  0.62582500  1
+  As  As11  1  0.81210200  0.34340200  0.37426600  1
+  As  As12  1  0.36413400  0.01951100  0.27189200  1
+  As  As13  1  0.63586900  0.98034700  0.72807800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn0  0.00252947  -1.31843891  -0.01189678
+  Mn1  0.00532702  -2.77660640  -0.02505439
+  Mn2  0.00427961  -2.23066690  -0.02012816
+  Mn3  0.00427578  -2.22867077  -0.02011015
+  Mn4  -0.00541318  2.82151916  0.02545965
+  Mn5  -0.00540935  2.81952303  0.02544164
+  Mn6  -0.00578657  3.01614110  0.02721580
+  Mn7  -0.00578274  3.01414498  0.02719779
+  As8  -0.00000574  0.00299418  0.00002702
+  As9  -0.00000383  0.00199612  0.00001801
+  As10  0.00003447  -0.01796510  -0.00016211
+  As11  0.00003447  -0.01796510  -0.00016211
+  As12  0.00002298  -0.01197674  -0.00010807
+  As13  0.00002106  -0.01097867  -0.00009906

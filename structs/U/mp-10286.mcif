@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_KMnTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78157728
+_cell_length_b   8.56181384
+_cell_length_c   9.10172970
+_cell_angle_alpha   122.80255740
+_cell_angle_beta   74.92818419
+_cell_angle_gamma   108.14363686
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnTe2
+_chemical_formula_sum   'K4 Mn4 Te8'
+_cell_volume   543.01930304
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00754200  0.50066700  0.74854500  1
+  K  K1  1  0.00737300  0.50063300  0.24868600  1
+  K  K2  1  0.00524600  0.00249900  0.50005800  1
+  K  K3  1  0.00519600  0.00245600  0.00011200  1
+  Mn  Mn4  1  0.51558500  0.63323800  0.43840500  1
+  Mn  Mn5  1  0.51656800  0.12414100  0.18139600  1
+  Mn  Mn6  1  0.51601600  0.63318900  0.93819200  1
+  Mn  Mn7  1  0.51571100  0.12396300  0.68154200  1
+  Te  Te8  1  0.71815400  0.67729900  0.65938000  1
+  Te  Te9  1  0.71826400  0.67676800  0.15917000  1
+  Te  Te10  1  0.71829900  0.18235500  0.41145200  1
+  Te  Te11  1  0.71831000  0.18283600  0.91131500  1
+  Te  Te12  1  0.26217300  0.31476900  0.34223100  1
+  Te  Te13  1  0.26177000  0.31572900  0.84284200  1
+  Te  Te14  1  0.25708800  0.81496500  0.09341600  1
+  Te  Te15  1  0.25670500  0.81449800  0.59325800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  K0  -0.00097308  -0.00056980  -0.00033288
+  K1  0.00097308  0.00056980  0.00033288
+  Mn4  -4.43823151  -2.59885314  -1.51828197
+  Mn5  -4.43823151  -2.59885314  -1.51828197
+  Mn6  4.43823151  2.59885314  1.51828197
+  Mn7  4.43823151  2.59885314  1.51828197
+  Te10  -0.00097308  -0.00056980  -0.00033288
+  Te11  0.00097308  0.00056980  0.00033288
+  Te12  0.07687356  0.04501412  0.02629780
+  Te13  -0.07687356  -0.04501412  -0.02629780

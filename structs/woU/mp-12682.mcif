@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_NaMnTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45351945
+_cell_length_b   9.08848642
+_cell_length_c   13.35011645
+_cell_angle_alpha   82.66230304
+_cell_angle_beta   80.40637947
+_cell_angle_gamma   104.25217136
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnTe2
+_chemical_formula_sum   'Na4 Mn4 Te8'
+_cell_volume   508.28607636
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.98748200  0.95850200  0.98936000  1
+  Na  Na1  1  0.74937700  0.25531900  0.75020500  1
+  Na  Na2  1  0.24945400  0.75537400  0.25019600  1
+  Na  Na3  1  0.48744800  0.45842800  0.48936800  1
+  Mn  Mn4  1  0.43385200  0.62589700  0.75875400  1
+  Mn  Mn5  1  0.18182700  0.88397000  0.51532500  1
+  Mn  Mn6  1  0.68193300  0.38404400  0.01534000  1
+  Mn  Mn7  1  0.93388200  0.12593500  0.25874700  1
+  Te  Te8  1  0.54662900  0.89345600  0.81303100  1
+  Te  Te9  1  0.22251800  0.08499000  0.63506400  1
+  Te  Te10  1  0.72255800  0.58505300  0.13506100  1
+  Te  Te11  1  0.04667900  0.39351600  0.31298500  1
+  Te  Te12  1  0.98074200  0.59833500  0.63771100  1
+  Te  Te13  1  0.73110100  0.86709500  0.40087800  1
+  Te  Te14  1  0.23110400  0.36703600  0.90092500  1
+  Te  Te15  1  0.48074700  0.09838600  0.13771200  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Na0  0.00040683  0.00255665  0.00132778
+  Na1  -0.00054244  -0.00340886  -0.00177038
+  Na2  0.00054244  0.00340886  0.00177038
+  Na3  -0.00040683  -0.00255665  -0.00132778
+  Mn4  -0.54759435  -3.44124816  -1.78719555
+  Mn5  -0.54583141  -3.43016935  -1.78144183
+  Mn6  0.54583141  3.43016935  1.78144183
+  Mn7  0.54745874  3.44039594  1.78675296
+  Te8  0.04312407  0.27100468  0.14074497
+  Te9  0.04366651  0.27441355  0.14251535
+  Te10  -0.04366651  -0.27441355  -0.14251535
+  Te11  -0.04312407  -0.27100468  -0.14074497
+  Te12  -0.00433953  -0.02727091  -0.01416302
+  Te13  -0.00054244  -0.00340886  -0.00177038
+  Te14  0.00067805  0.00426108  0.00221297
+  Te15  0.00433953  0.02727091  0.01416302

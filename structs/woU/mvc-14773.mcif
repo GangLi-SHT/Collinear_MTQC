@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_CaFe2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22341700
+_cell_length_b   5.98080189
+_cell_length_c   13.46038370
+_cell_angle_alpha   90.72699037
+_cell_angle_beta   89.99989904
+_cell_angle_gamma   89.99885822
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaFe2S5
+_chemical_formula_sum   'Ca2 Fe4 S10'
+_cell_volume   339.97412111
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49999200  0.10825000  0.00237400  1
+  Ca  Ca1  1  0.00000500  0.88657900  0.49885300  1
+  Fe  Fe2  1  0.50000100  0.41798000  0.64934600  1
+  Fe  Fe3  1  0.00000100  0.58321300  0.84980600  1
+  Fe  Fe4  1  0.00000100  0.59426500  0.14932000  1
+  Fe  Fe5  1  0.49999900  0.41118200  0.35061200  1
+  S  S6  1  0.50001300  0.55185100  0.49999700  1
+  S  S7  1  0.99999200  0.45141500  0.99862900  1
+  S  S8  1  0.50000300  0.45862500  0.18477300  1
+  S  S9  1  0.00000000  0.52174400  0.31711300  1
+  S  S10  1  0.50000100  0.47707200  0.81512500  1
+  S  S11  1  0.00000000  0.52309800  0.68332800  1
+  S  S12  1  0.99999500  0.92738500  0.87980400  1
+  S  S13  1  0.50000000  0.07628100  0.61552800  1
+  S  S14  1  0.50000000  0.07049300  0.38439900  1
+  S  S15  1  0.99999600  0.94056600  0.12099300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  0.00000000  0.00006331  0.01000060
+  Fe2  0.00000153  -0.01028753  -1.62509797
+  Fe3  0.00000159  -0.01068637  -1.68810177
+  Fe4  -0.00000241  0.01621315  2.56115440
+  Fe5  -0.00000153  0.01031919  1.63009827
+  S6  0.00000000  0.00001899  0.00300018
+  S7  -0.00000002  0.00015194  0.02400145
+  S8  0.00000000  -0.00002532  -0.00400024
+  S9  0.00000004  -0.00024057  -0.03800229
+  S10  -0.00000003  0.00022158  0.03500211
+  S11  -0.00000003  0.00022791  0.03600217
+  S12  0.00000012  -0.00080401  -0.12700766
+  S13  0.00000011  -0.00074703  -0.11800711
+  S14  -0.00000011  0.00072171  0.11400687
+  S15  -0.00000019  0.00127249  0.20101212

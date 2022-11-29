@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Rb2MnSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46262595
+_cell_length_b   8.53939658
+_cell_length_c   13.52783432
+_cell_angle_alpha   91.48046933
+_cell_angle_beta   103.81518443
+_cell_angle_gamma   67.73417431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2MnSe2
+_chemical_formula_sum   'Rb8 Mn4 Se8'
+_cell_volume   669.16825442
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.73958600  0.61413800  0.09329300  1
+  Rb  Rb1  1  0.23958900  0.11413800  0.59329400  1
+  Rb  Rb2  1  0.26041100  0.38586200  0.90670700  1
+  Rb  Rb3  1  0.76041300  0.88586100  0.40670700  1
+  Rb  Rb4  1  0.59329700  0.55300200  0.73956100  1
+  Rb  Rb5  1  0.09330300  0.05300100  0.23956100  1
+  Rb  Rb6  1  0.40669500  0.44699900  0.26043900  1
+  Rb  Rb7  1  0.90670200  0.94699800  0.76043900  1
+  Mn  Mn8  1  0.75006400  0.49999500  0.49998700  1
+  Mn  Mn9  1  0.74993600  0.00000500  0.00001300  1
+  Mn  Mn10  1  0.25006000  0.99999600  0.99998600  1
+  Mn  Mn11  1  0.24994000  0.50000500  0.50001400  1
+  Se  Se12  1  0.95779400  0.44171400  0.35722200  1
+  Se  Se13  1  0.45779100  0.94171400  0.85722200  1
+  Se  Se14  1  0.85739400  0.24327700  0.95781900  1
+  Se  Se15  1  0.35739800  0.74327500  0.45781900  1
+  Se  Se16  1  0.14260300  0.75672400  0.04218000  1
+  Se  Se17  1  0.64260600  0.25672300  0.54218000  1
+  Se  Se18  1  0.04220800  0.55828600  0.64277800  1
+  Se  Se19  1  0.54220600  0.05828600  0.14277800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn8  1.58939182  -2.01485094  -3.18688678
+  Mn9  1.58939182  -2.01485094  -3.18688678
+  Mn10  -1.58939182  2.01485094  3.18688678
+  Mn11  -1.58939182  2.01485094  3.18688678

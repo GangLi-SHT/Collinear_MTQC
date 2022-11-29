@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_K2CoSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42743598
+_cell_length_b   8.15251420
+_cell_length_c   12.83360596
+_cell_angle_alpha   80.42456498
+_cell_angle_beta   75.50507632
+_cell_angle_gamma   66.78386098
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CoSe2
+_chemical_formula_sum   'K8 Co4 Se8'
+_cell_volume   596.61829271
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.14430700  0.61894800  0.09232600  1
+  K  K1  1  0.14441500  0.11893900  0.59232600  1
+  K  K2  1  0.85556000  0.38106600  0.90767600  1
+  K  K3  1  0.85566600  0.88104900  0.40767800  1
+  K  K4  1  0.35557800  0.55217800  0.73672000  1
+  K  K5  1  0.35561200  0.05217200  0.23672700  1
+  K  K6  1  0.64439700  0.44783100  0.26328000  1
+  K  K7  1  0.64443700  0.94782100  0.76327900  1
+  Co  Co8  1  0.24997600  0.50000800  0.49997200  1
+  Co  Co9  1  0.75002600  0.99999200  0.00002500  1
+  Co  Co10  1  0.25004500  0.00003000  0.99998000  1
+  Co  Co11  1  0.74997200  0.49996800  0.50001700  1
+  Se  Se12  1  0.89840200  0.56044800  0.64340000  1
+  Se  Se13  1  0.89792300  0.06044300  0.14344300  1
+  Se  Se14  1  0.10204300  0.43956600  0.35657500  1
+  Se  Se15  1  0.10159500  0.93953700  0.85658200  1
+  Se  Se16  1  0.60217500  0.75457900  0.04134400  1
+  Se  Se17  1  0.60169700  0.25458700  0.54133900  1
+  Se  Se18  1  0.39832400  0.24542400  0.95865000  1
+  Se  Se19  1  0.39784800  0.74541200  0.45866100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co8  1.79892273  -1.15820617  -1.82696818
+  Co9  1.79892273  -1.15820617  -1.82696818
+  Co10  -1.80048091  1.15920938  1.82855066
+  Co11  -1.79970182  1.15870778  1.82775942

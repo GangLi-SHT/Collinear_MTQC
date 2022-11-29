@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_LiFeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36427700
+_cell_length_b   6.74455978
+_cell_length_c   7.43911824
+_cell_angle_alpha   107.94459377
+_cell_angle_beta   90.00044053
+_cell_angle_gamma   90.00050727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeS2
+_chemical_formula_sum   'Li4 Fe4 S8'
+_cell_volume   303.78526310
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.11403300  0.33190300  0.59799500  1
+  Li  Li1  1  0.38597400  0.83189900  0.59800200  1
+  Li  Li2  1  0.61402800  0.16809300  0.40199500  1
+  Li  Li3  1  0.88597500  0.66810700  0.40200400  1
+  Fe  Fe4  1  0.16808200  0.17655900  0.12611400  1
+  Fe  Fe5  1  0.33191300  0.67654900  0.12611000  1
+  Fe  Fe6  1  0.66808000  0.32345300  0.87389400  1
+  Fe  Fe7  1  0.83192300  0.82344200  0.87389000  1
+  S  S8  1  0.30223500  0.32370100  0.89119600  1
+  S  S9  1  0.19776300  0.82370700  0.89119800  1
+  S  S10  1  0.80225300  0.17630000  0.10882200  1
+  S  S11  1  0.69774500  0.67630700  0.10882500  1
+  S  S12  1  0.73782300  0.98443300  0.64462500  1
+  S  S13  1  0.76217300  0.48442600  0.64461400  1
+  S  S14  1  0.23782800  0.51556500  0.35536300  1
+  S  S15  1  0.26217200  0.01555700  0.35535200  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  -0.00000001  0.00006601  -0.00297900
+  Li1  -0.00000001  0.00006601  -0.00297900
+  Li2  0.00000001  -0.00006601  0.00297900
+  Li3  0.00000001  -0.00006601  0.00297900
+  Fe4  -0.00001439  0.08628011  -3.89355808
+  Fe5  -0.00001439  0.08628011  -3.89355808
+  Fe6  0.00001439  -0.08628011  3.89355808
+  Fe7  0.00001439  -0.08628011  3.89355808
+  S8  -0.00000021  0.00127627  -0.05759408
+  S9  -0.00000021  0.00127627  -0.05759408
+  S10  0.00000021  -0.00127627  0.05759408
+  S11  0.00000021  -0.00127627  0.05759408
+  S12  0.00000074  -0.00442293  0.19959326
+  S13  0.00000074  -0.00442293  0.19959326
+  S14  -0.00000074  0.00442293  -0.19959326
+  S15  -0.00000074  0.00442293  -0.19959326

@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_BaFe2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44508085
+_cell_length_b   7.60371108
+_cell_length_c   7.59959730
+_cell_angle_alpha   106.46560577
+_cell_angle_beta   89.83224798
+_cell_angle_gamma   90.16904191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaFe2S3
+_chemical_formula_sum   'Ba2 Fe4 S6'
+_cell_volume   301.73917545
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.74895500  0.71547700  0.28443900  1
+  Ba  Ba1  1  0.25112400  0.28439500  0.71541100  1
+  Fe  Fe2  1  0.49974200  0.17671900  0.17659200  1
+  Fe  Fe3  1  0.50024400  0.82966100  0.82970400  1
+  Fe  Fe4  1  0.00005600  0.82546300  0.82549300  1
+  Fe  Fe5  1  0.99993600  0.16885900  0.16893200  1
+  S  S6  1  0.24885100  0.89136200  0.10827600  1
+  S  S7  1  0.75112000  0.10816500  0.89129600  1
+  S  S8  1  0.24845900  0.41981200  0.16312800  1
+  S  S9  1  0.74623300  0.58040900  0.83655500  1
+  S  S10  1  0.75150300  0.16300900  0.41978800  1
+  S  S11  1  0.25377700  0.83666900  0.58038700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Fe2  0.00608509  -0.15308332  -3.54332431
+  Fe3  0.00606946  -0.15269002  -3.53422071
+  Fe4  -0.00608509  0.15308332  3.54332431
+  Fe5  -0.00607293  0.15277742  3.53624373
+  S8  0.00000174  -0.00004370  -0.00101151
+  S9  -0.00000174  0.00004370  0.00101151
+  S10  0.00000174  -0.00004370  -0.00101151
+  S11  -0.00000174  0.00004370  0.00101151

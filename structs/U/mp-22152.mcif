@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_NaFeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23734114
+_cell_length_b   4.22596158
+_cell_length_c   14.17905773
+_cell_angle_alpha   89.93130388
+_cell_angle_beta   90.16980761
+_cell_angle_gamma   91.99739542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaFeAs
+_chemical_formula_sum   'Na4 Fe4 As4'
+_cell_volume   253.74659580
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99953000  0.49954900  0.17715500  1
+  Na  Na1  1  0.00106700  0.50044500  0.67703500  1
+  Na  Na2  1  0.50088600  0.00069400  0.32284700  1
+  Na  Na3  1  0.49925400  0.99966500  0.82284100  1
+  Fe  Fe4  1  0.99870800  0.99944900  0.49985800  1
+  Fe  Fe5  1  0.50043100  0.49994000  0.00013300  1
+  Fe  Fe6  1  0.00078900  0.00068700  0.99980900  1
+  Fe  Fe7  1  0.49892600  0.49894200  0.50023100  1
+  As  As8  1  0.49871900  0.99946700  0.10749600  1
+  As  As9  1  0.50076600  0.00040300  0.60750500  1
+  As  As10  1  0.00157300  0.50119900  0.39259600  1
+  As  As11  1  0.99935100  0.49956200  0.89249500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Fe4  -0.00514592  0.00220035  -3.48601328
+  Fe5  -0.00514740  0.00220098  -3.48701329
+  Fe6  0.00514740  -0.00220098  3.48701329
+  Fe7  0.00514592  -0.00220035  3.48601328
+  As8  -0.00000738  0.00000316  -0.00500002
+  As9  0.00000738  -0.00000316  0.00500002
+  As10  -0.00000738  0.00000316  -0.00500002
+  As11  0.00000738  -0.00000316  0.00500002

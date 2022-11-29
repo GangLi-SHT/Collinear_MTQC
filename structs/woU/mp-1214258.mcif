@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ca2MnSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.85323950
+_cell_length_b   5.17498270
+_cell_length_c   25.41327321
+_cell_angle_alpha   78.66387703
+_cell_angle_beta   70.20449670
+_cell_angle_gamma   56.54107087
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2MnSi2
+_chemical_formula_sum   'Ca4 Mn2 Si4'
+_cell_volume   294.53229143
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.28721200  0.99990700  0.23299200  1
+  Ca  Ca1  1  0.16000100  0.52723200  0.10053900  1
+  Ca  Ca2  1  0.71779200  0.99662700  0.76962700  1
+  Ca  Ca3  1  0.80697800  0.49240400  0.89887400  1
+  Mn  Mn4  1  0.98956800  0.49669300  0.00123900  1
+  Mn  Mn5  1  0.52485200  0.99681500  0.99175100  1
+  Si  Si6  1  0.54817600  0.00493000  0.65736300  1
+  Si  Si7  1  0.89941700  0.50106500  0.70800800  1
+  Si  Si8  1  0.45843100  0.99002800  0.34527900  1
+  Si  Si9  1  0.10757300  0.49429900  0.29432800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00052038  -0.00014407  0.00617679
+  Ca1  -0.00121422  -0.00033616  0.01441251
+  Ca2  -0.00008673  -0.00002401  0.00102947
+  Ca3  0.00060711  0.00016808  -0.00720626
+  Mn4  0.16470081  0.04559753  -1.95495428
+  Mn5  -0.23191678  -0.06420632  2.75278975
+  Si6  -0.00060711  -0.00016808  0.00720626
+  Si7  0.00034692  0.00009605  -0.00411786
+  Si8  -0.00043365  -0.00012006  0.00514733
+  Si9  -0.00008673  -0.00002401  0.00102947

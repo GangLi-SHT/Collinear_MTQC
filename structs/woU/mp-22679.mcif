@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba(MnSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71001074
+_cell_length_b   4.70967833
+_cell_length_c   6.74338694
+_cell_angle_alpha   110.47053431
+_cell_angle_beta   110.47355903
+_cell_angle_gamma   90.01773687
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(MnSn)2
+_chemical_formula_sum   'Ba1 Mn2 Sn2'
+_cell_volume   130.00000197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000700  0.99999500  0.00000100  1
+  Mn  Mn1  1  0.74977500  0.25022400  0.50000500  1
+  Mn  Mn2  1  0.25020600  0.74981800  0.49999900  1
+  Sn  Sn3  1  0.63144700  0.63139300  0.26286100  1
+  Sn  Sn4  1  0.36856600  0.36857100  0.73713500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn1  -0.02551077  -0.02537412  -3.66366296
+  Mn2  0.02550377  0.02536716  3.66265811

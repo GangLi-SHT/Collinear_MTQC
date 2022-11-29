@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_SrNi5As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90726257
+_cell_length_b   6.45639221
+_cell_length_c   11.73594571
+_cell_angle_alpha   90.11531461
+_cell_angle_beta   89.99986443
+_cell_angle_gamma   72.14851417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrNi5As3
+_chemical_formula_sum   'Sr2 Ni10 As6'
+_cell_volume   281.80591441
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.17028900  0.65786100  0.75001400  1
+  Sr  Sr1  1  0.82808300  0.34632600  0.24999300  1
+  Ni  Ni2  1  0.19245300  0.62109700  0.43351100  1
+  Ni  Ni3  1  0.80873300  0.37547000  0.94063200  1
+  Ni  Ni4  1  0.19233800  0.62107100  0.06614500  1
+  Ni  Ni5  1  0.80839800  0.37611000  0.55972400  1
+  Ni  Ni6  1  0.99986400  0.00074100  0.49247000  1
+  Ni  Ni7  1  0.00002300  0.00045900  0.00760900  1
+  Ni  Ni8  1  0.54723300  0.90592500  0.14578300  1
+  Ni  Ni9  1  0.45522300  0.08924700  0.85446100  1
+  Ni  Ni10  1  0.45499200  0.08969000  0.64543400  1
+  Ni  Ni11  1  0.54719300  0.90580400  0.35428700  1
+  As  As12  1  0.10570600  0.79059800  0.25001800  1
+  As  As13  1  0.88585300  0.22712900  0.74996200  1
+  As  As14  1  0.62836200  0.74433700  0.96516300  1
+  As  As15  1  0.62837600  0.74442700  0.53465500  1
+  As  As16  1  0.37326300  0.25207200  0.45906900  1
+  As  As17  1  0.37361600  0.25163700  0.04107100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ni2  -0.00002161  0.00007078  0.06300011
+  Ni3  0.00005076  -0.00016628  -0.14800025
+  Ni4  0.00002126  -0.00006966  -0.06200010
+  Ni5  -0.00005110  0.00016741  0.14900025
+  Ni6  0.00030763  -0.00100782  -0.89700152
+  Ni7  -0.00030763  0.00100782  0.89700152
+  Ni8  -0.00000206  0.00000674  0.00600001
+  Ni9  -0.00028739  0.00094153  0.83800142
+  Ni10  0.00028671  -0.00093928  -0.83600141
+  Ni11  0.00000206  -0.00000674  -0.00600001
+  As14  0.00000103  -0.00000337  -0.00300001
+  As15  -0.00000137  0.00000449  0.00400001
+  As16  -0.00000686  0.00002247  0.02000003
+  As17  0.00000652  -0.00002135  -0.01900003

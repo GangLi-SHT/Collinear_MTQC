@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mg(VS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80183394
+_cell_length_b   7.01694406
+_cell_length_c   7.32985705
+_cell_angle_alpha   62.52399273
+_cell_angle_beta   62.40209071
+_cell_angle_gamma   61.02090892
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(VS2)4
+_chemical_formula_sum   'Mg1 V4 S8'
+_cell_volume   258.24173389
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.49972800  0.49989800  0.49997700  1
+  V  V1  1  0.00048600  0.49947800  0.00081300  1
+  V  V2  1  0.50012700  0.00006700  0.99953600  1
+  V  V3  1  0.50036700  0.50047400  0.99956200  1
+  V  V4  1  0.99973500  0.99997100  0.00006100  1
+  S  S5  1  0.74187600  0.24905200  0.77053700  1
+  S  S6  1  0.76122800  0.75094500  0.22968100  1
+  S  S7  1  0.25819100  0.75119900  0.22901800  1
+  S  S8  1  0.75427700  0.26104500  0.23064000  1
+  S  S9  1  0.74309200  0.73641900  0.77720000  1
+  S  S10  1  0.25745200  0.26319200  0.22289300  1
+  S  S11  1  0.24543200  0.73890100  0.76948000  1
+  S  S12  1  0.23800900  0.24935900  0.77060300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  -0.00016770  -0.00026233  0.00819246
+  V1  -0.02976686  -0.04656287  1.45416230
+  V2  -0.03982890  -0.06230244  1.94571011
+  V3  -0.02976686  -0.04656287  1.45416230
+  V4  -0.04161072  -0.06508965  2.03275504
+  S5  0.00192856  0.00301675  -0.09421333
+  S6  0.00192856  0.00301675  -0.09421333
+  S7  0.00190759  0.00298396  -0.09318927
+  S8  0.00241070  0.00377094  -0.11776666
+  S9  0.00364749  0.00570559  -0.17818608
+  S10  0.00362653  0.00567280  -0.17716203
+  S11  0.00241070  0.00377094  -0.11776666
+  S12  0.00192856  0.00301675  -0.09421333

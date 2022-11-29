@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_VTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.58376500
+_cell_length_b   9.70480697
+_cell_length_c   9.76517928
+_cell_angle_alpha   80.24047755
+_cell_angle_beta   90.00003201
+_cell_angle_gamma   90.00079303
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VTe2
+_chemical_formula_sum   'V4 Te8'
+_cell_volume   334.71530375
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.50001500  0.26070300  0.73911900  1
+  V  V1  1  0.99997900  0.48908000  0.51113500  1
+  V  V2  1  0.00001700  0.98947200  0.01086300  1
+  V  V3  1  0.49999900  0.76076800  0.23887400  1
+  Te  Te4  1  0.00000100  0.71034600  0.04695600  1
+  Te  Te5  1  0.49995200  0.47247700  0.30421600  1
+  Te  Te6  1  0.50001800  0.97255500  0.80374600  1
+  Te  Te7  1  0.00001500  0.21023500  0.54712400  1
+  Te  Te8  1  0.50000800  0.53972800  0.70297300  1
+  Te  Te9  1  0.00000500  0.27772800  0.94590300  1
+  Te  Te10  1  0.99998700  0.77721700  0.44608200  1
+  Te  Te11  1  0.50000400  0.03969200  0.20300800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V0  -0.00000648  -0.73204236  -0.73128826
+  V1  -0.00000648  -0.73204236  -0.73128826
+  V2  0.00000651  0.73531332  0.73455586
+  V3  0.00000647  0.73073397  0.72998123
+  Te4  -0.00000035  -0.03990579  -0.03986469
+  Te5  0.00000014  0.01570064  0.01568447
+  Te6  -0.00000014  -0.01570064  -0.01568447
+  Te7  0.00000035  0.03990579  0.03986469
+  Te8  0.00000035  0.03990579  0.03986469
+  Te9  0.00000014  0.01570064  0.01568447
+  Te10  -0.00000014  -0.01570064  -0.01568447
+  Te11  -0.00000035  -0.03990579  -0.03986469

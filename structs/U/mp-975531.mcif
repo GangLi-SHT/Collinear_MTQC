@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_RbCr5Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08122927
+_cell_length_b   9.79917049
+_cell_length_c   10.61599091
+_cell_angle_alpha   104.04163499
+_cell_angle_beta   101.09167899
+_cell_angle_gamma   89.99269137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCr5Te8
+_chemical_formula_sum   'Rb1 Cr5 Te8'
+_cell_volume   403.69865044
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000100  0.49999900  0.00000000  1
+  Cr  Cr1  1  0.00000100  0.00000000  0.00000000  1
+  Cr  Cr2  1  0.34090700  0.01429200  0.68180000  1
+  Cr  Cr3  1  0.29577300  0.66898200  0.59135500  1
+  Cr  Cr4  1  0.70422900  0.33101800  0.40864600  1
+  Cr  Cr5  1  0.65909200  0.98570800  0.31820000  1
+  Te  Te6  1  0.42765900  0.83911600  0.85456400  1
+  Te  Te7  1  0.91170600  0.17118400  0.82365500  1
+  Te  Te8  1  0.82967300  0.50871300  0.65931700  1
+  Te  Te9  1  0.76076700  0.84244000  0.52180300  1
+  Te  Te10  1  0.23923100  0.15756100  0.47819600  1
+  Te  Te11  1  0.17032600  0.49128600  0.34068300  1
+  Te  Te12  1  0.08829400  0.82881600  0.17634500  1
+  Te  Te13  1  0.57234000  0.16088500  0.14543500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Rb0  0.00001113  0.00000003  -0.00699784
+  Cr1  -0.00555860  -0.00001571  3.49592257
+  Cr2  -0.00556813  -0.00001574  3.50192073
+  Cr3  -0.00558880  -0.00001580  3.51491672
+  Cr4  -0.00558880  -0.00001580  3.51491672
+  Cr5  -0.00556813  -0.00001574  3.50192073
+  Te6  0.00045302  0.00000128  -0.28491219
+  Te7  0.00045461  0.00000129  -0.28591188
+  Te8  0.00051819  0.00000146  -0.32589956
+  Te9  0.00040851  0.00000115  -0.25692082
+  Te10  0.00040851  0.00000115  -0.25692082
+  Te11  0.00051819  0.00000146  -0.32589956
+  Te12  0.00045461  0.00000129  -0.28591188
+  Te13  0.00045302  0.00000128  -0.28491219

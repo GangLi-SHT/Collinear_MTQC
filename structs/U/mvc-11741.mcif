@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ca(MnS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46842558
+_cell_length_b   7.47737164
+_cell_length_c   7.47241137
+_cell_angle_alpha   59.55528711
+_cell_angle_beta   59.91492190
+_cell_angle_gamma   59.61178327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(MnS2)4
+_chemical_formula_sum   'Ca1 Mn4 S8'
+_cell_volume   293.01134498
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00020400  0.99987300  0.99998100  1
+  Mn  Mn1  1  0.50020000  0.49985900  0.49995200  1
+  Mn  Mn2  1  0.49992600  0.49999800  0.00009300  1
+  Mn  Mn3  1  0.49994000  0.00003000  0.49993900  1
+  Mn  Mn4  1  0.99992100  0.50010400  0.50000500  1
+  S  S5  1  0.74192400  0.28971600  0.74222700  1
+  S  S6  1  0.74061100  0.74427200  0.28794800  1
+  S  S7  1  0.28735900  0.74414100  0.74093800  1
+  S  S8  1  0.73705400  0.73269900  0.73612500  1
+  S  S9  1  0.26263400  0.26745900  0.26394000  1
+  S  S10  1  0.25936900  0.25584000  0.71188600  1
+  S  S11  1  0.71273600  0.25569100  0.25899700  1
+  S  S12  1  0.25812400  0.71031800  0.25796900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00015235  -0.00022230  0.02218739
+  Mn1  -0.03148721  -0.04594502  4.58573043
+  Mn2  -0.02841258  -0.04145863  4.13794853
+  Mn3  -0.02835719  -0.04137780  4.12988039
+  Mn4  -0.02837104  -0.04139801  4.13189742
+  S5  0.00180046  0.00262716  -0.26221463
+  S6  0.00177276  0.00258674  -0.25818056
+  S7  0.00177276  0.00258674  -0.25818056
+  S8  0.00294305  0.00429440  -0.42862006
+  S9  0.00294305  0.00429440  -0.42862006
+  S10  0.00177276  0.00258674  -0.25818056
+  S11  0.00177276  0.00258674  -0.25818056
+  S12  0.00180046  0.00262716  -0.26221463

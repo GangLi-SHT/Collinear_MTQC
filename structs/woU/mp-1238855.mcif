@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_K(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45311312
+_cell_length_b   8.62132796
+_cell_length_c   11.14608685
+_cell_angle_alpha   69.29861951
+_cell_angle_beta   81.08466055
+_cell_angle_gamma   78.44610859
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(CrS2)2
+_chemical_formula_sum   'K2 Cr4 S8'
+_cell_volume   302.82461922
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50008200  0.25000400  0.74976500  1
+  K  K1  1  0.49993700  0.74996400  0.25021100  1
+  Cr  Cr2  1  0.24788300  0.14018000  0.36417400  1
+  Cr  Cr3  1  0.75209500  0.86027100  0.63540900  1
+  Cr  Cr4  1  0.24788200  0.64006600  0.86428600  1
+  Cr  Cr5  1  0.75206900  0.36002700  0.13568500  1
+  S  S6  1  0.65590500  0.83573100  0.85254500  1
+  S  S7  1  0.65586600  0.33553200  0.35278000  1
+  S  S8  1  0.34416400  0.16407500  0.14751700  1
+  S  S9  1  0.34411700  0.66432700  0.64740900  1
+  S  S10  1  0.16818700  0.56927700  0.09433100  1
+  S  S11  1  0.16827200  0.06922700  0.59423600  1
+  S  S12  1  0.83180800  0.43045200  0.90596100  1
+  S  S13  1  0.83173200  0.93086800  0.40568700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cr2  0.99777679  -1.32499552  -1.63966112
+  Cr3  1.00187107  -1.33043252  -1.64638931
+  Cr4  -0.99900507  1.32662662  1.64167957
+  Cr5  -0.99900507  1.32662662  1.64167957
+  S6  0.01146399  -0.01522358  -0.01883895
+  S7  -0.01146399  0.01522358  0.01883895
+  S8  0.01064514  -0.01413619  -0.01749331
+  S9  -0.01023571  0.01359249  0.01682049
+  S10  0.02129027  -0.02827237  -0.03498661
+  S11  -0.02088084  0.02772867  0.03431379
+  S12  0.02129027  -0.02827237  -0.03498661
+  S13  -0.02129027  0.02827237  0.03498661

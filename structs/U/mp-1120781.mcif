@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Ni3Se4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30396495
+_cell_length_b   7.36792323
+_cell_length_c   7.31786119
+_cell_angle_alpha   119.73064300
+_cell_angle_beta   119.45531381
+_cell_angle_gamma   90.36409156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni3Se4
+_chemical_formula_sum   'Ni6 Se8'
+_cell_volume   280.99124771
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.37511200  0.12499500  0.25003100  1
+  Ni  Ni1  1  0.87491600  0.12517000  0.24980400  1
+  Ni  Ni2  1  0.87512000  0.12494000  0.75008900  1
+  Ni  Ni3  1  0.49921300  0.50221300  0.00374900  1
+  Ni  Ni4  1  0.25057200  0.74789600  0.49632600  1
+  Ni  Ni5  1  0.87479300  0.62479200  0.74979000  1
+  Se  Se6  1  0.65342400  0.88185800  0.77247800  1
+  Se  Se7  1  0.11706600  0.34976200  0.23371700  1
+  Se  Se8  1  0.09636200  0.36792700  0.72715200  1
+  Se  Se9  1  0.63341200  0.90044800  0.26658400  1
+  Se  Se10  1  0.11779700  0.88394700  0.76952100  1
+  Se  Se11  1  0.63231200  0.36587000  0.73088100  1
+  Se  Se12  1  0.64078500  0.36774000  0.27414000  1
+  Se  Se13  1  0.10911600  0.88244200  0.22573800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ni0  -1.35614699  -1.36183706  -1.34904825
+  Ni1  -1.30753602  -1.31302213  -1.30069173
+  Ni2  -1.37797233  -1.38375397  -1.37075934
+  Ni3  1.50197991  1.50828186  1.49411781
+  Ni4  1.50297198  1.50927809  1.49510468
+  Ni5  1.29563129  1.30106745  1.28884931
+  Se6  0.03174594  0.03187914  0.03157977
+  Se7  0.13194407  0.13249768  0.13125341
+  Se8  0.03174594  0.03187914  0.03157977
+  Se9  0.13194407  0.13249768  0.13125341
+  Se10  0.03373006  0.03387159  0.03355350
+  Se11  0.03373006  0.03387159  0.03355350
+  Se12  0.02976182  0.02988669  0.02960603
+  Se13  0.02976182  0.02988669  0.02960603

@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Ca(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53407227
+_cell_length_b   7.53405685
+_cell_length_c   7.53406000
+_cell_angle_alpha   60.00061837
+_cell_angle_beta   60.00061627
+_cell_angle_gamma   60.00064837
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(CrS2)2
+_chemical_formula_sum   'Ca2 Cr4 S8'
+_cell_volume   302.39801218
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000100  0.00000000  0.99999900  1
+  Ca  Ca1  1  0.75000000  0.75000000  0.74999900  1
+  Cr  Cr2  1  0.37500000  0.37499900  0.37500000  1
+  Cr  Cr3  1  0.37500000  0.37500000  0.87500000  1
+  Cr  Cr4  1  0.37499700  0.87500300  0.37500000  1
+  Cr  Cr5  1  0.87500100  0.37499900  0.37500100  1
+  S  S6  1  0.14360200  0.14360200  0.14360100  1
+  S  S7  1  0.60639800  0.60639800  0.18080600  1
+  S  S8  1  0.18080600  0.60639800  0.60639800  1
+  S  S9  1  0.60639900  0.18080500  0.60639800  1
+  S  S10  1  0.56919400  0.14360100  0.14360200  1
+  S  S11  1  0.14360100  0.56919500  0.14360100  1
+  S  S12  1  0.60639800  0.60639800  0.60639900  1
+  S  S13  1  0.14360200  0.14360100  0.56919400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  0.00000000  0.00000001  0.00199999
+  Ca1  0.00000000  0.00000001  0.00199999
+  Cr2  0.00001274  0.00001608  3.19098559
+  Cr3  0.00001274  0.00001608  3.19098559
+  Cr4  0.00001274  0.00001608  3.19098559
+  Cr5  0.00001274  0.00001608  3.19098559
+  S6  -0.00000054  -0.00000069  -0.13599939
+  S7  -0.00000054  -0.00000069  -0.13599939
+  S8  -0.00000054  -0.00000069  -0.13599939
+  S9  -0.00000054  -0.00000069  -0.13599939
+  S10  -0.00000054  -0.00000069  -0.13599939
+  S11  -0.00000054  -0.00000069  -0.13599939
+  S12  -0.00000054  -0.00000069  -0.13599939
+  S13  -0.00000054  -0.00000069  -0.13599939

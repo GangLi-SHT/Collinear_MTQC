@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Na(V3S4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69789506
+_cell_length_b   9.49221892
+_cell_length_c   9.51952571
+_cell_angle_alpha   120.34253885
+_cell_angle_beta   89.89309955
+_cell_angle_gamma   89.96601134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(V3S4)2
+_chemical_formula_sum   'Na1 V6 S8'
+_cell_volume   288.37487766
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.49623200  0.02483900  0.96361700  1
+  V  V1  1  0.25012500  0.64837000  0.52037200  1
+  V  V2  1  0.74854000  0.13831700  0.65915600  1
+  V  V3  1  0.74989900  0.52079900  0.87205600  1
+  V  V4  1  0.25107000  0.86562900  0.35367700  1
+  V  V5  1  0.25187500  0.48483700  0.14266500  1
+  V  V6  1  0.74995600  0.33924000  0.47475700  1
+  S  S7  1  0.24946800  0.33576400  0.66832900  1
+  S  S8  1  0.75082300  0.66995500  0.33953400  1
+  S  S9  1  0.24992800  0.69112800  0.04355700  1
+  S  S10  1  0.25147300  0.33783500  0.30851300  1
+  S  S11  1  0.24685200  0.95775800  0.64967100  1
+  S  S12  1  0.75346500  0.31554800  0.96310700  1
+  S  S13  1  0.74974100  0.63499400  0.68845400  1
+  S  S14  1  0.75055400  0.03498800  0.35253500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Na0  0.00000093  -0.00000269  -0.00100136
+  V1  0.00240772  -0.00692637  -2.58149543
+  V2  0.00238064  -0.00684845  -2.55245611
+  V3  0.00183708  -0.00528478  -1.96966699
+  V4  -0.00180626  0.00519612  1.93662225
+  V5  -0.00234795  0.00675442  2.51740865
+  V6  -0.00179879  0.00517462  1.92861140
+  S7  -0.00001494  0.00004299  0.01602169
+  S8  0.00002148  -0.00006179  -0.02303118
+  S9  -0.00001027  0.00002955  0.01101491
+  S10  0.00004763  -0.00013702  -0.05106915
+  S11  -0.00001961  0.00005642  0.02102847
+  S12  0.00001027  -0.00002955  -0.01101491
+  S13  -0.00003456  0.00009941  0.03705017
+  S14  0.00004857  -0.00013971  -0.05207051

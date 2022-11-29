@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Rb2MnS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13982980
+_cell_length_b   8.19278019
+_cell_length_c   13.06702610
+_cell_angle_alpha   81.78095052
+_cell_angle_beta   76.41395011
+_cell_angle_gamma   67.99578314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2MnS2
+_chemical_formula_sum   'Rb8 Mn4 S8'
+_cell_volume   591.26625532
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.64786100  0.60870200  0.09557400  1
+  Rb  Rb1  1  0.64785900  0.10870100  0.59557300  1
+  Rb  Rb2  1  0.35214100  0.39129800  0.90442700  1
+  Rb  Rb3  1  0.35213800  0.89129800  0.40442600  1
+  Rb  Rb4  1  0.85213700  0.55230300  0.74342800  1
+  Rb  Rb5  1  0.85213000  0.05230400  0.24342700  1
+  Rb  Rb6  1  0.14787000  0.44769700  0.25657200  1
+  Rb  Rb7  1  0.14786300  0.94769700  0.75657200  1
+  Mn  Mn8  1  0.74999600  0.50000800  0.50000200  1
+  Mn  Mn9  1  0.25000500  0.99999200  0.99999900  1
+  Mn  Mn10  1  0.74999600  0.00000800  0.00000100  1
+  Mn  Mn11  1  0.25000400  0.49999100  0.49999800  1
+  S  S12  1  0.40197500  0.55619600  0.63976600  1
+  S  S13  1  0.40197400  0.05619600  0.13976600  1
+  S  S14  1  0.59802700  0.44380400  0.36023400  1
+  S  S15  1  0.59802600  0.94380400  0.86023500  1
+  S  S16  1  0.09798300  0.76223300  0.04179200  1
+  S  S17  1  0.09798200  0.26223200  0.54179200  1
+  S  S18  1  0.90201700  0.23776800  0.95820800  1
+  S  S19  1  0.90201600  0.73776700  0.45820700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn8  3.02889248  -1.96988872  -3.14028599
+  Mn9  3.02889248  -1.96988872  -3.14028599
+  Mn10  -3.02889248  1.96988872  3.14028599
+  Mn11  -3.02889248  1.96988872  3.14028599

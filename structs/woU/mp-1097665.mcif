@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_MgCo2Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.48986574
+_cell_length_b   10.31762479
+_cell_length_c   10.31750022
+_cell_angle_alpha   61.54772999
+_cell_angle_beta   117.40785093
+_cell_angle_gamma   117.40765999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCo2Si
+_chemical_formula_sum   'Mg1 Co2 Si1'
+_cell_volume   749.96768201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99986600  0.99999800  0.99999800  1
+  Co  Co1  1  0.71796800  0.00000200  0.00000300  1
+  Co  Co2  1  0.28211300  0.99999300  0.99999300  1
+  Si  Si3  1  0.50005300  0.00000700  0.00000600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  -0.00839282  -0.00000137  -0.00891170
+  Co1  -1.45195756  -0.00023694  -1.54172366
+  Co2  1.65898041  0.00027073  1.76154553
+  Si3  -0.04289663  -0.00000700  -0.04554868

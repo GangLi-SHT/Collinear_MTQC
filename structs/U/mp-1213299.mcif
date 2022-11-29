@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_CsFe2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32957275
+_cell_length_b   8.57457836
+_cell_length_c   8.50936338
+_cell_angle_alpha   103.89949038
+_cell_angle_beta   90.10996200
+_cell_angle_gamma   90.05732189
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsFe2Te3
+_chemical_formula_sum   'Cs2 Fe4 Te6'
+_cell_volume   448.30781197
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25001800  0.33194300  0.66788600  1
+  Cs  Cs1  1  0.75001300  0.66804400  0.33208700  1
+  Fe  Fe2  1  0.00062000  0.14225800  0.14239800  1
+  Fe  Fe3  1  0.99937700  0.85787600  0.85775200  1
+  Fe  Fe4  1  0.50052100  0.85757500  0.85787200  1
+  Fe  Fe5  1  0.49946800  0.14230400  0.14198900  1
+  Te  Te6  1  0.25010600  0.88045700  0.12055200  1
+  Te  Te7  1  0.74990500  0.11955100  0.87945100  1
+  Te  Te8  1  0.25034400  0.38993500  0.15957600  1
+  Te  Te9  1  0.74996600  0.61005600  0.84040500  1
+  Te  Te10  1  0.24949800  0.84022500  0.60916800  1
+  Te  Te11  1  0.75016500  0.15977500  0.39086400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Fe2  -0.00341236  0.02609070  -3.56964770
+  Fe3  -0.00341236  0.02609070  -3.56964770
+  Fe4  0.00341140  -0.02608340  3.56864948
+  Fe5  0.00341331  -0.02609799  3.57064593
+  Te8  0.00000095  -0.00000730  0.00099822
+  Te9  -0.00000095  0.00000730  -0.00099822
+  Te10  -0.00000095  0.00000730  -0.00099822
+  Te11  0.00000095  -0.00000730  0.00099822

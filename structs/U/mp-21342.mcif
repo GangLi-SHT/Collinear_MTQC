@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_V3Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27602757
+_cell_length_b   5.27536572
+_cell_length_c   5.27078556
+_cell_angle_alpha   89.95836719
+_cell_angle_beta   89.92246292
+_cell_angle_gamma   89.91753437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3Sn
+_chemical_formula_sum   'V6 Sn2'
+_cell_volume   146.70131753
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.74971000  0.00199500  0.49774800  1
+  V  V1  1  0.00210300  0.49770200  0.74992200  1
+  V  V2  1  0.49802100  0.75028500  0.00222900  1
+  V  V3  1  0.25027900  0.99799900  0.50227000  1
+  V  V4  1  0.99787200  0.50232600  0.25006300  1
+  V  V5  1  0.50198700  0.24970200  0.99776800  1
+  Sn  Sn6  1  0.50003000  0.49999400  0.50000300  1
+  Sn  Sn7  1  0.99999900  0.99999700  0.99999700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V0  0.00179038  -2.48700242  0.00090112
+  V1  0.00178606  -2.48100242  0.00089895
+  V2  0.00179038  -2.48700242  0.00090112
+  V3  -0.00179038  2.48700242  -0.00090112
+  V4  -0.00178606  2.48100242  -0.00089895
+  V5  -0.00179038  2.48700242  -0.00090112

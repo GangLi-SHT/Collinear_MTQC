@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ca(VS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96573695
+_cell_length_b   7.09402386
+_cell_length_c   6.96153313
+_cell_angle_alpha   70.36418658
+_cell_angle_beta   107.95363050
+_cell_angle_gamma   69.98429550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(VS2)2
+_chemical_formula_sum   'Ca2 V4 S8'
+_cell_volume   267.35131090
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49902100  0.00007700  0.49868900  1
+  Ca  Ca1  1  0.75100800  0.49994300  0.25120800  1
+  V  V2  1  0.12502100  0.24997300  0.87498100  1
+  V  V3  1  0.12494300  0.74992000  0.37498200  1
+  V  V4  1  0.62502000  0.25000800  0.87513900  1
+  V  V5  1  0.12498100  0.75006500  0.87497400  1
+  S  S6  1  0.97715800  0.17849200  0.16351300  1
+  S  S7  1  0.34169000  0.82184400  0.15537500  1
+  S  S8  1  0.83620600  0.82082800  0.02212300  1
+  S  S9  1  0.27300700  0.32144800  0.58658600  1
+  S  S10  1  0.40651500  0.32204200  0.09272800  1
+  S  S11  1  0.90834800  0.67799200  0.59471300  1
+  S  S12  1  0.84354900  0.17798000  0.65724700  1
+  S  S13  1  0.41353300  0.67938800  0.72774100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V2  -0.27600958  -0.00602818  -1.76827668
+  V3  -0.27617137  -0.00603171  -1.76931318
+  V4  0.27228846  0.00594691  1.74443707
+  V5  0.27067059  0.00591158  1.73407203
+  S6  0.00048536  0.00001060  0.00310951
+  S7  0.00048536  0.00001060  0.00310951
+  S8  -0.00080894  -0.00001767  -0.00518252
+  S9  0.00064715  0.00001413  0.00414602
+  S10  -0.00080894  -0.00001767  -0.00518252
+  S11  0.00048536  0.00001060  0.00310951
+  S12  -0.00080894  -0.00001767  -0.00518252
+  S13  -0.00080894  -0.00001767  -0.00518252

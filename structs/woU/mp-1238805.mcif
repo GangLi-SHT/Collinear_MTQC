@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Na(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34915978
+_cell_length_b   7.34916006
+_cell_length_c   7.34916000
+_cell_angle_alpha   60.00000028
+_cell_angle_beta   59.99999900
+_cell_angle_gamma   59.99999801
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(CrS2)2
+_chemical_formula_sum   'Na2 Cr4 S8'
+_cell_volume   280.67135515
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.50000000  1
+  Na  Na1  1  0.25000000  0.25000000  0.25000000  1
+  Cr  Cr2  1  0.87500000  0.87500000  0.87500000  1
+  Cr  Cr3  1  0.87500000  0.87500000  0.37500000  1
+  Cr  Cr4  1  0.87500000  0.37500000  0.87500000  1
+  Cr  Cr5  1  0.37500000  0.87500000  0.87500000  1
+  S  S6  1  0.64435900  0.64435900  0.64435900  1
+  S  S7  1  0.10564100  0.10564100  0.68307700  1
+  S  S8  1  0.68307700  0.10564100  0.10564100  1
+  S  S9  1  0.10564100  0.68307700  0.10564100  1
+  S  S10  1  0.06692300  0.64435900  0.64435900  1
+  S  S11  1  0.64435900  0.06692300  0.64435900  1
+  S  S12  1  0.10564100  0.10564100  0.10564100  1
+  S  S13  1  0.64435900  0.64435900  0.06692300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Na0  0.00000000  0.00000000  0.00200000
+  Na1  0.00000000  0.00000000  0.00200000
+  Cr2  0.00000000  0.00000000  2.78500000
+  Cr3  0.00000000  0.00000000  2.78300000
+  Cr4  0.00000000  0.00000000  2.77300000
+  Cr5  0.00000000  0.00000000  2.77700000
+  S6  0.00000000  0.00000000  -0.17700000
+  S7  0.00000000  0.00000000  -0.17900000
+  S8  0.00000000  0.00000000  -0.17900000
+  S9  0.00000000  0.00000000  -0.18000000
+  S10  0.00000000  0.00000000  -0.17900000
+  S11  0.00000000  0.00000000  -0.18000000
+  S12  0.00000000  0.00000000  -0.17700000
+  S13  0.00000000  0.00000000  -0.17900000

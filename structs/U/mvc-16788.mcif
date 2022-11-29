@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Ca(MnS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50436616
+_cell_length_b   7.61939133
+_cell_length_c   7.61939183
+_cell_angle_alpha   61.46796510
+_cell_angle_beta   60.49185014
+_cell_angle_gamma   60.49188826
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(MnS2)2
+_chemical_formula_sum   'Ca2 Mn4 S8'
+_cell_volume   313.68125659
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca1  1  0.00000000  0.50000000  0.50000000  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn3  1  0.50000000  0.00000000  0.00000000  1
+  Mn  Mn4  1  0.00000000  0.50000000  0.00000000  1
+  Mn  Mn5  1  0.50000000  0.49999900  0.50000000  1
+  S  S6  1  0.74199600  0.29726700  0.21873900  1
+  S  S7  1  0.28126300  0.73202900  0.23203000  1
+  S  S8  1  0.74199600  0.71873800  0.79726700  1
+  S  S9  1  0.24535900  0.26795600  0.76795600  1
+  S  S10  1  0.25800300  0.28126200  0.20273300  1
+  S  S11  1  0.71873800  0.26797000  0.76797100  1
+  S  S12  1  0.75464100  0.73204400  0.23204400  1
+  S  S13  1  0.25800400  0.70273400  0.78126100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00017190  -0.00008081  0.01912236
+  Ca1  -0.00017190  -0.00008081  0.01912236
+  Mn2  -0.03692300  -0.01735662  4.10728131
+  Mn3  -0.04155534  -0.01953417  4.62257855
+  Mn4  -0.03691395  -0.01735237  4.10627487
+  Mn5  -0.04154629  -0.01952992  4.62157211
+  S6  0.00234331  0.00110154  -0.26066794
+  S7  0.00094999  0.00044657  -0.10567619
+  S8  0.00234331  0.00110154  -0.26066794
+  S9  0.00094999  0.00044657  -0.10567619
+  S10  0.00234331  0.00110154  -0.26066794
+  S11  0.00094999  0.00044657  -0.10567619
+  S12  0.00095904  0.00045082  -0.10668263
+  S13  0.00234331  0.00110154  -0.26066794

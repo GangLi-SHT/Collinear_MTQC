@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ca(MnS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84132002
+_cell_length_b   8.10601401
+_cell_length_c   6.84050901
+_cell_angle_alpha   65.03735127
+_cell_angle_beta   89.99368482
+_cell_angle_gamma   65.03116561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(MnS2)2
+_chemical_formula_sum   'Ca2 Mn4 S8'
+_cell_volume   304.36293180
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000500  0.99999300  0.50000400  1
+  Ca  Ca1  1  0.75006300  0.50000800  0.24992800  1
+  Mn  Mn2  1  0.12499100  0.74997700  0.87502200  1
+  Mn  Mn3  1  0.12497700  0.74999100  0.37502500  1
+  Mn  Mn4  1  0.62497900  0.25001400  0.87501200  1
+  Mn  Mn5  1  0.12498400  0.25002400  0.87499400  1
+  S  S6  1  0.90023600  0.19943700  0.12892100  1
+  S  S7  1  0.32840000  0.80046000  0.09969900  1
+  S  S8  1  0.87105700  0.80059300  0.09975000  1
+  S  S9  1  0.34979000  0.30053900  0.62107300  1
+  S  S10  1  0.34968100  0.30049800  0.07839600  1
+  S  S11  1  0.92159700  0.69947000  0.65034000  1
+  S  S12  1  0.90029000  0.19956500  0.67160400  1
+  S  S13  1  0.37895100  0.69943100  0.65023400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn2  0.00014811  0.00011943  -3.60205041
+  Mn3  0.00014811  0.00011943  -3.60205041
+  Mn4  -0.00014811  -0.00011943  3.60205041
+  Mn5  -0.00014811  -0.00011943  3.60205041
+  S6  0.00000226  0.00000182  -0.05500077
+  S7  -0.00000226  -0.00000182  0.05500077
+  S8  -0.00000226  -0.00000182  0.05500077
+  S9  0.00000226  0.00000182  -0.05500077
+  S10  0.00000226  0.00000182  -0.05500077
+  S11  -0.00000226  -0.00000182  0.05500077
+  S12  0.00000226  0.00000182  -0.05500077
+  S13  -0.00000226  -0.00000182  0.05500077

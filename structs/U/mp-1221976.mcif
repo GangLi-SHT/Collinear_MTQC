@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_MgMn3Te4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47780390
+_cell_length_b   6.50779433
+_cell_length_c   13.80228430
+_cell_angle_alpha   76.33713513
+_cell_angle_beta   76.39240311
+_cell_angle_gamma   89.94868750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMn3Te4
+_chemical_formula_sum   'Mg2 Mn6 Te8'
+_cell_volume   548.59483349
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50003200  0.50003800  0.99997700  1
+  Mg  Mg1  1  0.00003300  0.00003800  0.99997700  1
+  Mn  Mn2  1  0.24998500  0.24997400  0.50003200  1
+  Mn  Mn3  1  0.12531900  0.62525500  0.74919200  1
+  Mn  Mn4  1  0.37460500  0.87461600  0.25072800  1
+  Mn  Mn5  1  0.74998400  0.74997300  0.50003300  1
+  Mn  Mn6  1  0.62531400  0.12525700  0.74919500  1
+  Mn  Mn7  1  0.87460100  0.37461500  0.25072800  1
+  Te  Te8  1  0.43787700  0.93787800  0.62431600  1
+  Te  Te9  1  0.93787600  0.43787800  0.62431700  1
+  Te  Te10  1  0.06211800  0.06215400  0.37573500  1
+  Te  Te11  1  0.56212000  0.56215300  0.37573500  1
+  Te  Te12  1  0.68705400  0.18708200  0.12583300  1
+  Te  Te13  1  0.18705500  0.68708300  0.12583300  1
+  Te  Te14  1  0.81301300  0.81300500  0.87418400  1
+  Te  Te15  1  0.31301200  0.31300500  0.87418400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn2  1.14410816  1.14904358  -4.87143743
+  Mn3  1.14485545  1.14979410  -4.87461930
+  Mn4  1.14485545  1.14979410  -4.87461930
+  Mn5  -1.14410816  -1.14904358  4.87143743
+  Mn6  -1.14485545  -1.14979410  4.87461930
+  Mn7  -1.14485545  -1.14979410  4.87461930

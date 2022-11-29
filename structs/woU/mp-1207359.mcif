@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CsMnSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15872166
+_cell_length_b   4.15872147
+_cell_length_c   7.77363900
+_cell_angle_alpha   105.51488436
+_cell_angle_beta   105.51488365
+_cell_angle_gamma   89.99999881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMnSe2
+_chemical_formula_sum   'Cs1 Mn1 Se2'
+_cell_volume   124.45404802
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn1  1  0.75000000  0.25000000  0.50000000  1
+  Se  Se2  1  0.33904000  0.33904000  0.67808000  1
+  Se  Se3  1  0.66096000  0.66096000  0.32192000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cs0  0.00000000  0.00000000  0.00700000
+  Mn1  0.00000000  0.00000000  3.74700000
+  Se2  0.00000000  0.00000000  -0.05400000
+  Se3  0.00000000  0.00000000  -0.05400000

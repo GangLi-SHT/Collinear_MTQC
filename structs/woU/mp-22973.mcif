@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaMnBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51451300
+_cell_length_b   4.51451400
+_cell_length_c   7.70520500
+_cell_angle_alpha   89.99697278
+_cell_angle_beta   89.99986962
+_cell_angle_gamma   90.00010153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnBi
+_chemical_formula_sum   'Na2 Mn2 Bi2'
+_cell_volume   157.03848961
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.49999900  0.65669700  1
+  Na  Na1  1  0.49999900  0.99999900  0.34330000  1
+  Mn  Mn2  1  0.00000000  0.99999900  0.99999900  1
+  Mn  Mn3  1  0.49999900  0.50000000  0.99999800  1
+  Bi  Bi4  1  0.00000100  0.49998600  0.22240400  1
+  Bi  Bi5  1  0.50000100  0.00001800  0.77760100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn2  0.00000448  0.00010164  -3.83900000
+  Mn3  -0.00000449  -0.00010167  3.84000000
+  Bi4  0.00000000  0.00000003  -0.00100000
+  Bi5  0.00000000  0.00000003  -0.00100000

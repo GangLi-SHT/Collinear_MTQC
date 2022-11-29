@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Sr(FeSb3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44509246
+_cell_length_b   8.49222263
+_cell_length_c   8.44925364
+_cell_angle_alpha   70.17896778
+_cell_angle_beta   70.84983787
+_cell_angle_gamma   109.19603114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(FeSb3)4
+_chemical_formula_sum   'Sr1 Fe4 Sb12'
+_cell_volume   467.86667075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000200  0.00000300  0.99999700  1
+  Fe  Fe1  1  0.49997800  0.49997500  0.50003600  1
+  Fe  Fe2  1  0.49999800  0.99999400  0.99999900  1
+  Fe  Fe3  1  0.99998700  0.99998800  0.50000600  1
+  Fe  Fe4  1  0.00001900  0.50000800  0.99997600  1
+  Sb  Sb5  1  0.19528900  0.85040700  0.65290700  1
+  Sb  Sb6  1  0.80471400  0.14960100  0.34708900  1
+  Sb  Sb7  1  0.50313600  0.85112500  0.34439000  1
+  Sb  Sb8  1  0.49686800  0.14887600  0.65561000  1
+  Sb  Sb9  1  0.85254900  0.65697200  0.49611700  1
+  Sb  Sb10  1  0.14745300  0.34303200  0.50387800  1
+  Sb  Sb11  1  0.84729900  0.34301400  0.80421700  1
+  Sb  Sb12  1  0.15270300  0.65699300  0.19577700  1
+  Sb  Sb13  1  0.34611200  0.49780000  0.84881900  1
+  Sb  Sb14  1  0.65389100  0.50220600  0.15118100  1
+  Sb  Sb15  1  0.65378700  0.80561300  0.84823100  1
+  Sb  Sb16  1  0.34621500  0.19439300  0.15177000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Sr0  -0.00099250  -0.00099880  0.00099663
+  Fe1  3.26235915  3.28306244  -3.27592037
+  Fe2  3.20777146  3.22812832  -3.22110576
+  Fe3  -3.24747160  -3.26808041  3.26097093
+  Fe4  -3.23258405  -3.25309838  3.24602149
+  Sb5  0.00794003  0.00799042  -0.00797303
+  Sb6  0.00794003  0.00799042  -0.00797303
+  Sb7  -0.01091754  -0.01098682  0.01096292
+  Sb8  -0.01091754  -0.01098682  0.01096292
+  Sb11  0.00099250  0.00099880  -0.00099663
+  Sb12  0.00099250  0.00099880  -0.00099663
+  Sb13  0.00992504  0.00998802  -0.00996629
+  Sb14  0.00992504  0.00998802  -0.00996629
+  Sb15  -0.01091754  -0.01098682  0.01096292
+  Sb16  -0.01091754  -0.01098682  0.01096292

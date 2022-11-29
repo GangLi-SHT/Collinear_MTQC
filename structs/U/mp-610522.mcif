@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Mn2As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09099300
+_cell_length_b   4.09080500
+_cell_length_c   6.80263601
+_cell_angle_alpha   90.00476754
+_cell_angle_beta   90.00362048
+_cell_angle_gamma   90.00033607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2As
+_chemical_formula_sum   'Mn4 As2'
+_cell_volume   113.84520576
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.49999200  0.50000800  0.99996900  1
+  Mn  Mn1  1  0.00000800  0.99998900  0.99998500  1
+  Mn  Mn2  1  0.00000700  0.49999900  0.66036700  1
+  Mn  Mn3  1  0.50000600  0.00002400  0.34308100  1
+  As  As4  1  0.49998500  0.99998300  0.72843300  1
+  As  As5  1  0.00000100  0.49999800  0.26816400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn0  0.00013971  0.00018250  4.28100002
+  Mn1  0.00013971  0.00018250  4.28100002
+  Mn2  -0.00015090  -0.00019712  -4.62400002
+  Mn3  0.00014535  0.00018988  4.45400002
+  As4  -0.00000212  -0.00000277  -0.06500000
+  As5  -0.00000069  -0.00000090  -0.02100000

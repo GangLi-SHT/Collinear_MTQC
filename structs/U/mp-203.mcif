@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NiTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05352974
+_cell_length_b   5.97058451
+_cell_length_c   4.03875535
+_cell_angle_alpha   89.93113143
+_cell_angle_beta   120.10595485
+_cell_angle_gamma   89.92928460
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiTe
+_chemical_formula_sum   'Ni2 Te2'
+_cell_volume   84.55950333
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.99937800  0.49995000  0.99950800  1
+  Ni  Ni1  1  0.00091300  0.00003500  0.00071900  1
+  Te  Te2  1  0.66683500  0.24997200  0.33384600  1
+  Te  Te3  1  0.33287500  0.75004400  0.66592700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ni0  0.00137643  -1.37100147  0.00029105
+  Ni1  -0.00137442  1.36900147  -0.00029062

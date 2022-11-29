@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_K(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82834481
+_cell_length_b   6.75303663
+_cell_length_c   8.62516292
+_cell_angle_alpha   66.90567179
+_cell_angle_beta   79.48249962
+_cell_angle_gamma   89.96327118
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(CrS2)2
+_chemical_formula_sum   'K2 Cr4 S8'
+_cell_volume   306.07949764
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.31059700  0.50209900  0.99568500  1
+  K  K1  1  0.68936100  0.99778500  0.00424000  1
+  Cr  Cr2  1  0.50007600  0.24977200  0.50024900  1
+  Cr  Cr3  1  0.99995800  0.02210600  0.49996000  1
+  Cr  Cr4  1  0.00011500  0.47798300  0.49991500  1
+  Cr  Cr5  1  0.49996500  0.75012800  0.49988200  1
+  S  S6  1  0.12326300  0.15707000  0.68562200  1
+  S  S7  1  0.11357600  0.67004300  0.65990000  1
+  S  S8  1  0.87663700  0.34292100  0.31441800  1
+  S  S9  1  0.88640400  0.83011900  0.34001000  1
+  S  S10  1  0.61980900  0.91065600  0.67645800  1
+  S  S11  1  0.61983000  0.41279900  0.67642300  1
+  S  S12  1  0.38016800  0.08728300  0.32362300  1
+  S  S13  1  0.38024200  0.58923400  0.32361600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cr2  0.24806341  1.09591076  -2.79658752
+  Cr3  -0.23602720  -1.04273639  2.66089511
+  Cr4  -0.23612506  -1.04316870  2.66199830
+  Cr5  -0.24884626  -1.09936926  2.80541304
+  S6  0.00782843  0.03458495  -0.08825523
+  S7  0.01164479  0.05144512  -0.13127965
+  S8  0.00782843  0.03458495  -0.08825523
+  S9  0.01164479  0.05144512  -0.13127965
+  S10  0.00714344  0.03155877  -0.08053289
+  S11  0.00714344  0.03155877  -0.08053289
+  S12  0.00714344  0.03155877  -0.08053289
+  S13  0.00724130  0.03199108  -0.08163609

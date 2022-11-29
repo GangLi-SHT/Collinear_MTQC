@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_VAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56049126
+_cell_length_b   7.35438231
+_cell_length_c   9.21299885
+_cell_angle_alpha   100.92711205
+_cell_angle_beta   90.03977608
+_cell_angle_gamma   104.04292950
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VAs2
+_chemical_formula_sum   'V4 As8'
+_cell_volume   229.51508020
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.90895900  0.81796700  0.05330900  1
+  V  V1  1  0.59104300  0.18203200  0.44670500  1
+  V  V2  1  0.40903200  0.81801600  0.55322000  1
+  V  V3  1  0.09097200  0.18198100  0.94677700  1
+  As  As4  1  0.45027500  0.90128000  0.85537000  1
+  As  As5  1  0.95032400  0.90130200  0.35533400  1
+  As  As6  1  0.04972600  0.09872000  0.64463100  1
+  As  As7  1  0.54968100  0.09870500  0.14467600  1
+  As  As8  1  0.26845000  0.53668400  0.10573900  1
+  As  As9  1  0.76861200  0.53687300  0.60568500  1
+  As  As10  1  0.23154200  0.46331400  0.39425100  1
+  As  As11  1  0.73137900  0.46312600  0.89430200  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V0  -0.51810919  -2.13543986  -1.46186481
+  V1  -0.51810919  -2.13543986  -1.46186481
+  V2  0.53281534  2.19605278  1.50335879
+  V3  0.53258910  2.19512027  1.50272042
+  As4  -0.01832613  -0.07553303  -0.05170788
+  As5  0.02398235  0.09884569  0.06766710
+  As6  -0.01832613  -0.07553303  -0.05170788
+  As7  0.02398235  0.09884569  0.06766710
+  As8  0.00452497  0.01865013  0.01276738
+  As9  -0.00294123  -0.01212258  -0.00829880
+  As10  0.00452497  0.01865013  0.01276738
+  As11  -0.00294123  -0.01212258  -0.00829880

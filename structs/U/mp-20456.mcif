@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Co3Se4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10652611
+_cell_length_b   7.10480593
+_cell_length_c   7.10857000
+_cell_angle_alpha   90.00383796
+_cell_angle_beta   59.98880955
+_cell_angle_gamma   119.99189991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co3Se4
+_chemical_formula_sum   'Co6 Se8'
+_cell_volume   253.78799135
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.25007600  0.12503800  0.12504300  1
+  Co  Co1  1  0.74992000  0.12503800  0.12504100  1
+  Co  Co2  1  0.74992000  0.62488000  0.12503900  1
+  Co  Co3  1  0.25007600  0.12504000  0.62488200  1
+  Co  Co4  1  0.99997100  0.49997700  0.50001900  1
+  Co  Co5  1  0.50002500  0.75002500  0.74998100  1
+  Se  Se6  1  0.77479500  0.88739600  0.88740000  1
+  Se  Se7  1  0.27482000  0.36260200  0.36259800  1
+  Se  Se8  1  0.27482300  0.91222500  0.36258300  1
+  Se  Se9  1  0.72520100  0.36260500  0.91221200  1
+  Se  Se10  1  0.22519300  0.33779400  0.88741100  1
+  Se  Se11  1  0.77478900  0.88739100  0.33780500  1
+  Se  Se12  1  0.22519700  0.88739400  0.88739300  1
+  Se  Se13  1  0.72519500  0.36259700  0.36259400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co0  0.00000000  -0.00000004  -0.00100000
+  Co1  0.00000000  -0.00000004  -0.00100000
+  Co2  0.00000000  -0.00000004  -0.00100000
+  Co3  0.00000000  -0.00000004  -0.00100000
+  Co4  -0.00001656  -0.00007636  -2.03299172
+  Co5  0.00001665  0.00007677  2.04399168
+  Se6  -0.00000009  -0.00000041  -0.01099996
+  Se7  0.00000007  0.00000034  0.00899996
+  Se8  0.00000008  0.00000038  0.00999996
+  Se9  0.00000008  0.00000038  0.00999996
+  Se10  -0.00000009  -0.00000041  -0.01099996
+  Se11  -0.00000009  -0.00000041  -0.01099996
+  Se12  -0.00000009  -0.00000041  -0.01099996
+  Se13  0.00000008  0.00000038  0.00999996

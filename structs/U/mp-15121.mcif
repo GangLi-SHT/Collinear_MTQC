@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_RbFe2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32223934
+_cell_length_b   8.38489737
+_cell_length_c   8.40301755
+_cell_angle_alpha   101.67131850
+_cell_angle_beta   90.03816368
+_cell_angle_gamma   89.99550256
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbFe2Te3
+_chemical_formula_sum   'Rb2 Fe4 Te6'
+_cell_volume   436.24488147
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.24997600  0.65341500  0.34669100  1
+  Rb  Rb1  1  0.75002200  0.34669000  0.65337200  1
+  Fe  Fe2  1  0.99985000  0.86048000  0.86060100  1
+  Fe  Fe3  1  0.00017300  0.13938700  0.13926800  1
+  Fe  Fe4  1  0.49993700  0.13943200  0.13948000  1
+  Fe  Fe5  1  0.50006300  0.86056700  0.86054600  1
+  Te  Te6  1  0.75010900  0.87481600  0.12490600  1
+  Te  Te7  1  0.24993400  0.12520400  0.87511500  1
+  Te  Te8  1  0.75000800  0.39102200  0.14497600  1
+  Te  Te9  1  0.25011500  0.60893800  0.85512400  1
+  Te  Te10  1  0.25002100  0.14510500  0.39060500  1
+  Te  Te11  1  0.74979300  0.85494500  0.60931700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Fe2  -0.00120006  0.11007532  -3.55110704
+  Fe3  -0.00120006  0.11007532  -3.55110704
+  Fe4  0.00119973  -0.11004453  3.55011372
+  Fe5  0.00120006  -0.11007532  3.55110704

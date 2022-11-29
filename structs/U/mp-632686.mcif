@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Mn5Ge2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87922587
+_cell_length_b   6.74508169
+_cell_length_c   7.94619635
+_cell_angle_alpha   64.44997821
+_cell_angle_beta   68.38106016
+_cell_angle_gamma   89.91468761
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn5Ge2
+_chemical_formula_sum   'Mn10 Ge4'
+_cell_volume   259.60247682
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25018000  0.00046500  0.99989500  1
+  Mn  Mn1  1  0.90061200  0.24120400  0.18414500  1
+  Mn  Mn2  1  0.41478500  0.57467000  0.18288200  1
+  Mn  Mn3  1  0.59845800  0.42566900  0.81709200  1
+  Mn  Mn4  1  0.08541000  0.75838100  0.81635900  1
+  Mn  Mn5  1  0.74923000  0.00004700  0.00017100  1
+  Mn  Mn6  1  0.02033100  0.76947200  0.45956000  1
+  Mn  Mn7  1  0.51763000  0.76605000  0.46578300  1
+  Mn  Mn8  1  0.47997000  0.23110800  0.53978500  1
+  Mn  Mn9  1  0.98295400  0.23298900  0.53456200  1
+  Ge  Ge10  1  0.88262100  0.61211200  0.23891200  1
+  Ge  Ge11  1  0.37838300  0.14813100  0.23960200  1
+  Ge  Ge12  1  0.12158200  0.38783700  0.76104900  1
+  Ge  Ge13  1  0.61785500  0.85186600  0.76020400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn0  -3.27086350  -3.73610636  4.36475738
+  Mn1  -3.37772516  -3.85816786  4.50735740
+  Mn2  -3.37249417  -3.85219283  4.50037698
+  Mn3  -3.37174688  -3.85133925  4.49937978
+  Mn4  -3.37548330  -3.85560713  4.50436579
+  Mn5  3.28655647  3.75403148  -4.38569864
+  Mn6  3.30748043  3.77793163  -4.41362032
+  Mn7  3.30000759  3.76939586  -4.40364829
+  Mn8  3.30523858  3.77537090  -4.41062871
+  Mn9  3.30000759  3.76939586  -4.40364829
+  Ge10  -0.02466038  -0.02816804  0.03290770
+  Ge11  -0.02391310  -0.02731446  0.03191049
+  Ge12  -0.02391310  -0.02731446  0.03191049
+  Ge13  -0.02316581  -0.02646089  0.03091329

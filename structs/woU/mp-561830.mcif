@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Cs2CoS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24751531
+_cell_length_b   8.46846330
+_cell_length_c   13.45014024
+_cell_angle_alpha   91.19229495
+_cell_angle_beta   76.56836551
+_cell_angle_gamma   111.65339605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2CoS2
+_chemical_formula_sum   'Cs8 Co4 S8'
+_cell_volume   641.63829020
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.59144600  0.44364400  0.26079300  1
+  Cs  Cs1  1  0.09130400  0.94366200  0.76087200  1
+  Cs  Cs2  1  0.40862700  0.55635700  0.73920700  1
+  Cs  Cs3  1  0.90854600  0.05633900  0.23913000  1
+  Cs  Cs4  1  0.73923900  0.38689500  0.90860500  1
+  Cs  Cs5  1  0.23923000  0.88700000  0.40854800  1
+  Cs  Cs6  1  0.26089200  0.61311100  0.09139500  1
+  Cs  Cs7  1  0.76072100  0.11300300  0.59145300  1
+  Co  Co8  1  0.75000600  0.50002400  0.49998800  1
+  Co  Co9  1  0.74987900  0.99997500  0.00001100  1
+  Co  Co10  1  0.25014000  0.00002600  0.99998800  1
+  Co  Co11  1  0.24995700  0.49997300  0.50001100  1
+  S  S12  1  0.96415400  0.55272900  0.62416100  1
+  S  S13  1  0.46453400  0.05263500  0.12390500  1
+  S  S14  1  0.03561900  0.44726900  0.37584000  1
+  S  S15  1  0.53584500  0.94736800  0.87609300  1
+  S  S16  1  0.12383300  0.21228000  0.96434800  1
+  S  S17  1  0.62428200  0.71252000  0.46427900  1
+  S  S18  1  0.87580400  0.78771500  0.03565200  1
+  S  S19  1  0.37594100  0.28747900  0.53572400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co8  0.73132035  -0.99075371  -1.57377527
+  Co9  0.72726156  -0.98525508  -1.56504090
+  Co10  -0.73058239  0.98975396  1.57218720
+  Co11  -0.72910647  0.98775446  1.56901107
+  S12  -0.00036898  0.00049988  0.00079403
+  S13  0.00036898  -0.00049988  -0.00079403
+  S14  -0.00036898  0.00049988  0.00079403
+  S15  0.00036898  -0.00049988  -0.00079403
+  S16  0.00036898  -0.00049988  -0.00079403
+  S17  -0.00036898  0.00049988  0.00079403
+  S18  0.00036898  -0.00049988  -0.00079403
+  S19  -0.00036898  0.00049988  0.00079403

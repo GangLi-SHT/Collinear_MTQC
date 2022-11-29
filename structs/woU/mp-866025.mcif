@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_CsCr5Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02871698
+_cell_length_b   9.63483744
+_cell_length_c   10.65457829
+_cell_angle_alpha   105.13804947
+_cell_angle_beta   100.89425283
+_cell_angle_gamma   90.06583771
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCr5Te8
+_chemical_formula_sum   'Cs1 Cr5 Te8'
+_cell_volume   391.46573687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.50000100  0.50000200  0.00001000  1
+  Cr  Cr1  1  0.70480000  0.32243100  0.40893500  1
+  Cr  Cr2  1  0.29518900  0.67753000  0.59106200  1
+  Cr  Cr3  1  0.00001000  0.00000500  0.00000300  1
+  Cr  Cr4  1  0.66241800  0.99872900  0.32458900  1
+  Cr  Cr5  1  0.33757400  0.00127800  0.67540600  1
+  Te  Te6  1  0.75619100  0.84063300  0.51281300  1
+  Te  Te7  1  0.24382500  0.15939100  0.48719400  1
+  Te  Te8  1  0.42680800  0.84147800  0.85464400  1
+  Te  Te9  1  0.57320500  0.15853900  0.14535200  1
+  Te  Te10  1  0.90943900  0.15881600  0.81833600  1
+  Te  Te11  1  0.09055900  0.84119500  0.18166800  1
+  Te  Te12  1  0.82465800  0.51434700  0.65087400  1
+  Te  Te13  1  0.17532300  0.48562600  0.34911500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cs0  0.00001468  -0.00003592  -0.00400642
+  Cr1  0.01095344  -0.02680778  -2.98979405
+  Cr2  0.01095344  -0.02680778  -2.98979405
+  Cr3  -0.01111123  0.02719396  3.03286311
+  Cr4  -0.01096445  0.02683472  2.99279887
+  Cr5  -0.01096445  0.02683472  2.99279887
+  Te6  0.00014311  -0.00035025  -0.03906264
+  Te7  0.00014311  -0.00035025  -0.03906264
+  Te8  0.00032292  -0.00079031  -0.08814133
+  Te9  0.00032292  -0.00079031  -0.08814133
+  Te10  0.00048437  -0.00118547  -0.13221200
+  Te11  0.00048437  -0.00118547  -0.13221200
+  Te12  -0.00060547  0.00148184  0.16526500
+  Te13  -0.00060547  0.00148184  0.16526500

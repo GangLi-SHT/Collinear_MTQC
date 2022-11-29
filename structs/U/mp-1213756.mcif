@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Cr7Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61006150
+_cell_length_b   7.60974015
+_cell_length_c   9.58520379
+_cell_angle_alpha   56.40523915
+_cell_angle_beta   56.40469976
+_cell_angle_gamma   66.00456327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr7Te8
+_chemical_formula_sum   'Cr7 Te8'
+_cell_volume   381.07703946
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.73344800  0.26656100  0.49999500  1
+  Cr  Cr1  1  0.26655200  0.73344000  0.50000500  1
+  Cr  Cr2  1  0.50000000  0.00000000  0.50000000  1
+  Cr  Cr3  1  0.00000000  0.50000000  0.50000000  1
+  Cr  Cr4  1  0.73640600  0.73639300  0.00971600  1
+  Cr  Cr5  1  0.26359300  0.26360600  0.99028400  1
+  Cr  Cr6  1  0.00000000  0.00000000  0.00000000  1
+  Te  Te7  1  0.96462400  0.96462700  0.33217800  1
+  Te  Te8  1  0.03537500  0.03537300  0.66782200  1
+  Te  Te9  1  0.53981000  0.03314100  0.16841500  1
+  Te  Te10  1  0.46019000  0.96685900  0.83158500  1
+  Te  Te11  1  0.96686100  0.46018300  0.83158800  1
+  Te  Te12  1  0.03313900  0.53981700  0.16841200  1
+  Te  Te13  1  0.45204400  0.45204200  0.33296300  1
+  Te  Te14  1  0.54795600  0.54795800  0.66703600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cr0  -0.00188896  -0.00178956  3.79303469
+  Cr1  -0.00188896  -0.00178956  3.79303469
+  Cr2  -0.00193829  -0.00183629  3.89208782
+  Cr3  -0.00193829  -0.00183629  3.89208782
+  Cr4  -0.00189195  -0.00179239  3.79903791
+  Cr5  -0.00189195  -0.00179239  3.79903791
+  Cr6  -0.00193829  -0.00183629  3.89208782
+  Te7  0.00012208  0.00011565  -0.24513150
+  Te8  0.00012208  0.00011565  -0.24513150
+  Te9  0.00013304  0.00012604  -0.26714330
+  Te10  0.00013304  0.00012604  -0.26714330
+  Te11  0.00013304  0.00012604  -0.26714330
+  Te12  0.00013304  0.00012604  -0.26714330
+  Te13  0.00013752  0.00013029  -0.27614813
+  Te14  0.00013752  0.00013029  -0.27614813

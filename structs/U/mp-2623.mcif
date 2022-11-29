@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_V4As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72145353
+_cell_length_b   7.26969361
+_cell_length_c   9.92698148
+_cell_angle_alpha   78.42599086
+_cell_angle_beta   89.97285343
+_cell_angle_gamma   75.19164116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4As3
+_chemical_formula_sum   'V8 As6'
+_cell_volume   253.99712035
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00210300  0.99581300  0.99902800  1
+  V  V1  1  0.00068100  0.99865900  0.50097500  1
+  V  V2  1  0.77894500  0.44267300  0.83583800  1
+  V  V3  1  0.22195700  0.55587900  0.16627100  1
+  V  V4  1  0.56453800  0.87099700  0.71834100  1
+  V  V5  1  0.43332400  0.13338900  0.28116800  1
+  V  V6  1  0.35103700  0.29828100  0.55698800  1
+  V  V7  1  0.64936700  0.70072700  0.44110200  1
+  As  As8  1  0.18783700  0.62490000  0.65483200  1
+  As  As9  1  0.81386600  0.37154900  0.35035700  1
+  As  As10  1  0.63618300  0.72738300  0.98362300  1
+  As  As11  1  0.36248000  0.27544300  0.01229900  1
+  As  As12  1  0.93244600  0.13478100  0.73210100  1
+  As  As13  1  0.06523400  0.86952600  0.26707700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V0  -0.00110120  0.00623481  -2.07324194
+  V1  -0.00129997  0.00736021  -2.44746611
+  V2  -0.00112086  0.00634615  -2.11026412
+  V3  -0.00134621  0.00762200  -2.53451826
+  V4  0.00122025  -0.00690885  2.29737621
+  V5  0.00121759  -0.00689380  2.29237321
+  V6  0.00125798  -0.00712249  2.36841876
+  V7  0.00129359  -0.00732410  2.43545892
+  As8  -0.00002073  0.00011735  -0.03902338
+  As9  -0.00003827  0.00021665  -0.07204316
+  As10  0.00003827  -0.00021665  0.07204316
+  As11  0.00005368  -0.00030392  0.10106054
+  As12  -0.00001913  0.00010833  -0.03602158
+  As13  -0.00001754  0.00009930  -0.03301978

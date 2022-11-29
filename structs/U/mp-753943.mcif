@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Li2FeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94916781
+_cell_length_b   6.88928715
+_cell_length_c   6.33247249
+_cell_angle_alpha   88.83221547
+_cell_angle_beta   90.03040435
+_cell_angle_gamma   90.06165929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2FeS2
+_chemical_formula_sum   'Li4 Fe2 S4'
+_cell_volume   172.25136302
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99996100  0.00332400  0.66221600  1
+  Li  Li1  1  0.50045200  0.50274900  0.66067400  1
+  Li  Li2  1  0.00044300  0.33245700  0.95348700  1
+  Li  Li3  1  0.50022600  0.83020800  0.94934900  1
+  Fe  Fe4  1  0.99969400  0.66665200  0.37627200  1
+  Fe  Fe5  1  0.49969700  0.16446600  0.37771900  1
+  S  S6  1  0.99918500  0.99744400  0.25179800  1
+  S  S7  1  0.49901900  0.49642800  0.25343700  1
+  S  S8  1  0.50046500  0.16942000  0.75781600  1
+  S  S9  1  0.00085800  0.67018500  0.75723200  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li2  -0.00000022  0.00001019  -0.00100016
+  Li3  0.00000022  -0.00001019  0.00100016
+  Fe4  -0.00078368  0.03666623  -3.60056094
+  Fe5  0.00078346  -0.03665604  3.59956078
+  S6  0.00000261  -0.00012222  0.01200187
+  S7  -0.00000283  0.00013241  -0.01300203
+  S8  0.00000631  -0.00029537  0.02900452
+  S9  -0.00000610  0.00028518  -0.02800436

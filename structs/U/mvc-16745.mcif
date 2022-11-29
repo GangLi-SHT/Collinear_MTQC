@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Li(NiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48327806
+_cell_length_b   7.52316418
+_cell_length_c   7.03646404
+_cell_angle_alpha   97.74624848
+_cell_angle_beta   106.62039723
+_cell_angle_gamma   116.94208457
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(NiS2)2
+_chemical_formula_sum   'Li2 Ni4 S8'
+_cell_volume   235.77590898
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.99982000  0.99984100  0.00004200  1
+  Li  Li1  1  0.49992000  0.99987800  0.00010100  1
+  Ni  Ni2  1  0.69616000  0.59028900  0.41180200  1
+  Ni  Ni3  1  0.30393500  0.40963500  0.58802300  1
+  Ni  Ni4  1  0.00031800  0.50026900  0.00019600  1
+  Ni  Ni5  1  0.49978700  0.00036700  0.49948100  1
+  S  S6  1  0.49146800  0.23680800  0.76664700  1
+  S  S7  1  0.01233400  0.23174000  0.76687600  1
+  S  S8  1  0.50847600  0.76328100  0.23353600  1
+  S  S9  1  0.98788800  0.76814000  0.23324200  1
+  S  S10  1  0.96228200  0.29553800  0.24674600  1
+  S  S11  1  0.57757400  0.24584300  0.29626000  1
+  S  S12  1  0.42240000  0.75407000  0.70381800  1
+  S  S13  1  0.03763600  0.70430200  0.75323000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  -0.00031556  -0.00003503  0.00188447
+  Li1  -0.00063112  -0.00007006  0.00376894
+  Ni2  -0.21237099  -0.02357629  1.26824976
+  Ni3  -0.21252877  -0.02359381  1.26919199
+  Ni4  0.24203351  0.02686926  -1.44539014
+  Ni5  -0.24408464  -0.02709697  1.45763921
+  S6  -0.00347115  -0.00038535  0.02072919
+  S7  -0.00473338  -0.00052547  0.02826708
+  S8  -0.00347115  -0.00038535  0.02072919
+  S9  -0.00473338  -0.00052547  0.02826708
+  S10  0.00252447  0.00028025  -0.01507578
+  S11  -0.00710007  -0.00078821  0.04240062
+  S12  -0.00710007  -0.00078821  0.04240062
+  S13  0.00252447  0.00028025  -0.01507578

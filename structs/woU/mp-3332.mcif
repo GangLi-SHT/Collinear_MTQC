@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_NaCrSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77658173
+_cell_length_b   3.77640376
+_cell_length_c   27.38318712
+_cell_angle_alpha   93.95274223
+_cell_angle_beta   90.00183764
+_cell_angle_gamma   119.99410714
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCrSe2
+_chemical_formula_sum   'Na4 Cr4 Se8'
+_cell_volume   337.16078997
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.62501900  0.24998400  0.87500000  1
+  Na  Na1  1  0.87498900  0.75000400  0.62500400  1
+  Na  Na2  1  0.37498400  0.74999500  0.12500200  1
+  Na  Na3  1  0.12498200  0.24999700  0.37499400  1
+  Cr  Cr4  1  0.25000000  0.49999400  0.75000100  1
+  Cr  Cr5  1  0.50000500  0.00001800  0.50000300  1
+  Cr  Cr6  1  0.00007400  0.99996500  0.00000200  1
+  Cr  Cr7  1  0.74997900  0.49993800  0.25000700  1
+  Se  Se8  1  0.93330200  0.86644900  0.79972700  1
+  Se  Se9  1  0.18337400  0.36652300  0.54971000  1
+  Se  Se10  1  0.68311700  0.36652900  0.04970100  1
+  Se  Se11  1  0.43315600  0.86655600  0.29971300  1
+  Se  Se12  1  0.31681900  0.63349600  0.95029500  1
+  Se  Se13  1  0.56669500  0.13357100  0.70026800  1
+  Se  Se14  1  0.06687900  0.13351700  0.20028500  1
+  Se  Se15  1  0.81662800  0.63346500  0.45028800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cr4  -1.19123724  -0.79383458  -2.87599319
+  Cr5  -1.19084148  -0.79357085  -2.87503771
+  Cr6  1.19084148  0.79357085  2.87503771
+  Cr7  1.19084148  0.79357085  2.87503771
+  Se8  0.03403535  0.02268099  0.08217123
+  Se9  0.03403535  0.02268099  0.08217123
+  Se10  -0.03403535  -0.02268099  -0.08217123
+  Se11  -0.03403535  -0.02268099  -0.08217123
+  Se12  -0.03403535  -0.02268099  -0.08217123
+  Se13  0.03403535  0.02268099  0.08217123
+  Se14  -0.03403535  -0.02268099  -0.08217123
+  Se15  0.03403535  0.02268099  0.08217123

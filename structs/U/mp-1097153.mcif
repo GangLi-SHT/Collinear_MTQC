@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_LiAl2Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.33772804
+_cell_length_b   13.55862680
+_cell_length_c   18.43587707
+_cell_angle_alpha   63.35481448
+_cell_angle_beta   116.56180889
+_cell_angle_gamma   87.50240883
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl2Co
+_chemical_formula_sum   'Li4 Al8 Co4'
+_cell_volume   2728.37928601
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.98902300  0.99183200  0.98931600  1
+  Li  Li1  1  0.50163700  0.50416400  0.00172400  1
+  Li  Li2  1  0.22453000  0.33671900  0.43134500  1
+  Li  Li3  1  0.75801400  0.66087200  0.55427500  1
+  Al  Al4  1  0.70389400  0.88708300  0.40747000  1
+  Al  Al5  1  0.16863600  0.54154600  0.26983100  1
+  Al  Al6  1  0.90566500  0.22246500  0.84130200  1
+  Al  Al7  1  0.42413700  0.72208200  0.84989500  1
+  Al  Al8  1  0.57093200  0.28132700  0.14567900  1
+  Al  Al9  1  0.07671700  0.76640800  0.14460400  1
+  Al  Al10  1  0.80203300  0.43819500  0.69379500  1
+  Al  Al11  1  0.29572500  0.11652300  0.59047000  1
+  Co  Co12  1  0.08521400  0.66647300  0.29339900  1
+  Co  Co13  1  0.99311900  0.36067600  0.78918900  1
+  Co  Co14  1  0.64290200  0.08351600  0.27696800  1
+  Co  Co15  1  0.35782200  0.92012000  0.72074100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  -0.01231684  0.00472471  -0.01082147
+  Li1  0.02687311  -0.01030845  0.02361048
+  Li2  0.00783799  -0.00300663  0.00688639
+  Li3  0.00559856  -0.00214759  0.00491885
+  Al4  -0.00335914  0.00128856  -0.00295131
+  Al5  0.01455627  -0.00558374  0.01278901
+  Al6  -0.00671828  0.00257711  -0.00590262
+  Al8  -0.01119713  0.00429519  -0.00983770
+  Al9  0.01119713  -0.00429519  0.00983770
+  Al10  -0.00447885  0.00171808  -0.00393508
+  Al11  0.00783799  -0.00300663  0.00688639
+  Co12  -2.16552490  0.83068944  -1.90261078
+  Co13  -2.16888403  0.83197799  -1.90556209
+  Co14  1.87551924  -0.71944406  1.64781440
+  Co15  1.82289273  -0.69925667  1.60157722

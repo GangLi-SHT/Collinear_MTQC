@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Be4AlFe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35124795
+_cell_length_b   4.35101303
+_cell_length_c   6.13525777
+_cell_angle_alpha   90.00758033
+_cell_angle_beta   90.00184218
+_cell_angle_gamma   90.00976566
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be4AlFe
+_chemical_formula_sum   'Be8 Al2 Fe2'
+_cell_volume   116.15476187
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.00595500  0.25153400  0.62531700  1
+  Be  Be1  1  0.49379000  0.75149900  0.12540400  1
+  Be  Be2  1  0.74854100  0.00588500  0.37459800  1
+  Be  Be3  1  0.24866600  0.49355000  0.87440100  1
+  Be  Be4  1  0.99382100  0.74875400  0.62582000  1
+  Be  Be5  1  0.50643000  0.24872300  0.12577600  1
+  Be  Be6  1  0.25136300  0.99375700  0.37447600  1
+  Be  Be7  1  0.75140900  0.50602000  0.87447700  1
+  Al  Al8  1  0.00001600  0.49999900  0.24995200  1
+  Al  Al9  1  0.50008000  0.99990300  0.74996300  1
+  Fe  Fe10  1  0.49990900  0.50015700  0.49995100  1
+  Fe  Fe11  1  0.00002200  0.00021800  0.99986600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Be0  0.00600076  0.00600118  0.00848562
+  Be1  -0.00550069  -0.00550109  -0.00777848
+  Be2  0.00600076  0.00600118  0.00848562
+  Be3  -0.00600076  -0.00600118  -0.00848562
+  Be4  0.00550069  0.00550109  0.00777848
+  Be5  -0.00550069  -0.00550109  -0.00777848
+  Be6  0.00600076  0.00600118  0.00848562
+  Be7  -0.00600076  -0.00600118  -0.00848562
+  Fe10  -1.34316966  -1.34326508  -1.89936420
+  Fe11  1.34266960  1.34276498  1.89865707

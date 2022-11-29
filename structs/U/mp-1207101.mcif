@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_KMnSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02796805
+_cell_length_b   4.02810309
+_cell_length_c   7.70191385
+_cell_angle_alpha   105.17586433
+_cell_angle_beta   105.17814143
+_cell_angle_gamma   89.98710942
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnSe2
+_chemical_formula_sum   'K1 Mn1 Se2'
+_cell_volume   116.08555121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00005400  0.99992800  0.99999500  1
+  Mn  Mn1  1  0.74986400  0.25010800  0.49999500  1
+  Se  Se2  1  0.35966800  0.35962700  0.71988300  1
+  Se  Se3  1  0.64041300  0.64033800  0.28012700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  K0  -0.00000635  -0.00000637  0.00099664
+  Mn1  -0.02854624  -0.02861084  4.47887930
+  Se2  0.00165789  0.00166164  -0.26012183
+  Se3  0.00165789  0.00166164  -0.26012183

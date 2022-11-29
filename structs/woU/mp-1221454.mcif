@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Na(VSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54235300
+_cell_length_b   6.17633126
+_cell_length_c   7.84993701
+_cell_angle_alpha   110.15471654
+_cell_angle_beta   89.99996923
+_cell_angle_gamma   89.99998111
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(VSe2)2
+_chemical_formula_sum   'Na1 V2 Se4'
+_cell_volume   161.22996972
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.33788800  0.50762800  1
+  V  V1  1  0.00000000  0.02975800  0.99594900  1
+  V  V2  1  0.50000000  0.46819800  0.00333300  1
+  Se  Se3  1  0.00000000  0.42830100  0.22041600  1
+  Se  Se4  1  0.50000000  0.90931800  0.18105700  1
+  Se  Se5  1  0.00000000  0.58969000  0.81742100  1
+  Se  Se6  1  0.50000000  0.07174600  0.77889400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Na0  0.00000000  0.00000005  0.00100002
+  V1  -0.00000038  0.00007694  1.50002651
+  V2  -0.00000040  0.00008017  1.56302762
+  Se3  0.00000002  -0.00000431  -0.08400148
+  Se4  0.00000002  -0.00000482  -0.09400166
+  Se5  0.00000002  -0.00000426  -0.08300147
+  Se6  0.00000002  -0.00000503  -0.09800173

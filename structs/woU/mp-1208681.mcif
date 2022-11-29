@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_SrMnSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41719300
+_cell_length_b   4.48508700
+_cell_length_c   22.78768601
+_cell_angle_alpha   90.00262325
+_cell_angle_beta   89.99989532
+_cell_angle_gamma   89.99961381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMnSb2
+_chemical_formula_sum   'Sr4 Mn4 Sb8'
+_cell_volume   451.45812475
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.25000000  0.72556200  0.11644900  1
+  Sr  Sr1  1  0.75000000  0.27439300  0.88355500  1
+  Sr  Sr2  1  0.75000100  0.22556700  0.38354900  1
+  Sr  Sr3  1  0.25000000  0.77439500  0.61644500  1
+  Mn  Mn4  1  0.75000200  0.77512500  0.74942900  1
+  Mn  Mn5  1  0.75000300  0.72513400  0.24939700  1
+  Mn  Mn6  1  0.25000100  0.22485200  0.25058600  1
+  Mn  Mn7  1  0.25000200  0.27510400  0.75058600  1
+  Sb  Sb8  1  0.25000200  0.72484300  0.31952600  1
+  Sb  Sb9  1  0.75000100  0.27511500  0.68047500  1
+  Sb  Sb10  1  0.75000100  0.22489500  0.18047200  1
+  Sb  Sb11  1  0.25000100  0.77511500  0.81953100  1
+  Sb  Sb12  1  0.24999300  0.21626200  0.00175300  1
+  Sb  Sb13  1  0.74999600  0.78368900  0.99825100  1
+  Sb  Sb14  1  0.74999900  0.71626100  0.49824700  1
+  Sb  Sb15  1  0.24999700  0.28368700  0.50174900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn4  0.00000342  -0.00008471  -3.71200000
+  Mn5  0.00000342  -0.00008477  -3.71500000
+  Mn6  -0.00000342  0.00008477  3.71500000
+  Mn7  -0.00000342  0.00008473  3.71300000
+  Sb8  0.00000000  0.00000005  0.00200000
+  Sb9  0.00000000  -0.00000005  -0.00200000
+  Sb10  0.00000000  -0.00000005  -0.00200000
+  Sb11  0.00000000  0.00000005  0.00200000
+  Sb12  0.00000000  -0.00000009  -0.00400000
+  Sb13  0.00000000  0.00000009  0.00400000
+  Sb14  0.00000000  0.00000009  0.00400000
+  Sb15  0.00000000  -0.00000009  -0.00400000

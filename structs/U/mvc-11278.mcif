@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ca(CrS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14658087
+_cell_length_b   7.14679847
+_cell_length_c   7.14646373
+_cell_angle_alpha   61.55516712
+_cell_angle_beta   61.55415553
+_cell_angle_gamma   61.55526872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(CrS2)4
+_chemical_formula_sum   'Ca1 Cr4 S8'
+_cell_volume   267.10371278
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000100  0.00000000  0.00000000  1
+  Cr  Cr1  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr2  1  0.50000000  0.50000000  0.00000000  1
+  Cr  Cr3  1  0.50000000  0.00000000  0.50000000  1
+  Cr  Cr4  1  0.00000000  0.50000000  0.50000000  1
+  S  S5  1  0.73495300  0.28634400  0.73495000  1
+  S  S6  1  0.73495000  0.73495100  0.28633900  1
+  S  S7  1  0.28634100  0.73495300  0.73494900  1
+  S  S8  1  0.73824800  0.73824100  0.73824600  1
+  S  S9  1  0.26175100  0.26175800  0.26175300  1
+  S  S10  1  0.26505000  0.26504900  0.71366100  1
+  S  S11  1  0.71366000  0.26504700  0.26505100  1
+  S  S12  1  0.26504700  0.71365600  0.26505100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00004954  -0.00004955  -0.01495263
+  Cr1  0.01005715  0.01005895  3.03538432
+  Cr2  0.01039404  0.01039590  3.13706222
+  Cr3  0.01039734  0.01039921  3.13805906
+  Cr4  0.01039404  0.01039590  3.13706222
+  S5  -0.00073653  -0.00073667  -0.22229580
+  S6  -0.00073653  -0.00073667  -0.22229580
+  S7  -0.00073653  -0.00073667  -0.22229580
+  S8  -0.00127490  -0.00127513  -0.38478107
+  S9  -0.00127490  -0.00127513  -0.38478107
+  S10  -0.00073653  -0.00073667  -0.22229580
+  S11  -0.00073653  -0.00073667  -0.22229580
+  S12  -0.00073653  -0.00073667  -0.22229580

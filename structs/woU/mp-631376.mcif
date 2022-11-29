@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_SrMn2Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09320434
+_cell_length_b   4.09311958
+_cell_length_c   11.46701575
+_cell_angle_alpha   90.00302609
+_cell_angle_beta   100.25314954
+_cell_angle_gamma   119.99943774
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMn2Si
+_chemical_formula_sum   'Sr2 Mn4 Si2'
+_cell_volume   162.82684910
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.74954500  0.87437900  0.62459200  1
+  Sr  Sr1  1  0.75009600  0.37492100  0.12450300  1
+  Mn  Mn2  1  0.94067500  0.47050900  0.41108300  1
+  Mn  Mn3  1  0.24955800  0.62477700  0.87451400  1
+  Mn  Mn4  1  0.94092500  0.97046700  0.91178900  1
+  Mn  Mn5  1  0.24937700  0.12486800  0.37387700  1
+  Si  Si6  1  0.55979300  0.27988300  0.83984300  1
+  Si  Si7  1  0.56003100  0.78019700  0.33979800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Sr0  0.03461587  0.01727139  0.03335198
+  Sr1  -0.03461587  -0.01727139  -0.03335198
+  Mn2  -2.24310840  -1.11918591  -2.16120860
+  Mn3  -1.56982972  -0.78325742  -1.51251250
+  Mn4  2.24483919  1.12004948  2.16287620
+  Mn5  1.56377194  0.78023493  1.50667590
+  Si6  0.03288508  0.01640782  0.03168439
+  Si7  -0.03201968  -0.01597603  -0.03085059

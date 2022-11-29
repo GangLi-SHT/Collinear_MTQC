@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_CaCo2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99308401
+_cell_length_b   6.82060808
+_cell_length_c   13.10122719
+_cell_angle_alpha   90.47722664
+_cell_angle_beta   90.00479585
+_cell_angle_gamma   90.00355106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCo2S5
+_chemical_formula_sum   'Ca2 Co4 S10'
+_cell_volume   356.80296389
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49973700  0.08379300  0.00166200  1
+  Ca  Ca1  1  0.00044100  0.91621400  0.49583400  1
+  Co  Co2  1  0.50037100  0.48018400  0.35207200  1
+  Co  Co3  1  0.99956600  0.52371800  0.84861200  1
+  Co  Co4  1  0.00011300  0.52286300  0.14868500  1
+  Co  Co5  1  0.49971600  0.47325700  0.65195000  1
+  S  S6  1  0.49999300  0.63481500  0.50208800  1
+  S  S7  1  0.00008200  0.36528100  0.99942100  1
+  S  S8  1  0.50018200  0.37984300  0.19020400  1
+  S  S9  1  0.00033300  0.62387500  0.31052300  1
+  S  S10  1  0.49932000  0.36047200  0.80989400  1
+  S  S11  1  0.99978100  0.63564300  0.69064300  1
+  S  S12  1  0.99925300  0.81549100  0.91972100  1
+  S  S13  1  0.50069000  0.18285300  0.57946600  1
+  S  S14  1  0.50100100  0.18299700  0.41885500  1
+  S  S15  1  0.99942200  0.81870100  0.08037100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00000045  -0.00001178  -0.00300008
+  Ca1  0.00000030  0.00000786  0.00200005
+  Co2  -0.00017524  -0.00455606  -1.16002900
+  Co3  -0.00023974  -0.00623316  -1.58703968
+  Co4  0.00017312  0.00450107  1.14602865
+  Co5  0.00023944  0.00622530  1.58503963
+  S6  -0.00000136  -0.00003535  -0.00900023
+  S7  0.00000136  0.00003535  0.00900023
+  S8  0.00000574  0.00014925  0.03800095
+  S9  -0.00000574  -0.00014925  -0.03800095
+  S10  -0.00001012  -0.00026315  -0.06700168
+  S11  0.00001012  0.00026315  0.06700168
+  S12  -0.00001148  -0.00029850  -0.07600190
+  S13  0.00001148  0.00029850  0.07600190
+  S14  -0.00000589  -0.00015318  -0.03900098
+  S15  0.00000574  0.00014925  0.03800095

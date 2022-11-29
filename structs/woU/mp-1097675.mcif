@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_BePRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.20076659
+_cell_length_b   15.66840850
+_cell_length_c   9.19682957
+_cell_angle_alpha   88.41098953
+_cell_angle_beta   60.44827313
+_cell_angle_gamma   105.61814966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BePRu2
+_chemical_formula_sum   'Be2 P2 Ru4'
+_cell_volume   1090.18952584
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.00000100  0.99996600  0.00003200  1
+  Be  Be1  1  0.99999900  0.49998800  0.50001100  1
+  P  P2  1  0.00000100  0.25003000  0.74996000  1
+  P  P3  1  0.99999100  0.75003400  0.24996800  1
+  Ru  Ru4  1  0.99999600  0.63407100  0.36597200  1
+  Ru  Ru5  1  0.00000400  0.36582800  0.63414000  1
+  Ru  Ru6  1  0.99998300  0.13409900  0.86594900  1
+  Ru  Ru7  1  0.00002400  0.86598400  0.13396700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Be0  0.05414312  0.04585935  -0.02696148
+  Be1  -0.05414312  -0.04585935  0.02696148
+  Ru4  -1.61125902  -1.36474030  0.80235361
+  Ru5  -1.60624577  -1.36049406  0.79985718
+  Ru6  1.60925372  1.36304180  -0.80135504
+  Ru7  1.61025637  1.36389105  -0.80185433

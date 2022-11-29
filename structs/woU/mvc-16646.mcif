@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Ca(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34387188
+_cell_length_b   7.36940119
+_cell_length_c   7.36915193
+_cell_angle_alpha   61.24728859
+_cell_angle_beta   60.09866941
+_cell_angle_gamma   60.09640666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(CrS2)2
+_chemical_formula_sum   'Ca2 Cr4 S8'
+_cell_volume   284.99553614
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49996300  0.50006200  0.50002200  1
+  Ca  Ca1  1  0.49996400  0.00001800  0.00005800  1
+  Cr  Cr2  1  0.87089800  0.87900800  0.37900700  1
+  Cr  Cr3  1  0.12895600  0.12113000  0.62113100  1
+  Cr  Cr4  1  0.99999200  0.49994400  0.99994300  1
+  Cr  Cr5  1  0.50010000  0.49994700  0.99994600  1
+  S  S6  1  0.23466000  0.29051400  0.24015200  1
+  S  S7  1  0.23467100  0.74015000  0.79051600  1
+  S  S8  1  0.75156500  0.26390200  0.76389600  1
+  S  S9  1  0.76547900  0.70950200  0.75956200  1
+  S  S10  1  0.77920900  0.73613200  0.23612100  1
+  S  S11  1  0.76547100  0.25956600  0.20950300  1
+  S  S12  1  0.22072000  0.26394300  0.76395100  1
+  S  S13  1  0.24835100  0.73618200  0.23619100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00009287  0.00012110  0.01998774
+  Ca1  -0.00009287  0.00012110  0.01998774
+  Cr2  -0.01328951  0.01733007  2.86024595
+  Cr3  -0.01334988  0.01740879  2.87323798
+  Cr4  -0.01415784  0.01846240  3.04713134
+  Cr5  -0.01414391  0.01844423  3.04413318
+  S6  0.00057114  -0.00074479  -0.12292462
+  S7  0.00057114  -0.00074479  -0.12292462
+  S8  0.00037612  -0.00049047  -0.08095036
+  S9  0.00057579  -0.00075085  -0.12392400
+  S10  0.00038076  -0.00049653  -0.08194974
+  S11  0.00057114  -0.00074479  -0.12292462
+  S12  0.00037612  -0.00049047  -0.08095036
+  S13  0.00038076  -0.00049653  -0.08194974

@@ -1,0 +1,6 @@
+magnetic_spacegroup
+get_magnetic_symmetry_dataset
+magnetic_symm_reduced
+find_magnetic_primitive
+
+define struct?

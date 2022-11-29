@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ca(CoAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01045458
+_cell_length_b   10.35489286
+_cell_length_c   4.01045589
+_cell_angle_alpha   90.00000401
+_cell_angle_beta   90.00021171
+_cell_angle_gamma   90.00007971
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(CoAs)2
+_chemical_formula_sum   'Ca2 Co4 As4'
+_cell_volume   166.54552016
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000100  0.00005800  0.00000100  1
+  Ca  Ca1  1  0.50000000  0.49994100  0.50000000  1
+  Co  Co2  1  0.99999900  0.75000000  0.50000000  1
+  Co  Co3  1  0.99999900  0.25000100  0.50000000  1
+  Co  Co4  1  0.50000000  0.25000000  0.00000000  1
+  Co  Co5  1  0.50000000  0.75000000  0.00000000  1
+  As  As6  1  0.00000100  0.36507100  0.00000000  1
+  As  As7  1  0.50000100  0.86506400  0.50000000  1
+  As  As8  1  0.49999900  0.13492900  0.50000000  1
+  As  As9  1  0.99999900  0.63493600  0.00000000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00305076  0.00789846  -0.00305077
+  Ca1  -0.00305076  0.00789846  -0.00305077
+  Co2  -0.21253659  0.55025925  -0.21253693
+  Co3  -0.21287556  0.55113686  -0.21287591
+  Co4  -0.21287556  0.55113686  -0.21287591
+  Co5  -0.21287556  0.55113686  -0.21287591
+  As6  -0.00033897  0.00087761  -0.00033897
+  As7  -0.00033897  0.00087761  -0.00033897
+  As8  -0.00033897  0.00087761  -0.00033897
+  As9  -0.00033897  0.00087761  -0.00033897

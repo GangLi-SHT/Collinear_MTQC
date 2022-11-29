@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_BaNiS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58659400
+_cell_length_b   10.16824446
+_cell_length_c   9.25880526
+_cell_angle_alpha   62.47951671
+_cell_angle_beta   90.00004979
+_cell_angle_gamma   90.00001129
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNiS2
+_chemical_formula_sum   'Ba4 Ni4 S8'
+_cell_volume   382.94754732
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000100  0.19121100  0.15392300  1
+  Ba  Ba1  1  0.00000200  0.19121400  0.65383700  1
+  Ba  Ba2  1  0.50000100  0.80878500  0.09609700  1
+  Ba  Ba3  1  0.50000100  0.80878500  0.59617600  1
+  Ni  Ni4  1  0.50006200  0.41479000  0.29159500  1
+  Ni  Ni5  1  0.99978500  0.58519600  0.95833500  1
+  Ni  Ni6  1  0.50001600  0.41436500  0.79192800  1
+  Ni  Ni7  1  0.00011500  0.58576900  0.45801200  1
+  S  S8  1  0.49998900  0.49853100  0.99940800  1
+  S  S9  1  0.50001200  0.49880400  0.49937800  1
+  S  S10  1  0.00000600  0.50144600  0.25060700  1
+  S  S11  1  0.00000000  0.50114600  0.75065100  1
+  S  S12  1  0.50000000  0.15400500  0.42263500  1
+  S  S13  1  0.50000400  0.15369800  0.92266200  1
+  S  S14  1  0.00000600  0.84597700  0.82738500  1
+  S  S15  1  0.00000000  0.84627700  0.32736900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ba0  0.00000000  0.00676550  -0.00310224
+  Ba1  0.00000000  -0.00676550  0.00310224
+  Ba2  0.00000000  0.00676550  -0.00310224
+  Ba3  0.00000000  -0.00676550  0.00310224
+  Ni4  0.00000071  -1.78947413  0.82054144
+  Ni5  0.00000071  -1.78947413  0.82054144
+  Ni6  -0.00000071  1.78947413  -0.82054144
+  Ni7  -0.00000071  1.78947413  -0.82054144
+  S8  0.00000003  -0.07216531  0.03309052
+  S9  -0.00000003  0.07216531  -0.03309052
+  S10  0.00000003  -0.07216531  0.03309052
+  S11  -0.00000003  0.07216531  -0.03309052
+  S12  0.00000000  -0.02367924  0.01085783
+  S13  0.00000000  0.02367924  -0.01085783
+  S14  0.00000000  -0.02367924  0.01085783
+  S15  0.00000000  0.02367924  -0.01085783

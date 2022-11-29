@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_LiAl2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.25299640
+_cell_length_b   17.58279812
+_cell_length_c   14.20254161
+_cell_angle_alpha   87.69604610
+_cell_angle_beta   65.34772530
+_cell_angle_gamma   98.20027765
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl2Ru
+_chemical_formula_sum   'Li4 Al8 Ru4'
+_cell_volume   2958.80479260
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.81051500  0.74063900  0.52394100  1
+  Li  Li1  1  0.32562900  0.24534300  0.45267700  1
+  Li  Li2  1  0.43329300  0.48250300  0.98862000  1
+  Li  Li3  1  0.11734200  0.98099600  0.98845500  1
+  Al  Al4  1  0.09834700  0.07991800  0.84488800  1
+  Al  Al5  1  0.58199300  0.59381400  0.83719200  1
+  Al  Al6  1  0.80080800  0.82235400  0.36152400  1
+  Al  Al7  1  0.26303000  0.34138500  0.33206200  1
+  Al  Al8  1  0.17603500  0.17716800  0.64647900  1
+  Al  Al9  1  0.62355800  0.62833000  0.63704100  1
+  Al  Al10  1  0.92395200  0.91543500  0.15977700  1
+  Al  Al11  1  0.44043900  0.40531200  0.15443900  1
+  Ru  Ru12  1  0.00606600  0.15534800  0.78676000  1
+  Ru  Ru13  1  0.73532000  0.88242600  0.25963400  1
+  Ru  Ru14  1  0.71485500  0.69291400  0.72404800  1
+  Ru  Ru15  1  0.44881600  0.35611600  0.30246800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  0.00170961  -0.00055913  -0.00167493
+  Li1  0.00170961  -0.00055913  -0.00167493
+  Li3  0.00085480  -0.00027957  -0.00083747
+  Al4  -0.01795088  0.00587088  0.01758680
+  Al5  0.01795088  -0.00587088  -0.01758680
+  Al6  -0.01795088  0.00587088  0.01758680
+  Al7  0.01111245  -0.00363436  -0.01088707
+  Al8  -0.01709608  0.00559132  0.01674934
+  Al9  0.01196726  -0.00391392  -0.01172454
+  Al10  -0.01880569  0.00615045  0.01842427
+  Al11  0.01795088  -0.00587088  -0.01758680
+  Ru12  0.76419474  -0.24993191  -0.74869536
+  Ru13  0.77359758  -0.25300714  -0.75790750
+  Ru14  -0.73171218  0.23930841  0.71687162
+  Ru15  -0.72316415  0.23651275  0.70849695

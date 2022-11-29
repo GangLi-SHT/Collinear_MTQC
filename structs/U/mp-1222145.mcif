@@ -1,0 +1,67 @@
+# generated using pymatgen
+data_Mg3MnTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51030102
+_cell_length_b   6.51031022
+_cell_length_c   26.38010251
+_cell_angle_alpha   82.91199020
+_cell_angle_beta   82.91200181
+_cell_angle_gamma   90.00274438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3MnTe4
+_chemical_formula_sum   'Mg12 Mn4 Te16'
+_cell_volume   1100.93976616
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.62499200  0.12499200  0.75000200  1
+  Mg  Mg1  1  0.37499200  0.87499300  0.25000200  1
+  Mg  Mg2  1  0.12499200  0.62499300  0.75000200  1
+  Mg  Mg3  1  0.87499300  0.37499300  0.25000200  1
+  Mg  Mg4  1  0.56216300  0.56216300  0.87568800  1
+  Mg  Mg5  1  0.31216300  0.31216300  0.37568800  1
+  Mg  Mg6  1  0.06216300  0.06216300  0.87568800  1
+  Mg  Mg7  1  0.81216300  0.81216300  0.37568800  1
+  Mg  Mg8  1  0.68780600  0.68780700  0.62431400  1
+  Mg  Mg9  1  0.43780700  0.43780700  0.12431400  1
+  Mg  Mg10  1  0.18780700  0.18780700  0.62431400  1
+  Mg  Mg11  1  0.93780700  0.93780700  0.12431500  1
+  Mn  Mn12  1  0.50002300  0.00002300  0.00000000  1
+  Mn  Mn13  1  0.25002400  0.75002300  0.50000000  1
+  Mn  Mn14  1  0.75002300  0.25002400  0.50000000  1
+  Mn  Mn15  1  0.00002300  0.50002300  0.00000000  1
+  Te  Te16  1  0.90637400  0.40637400  0.68713400  1
+  Te  Te17  1  0.65637600  0.15637700  0.18713400  1
+  Te  Te18  1  0.40637600  0.90637700  0.68713400  1
+  Te  Te19  1  0.15637400  0.65637300  0.18713400  1
+  Te  Te20  1  0.34363600  0.34363900  0.81287000  1
+  Te  Te21  1  0.09363400  0.09363700  0.31286800  1
+  Te  Te22  1  0.84364000  0.84363700  0.81287000  1
+  Te  Te23  1  0.59363700  0.59363400  0.31286800  1
+  Te  Te24  1  0.46900100  0.46900200  0.56184600  1
+  Te  Te25  1  0.21900200  0.21900100  0.06184600  1
+  Te  Te26  1  0.96900300  0.96900100  0.56184600  1
+  Te  Te27  1  0.71900800  0.71900900  0.06184700  1
+  Te  Te28  1  0.78100000  0.28099900  0.93814600  1
+  Te  Te29  1  0.53100000  0.03099900  0.43814500  1
+  Te  Te30  1  0.28100100  0.78100000  0.93814500  1
+  Te  Te31  1  0.03100100  0.53100100  0.43814500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn12  0.57571899  0.57571992  -4.66559099
+  Mn13  0.57571899  0.57571992  -4.66559099
+  Mn14  -0.57571899  -0.57571992  4.66559099
+  Mn15  -0.57571899  -0.57571992  4.66559099

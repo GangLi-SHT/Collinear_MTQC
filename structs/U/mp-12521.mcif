@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_SrNi3Ge2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07304020
+_cell_length_b   14.21474179
+_cell_length_c   4.07590219
+_cell_angle_alpha   89.82071186
+_cell_angle_beta   119.68829210
+_cell_angle_gamma   90.07914862
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrNi3Ge2
+_chemical_formula_sum   'Sr2 Ni6 Ge4'
+_cell_volume   205.00548440
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00336800  0.74949900  0.00128300  1
+  Sr  Sr1  1  0.99787300  0.25031700  0.99889600  1
+  Ni  Ni2  1  0.33138000  0.57288400  0.66802100  1
+  Ni  Ni3  1  0.66601500  0.42763000  0.33362500  1
+  Ni  Ni4  1  0.33622300  0.92880500  0.67079700  1
+  Ni  Ni5  1  0.00040000  0.99969900  0.99904400  1
+  Ni  Ni6  1  0.99815000  0.50016000  0.00011400  1
+  Ni  Ni7  1  0.66582300  0.07107300  0.32789800  1
+  Ge  Ge8  1  0.66849600  0.90402900  0.33363800  1
+  Ge  Ge9  1  0.33334100  0.09565300  0.66515500  1
+  Ge  Ge10  1  0.33250400  0.40551100  0.66659900  1
+  Ge  Ge11  1  0.66642700  0.59473800  0.33493000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Sr0  0.00000020  -0.00200001  0.00000375
+  Sr1  0.00000020  -0.00200001  0.00000375
+  Ni2  0.00000187  -0.01900008  0.00003564
+  Ni3  0.00000167  -0.01700007  0.00003189
+  Ni4  -0.00001178  0.12000049  -0.00022512
+  Ni5  -0.00008278  0.84300342  -0.00158148
+  Ni6  0.00000756  -0.07700031  0.00014445
+  Ni7  -0.00001168  0.11900048  -0.00022325
+  Ge8  0.00000187  -0.01900008  0.00003564
+  Ge9  0.00000196  -0.02000008  0.00003752
+  Ge10  0.00000049  -0.00500002  0.00000938
+  Ge11  0.00000049  -0.00500002  0.00000938

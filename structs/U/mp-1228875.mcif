@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_CsNiP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77489787
+_cell_length_b   6.78413527
+_cell_length_c   12.24072125
+_cell_angle_alpha   85.69567335
+_cell_angle_beta   90.02217276
+_cell_angle_gamma   89.91822213
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNiP
+_chemical_formula_sum   'Cs4 Ni4 P4'
+_cell_volume   478.20999283
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.25104700  0.50775300  0.16397500  1
+  Cs  Cs1  1  0.25122500  0.00588800  0.66458500  1
+  Cs  Cs2  1  0.75024100  0.99310500  0.33575500  1
+  Cs  Cs3  1  0.75006800  0.49489800  0.83517200  1
+  Ni  Ni4  1  0.99883100  0.49902800  0.50049700  1
+  Ni  Ni5  1  0.50088000  0.00129400  0.99981900  1
+  Ni  Ni6  1  0.00048100  0.00006300  0.99966000  1
+  Ni  Ni7  1  0.49898900  0.49886400  0.50014900  1
+  P  P8  1  0.75069000  0.78555000  0.07194000  1
+  P  P9  1  0.74929200  0.28387800  0.57218600  1
+  P  P10  1  0.24841700  0.71398000  0.42825700  1
+  P  P11  1  0.24983900  0.21569900  0.92800400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ni4  -0.00070570  0.69855930  -1.24950545
+  Ni5  -0.00070570  0.69855930  -1.24950545
+  Ni6  0.00070570  -0.69855930  1.24950545
+  Ni7  0.00070519  -0.69805493  1.24860328

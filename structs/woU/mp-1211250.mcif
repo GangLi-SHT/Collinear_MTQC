@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mg(MnGe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15234800
+_cell_length_b   5.15204366
+_cell_length_c   8.05546900
+_cell_angle_alpha   89.99997916
+_cell_angle_beta   90.00000711
+_cell_angle_gamma   120.00122755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(MnGe)6
+_chemical_formula_sum   'Mg1 Mn6 Ge6'
+_cell_volume   185.18287121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000200  1
+  Mn  Mn1  1  0.00000000  0.50000000  0.75052200  1
+  Mn  Mn2  1  0.00000000  0.50000000  0.24947800  1
+  Mn  Mn3  1  0.50000000  0.00000000  0.75052300  1
+  Mn  Mn4  1  0.50000000  0.00000000  0.24947700  1
+  Mn  Mn5  1  0.50000000  0.50000000  0.75052200  1
+  Mn  Mn6  1  0.50000000  0.50000000  0.24947800  1
+  Ge  Ge7  1  0.00000000  0.00000000  0.66636200  1
+  Ge  Ge8  1  0.00000000  0.00000000  0.33363600  1
+  Ge  Ge9  1  0.33333200  0.66666800  0.49999800  1
+  Ge  Ge10  1  0.66666800  0.33333200  0.49999800  1
+  Ge  Ge11  1  0.33333600  0.66667300  0.00000200  1
+  Ge  Ge12  1  0.66666400  0.33332700  0.00000200  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  0.00000000  0.00000000  -0.02300000
+  Mn1  0.00000011  -0.00000030  2.11400000
+  Mn2  0.00000011  -0.00000030  2.11200000
+  Mn3  0.00000011  -0.00000030  2.11100000
+  Mn4  0.00000011  -0.00000030  2.11300000
+  Mn5  0.00000011  -0.00000030  2.11300000
+  Mn6  0.00000011  -0.00000030  2.11400000
+  Ge7  0.00000000  0.00000002  -0.11000000
+  Ge8  0.00000000  0.00000002  -0.11000000
+  Ge9  0.00000000  0.00000001  -0.10100000
+  Ge10  0.00000000  0.00000001  -0.10100000
+  Ge11  0.00000000  0.00000001  -0.09700000
+  Ge12  0.00000000  0.00000001  -0.09700000

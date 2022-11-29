@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_KMnBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86501115
+_cell_length_b   4.89409905
+_cell_length_c   17.17231567
+_cell_angle_alpha   90.01575683
+_cell_angle_beta   90.02789806
+_cell_angle_gamma   89.99396224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMnBi
+_chemical_formula_sum   'K4 Mn4 Bi4'
+_cell_volume   408.87013342
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00002900  0.50009800  0.17212100  1
+  K  K1  1  0.00004400  0.50008400  0.67206700  1
+  K  K2  1  0.50000800  0.99994200  0.32790500  1
+  K  K3  1  0.50000000  0.00000900  0.82798200  1
+  Mn  Mn4  1  0.99992700  0.99996300  0.49969000  1
+  Mn  Mn5  1  0.50000800  0.49997600  0.00037600  1
+  Mn  Mn6  1  0.00001400  0.00001200  0.99967100  1
+  Mn  Mn7  1  0.49996200  0.49989400  0.50014900  1
+  Bi  Bi8  1  0.99996700  0.49995400  0.39838900  1
+  Bi  Bi9  1  0.99997700  0.49997700  0.89855000  1
+  Bi  Bi10  1  0.50004100  0.00005500  0.10162900  1
+  Bi  Bi11  1  0.50002200  0.00003800  0.60147400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn4  -0.00111445  -0.00063953  -4.58400054
+  Mn5  -0.00111445  -0.00063953  -4.58400054
+  Mn6  0.00111445  0.00063953  4.58400054
+  Mn7  0.00111445  0.00063953  4.58400054
+  Bi8  -0.00000049  -0.00000028  -0.00200000
+  Bi9  0.00000024  0.00000014  0.00100000
+  Bi10  -0.00000024  -0.00000014  -0.00100000
+  Bi11  0.00000049  0.00000028  0.00200000

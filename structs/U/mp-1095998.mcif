@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BeFe2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57109767
+_cell_length_b   8.73942968
+_cell_length_c   8.73945122
+_cell_angle_alpha   61.88899344
+_cell_angle_beta   60.63321182
+_cell_angle_gamma   60.63356048
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeFe2P
+_chemical_formula_sum   'Be1 Fe2 P1'
+_cell_volume   473.71769597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.00000000  0.99999600  0.00000300  1
+  Fe  Fe1  1  0.00000000  0.25651500  0.74348500  1
+  Fe  Fe2  1  0.99999900  0.74349300  0.25650900  1
+  P  P3  1  0.00000100  0.49999600  0.50000300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Be0  -0.00001918  0.00100096  0.13653496
+  Fe1  -0.00046918  0.02448335  3.33962527
+  Fe2  -0.00046918  0.02448335  3.33962527
+  P3  -0.00005684  0.00296635  0.40462186

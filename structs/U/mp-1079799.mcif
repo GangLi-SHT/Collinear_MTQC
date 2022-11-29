@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_BaMnBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71897775
+_cell_length_b   25.00171777
+_cell_length_c   4.71800740
+_cell_angle_alpha   89.99969017
+_cell_angle_beta   89.99985093
+_cell_angle_gamma   89.99294864
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnBi2
+_chemical_formula_sum   'Ba4 Mn4 Bi8'
+_cell_volume   556.64253973
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.49996100  0.38611500  0.49998600  1
+  Ba  Ba1  1  0.99999600  0.88611200  0.99998000  1
+  Ba  Ba2  1  0.99998700  0.11389500  0.99999400  1
+  Ba  Ba3  1  0.50001100  0.61389100  0.49997800  1
+  Mn  Mn4  1  0.00018800  0.75004200  0.50036400  1
+  Mn  Mn5  1  0.99982700  0.24994000  0.49986100  1
+  Mn  Mn6  1  0.50004700  0.24997600  0.99995900  1
+  Mn  Mn7  1  0.50005400  0.75000700  0.99995600  1
+  Bi  Bi8  1  0.00005300  0.00000300  0.50016600  1
+  Bi  Bi9  1  0.49985900  0.50000400  0.00017900  1
+  Bi  Bi10  1  0.49992300  0.00000600  0.99979600  1
+  Bi  Bi11  1  0.00011900  0.50000600  0.49978000  1
+  Bi  Bi12  1  0.49996400  0.17766000  0.50001900  1
+  Bi  Bi13  1  0.00006300  0.67767800  0.00005700  1
+  Bi  Bi14  1  0.99992700  0.32232400  0.99996900  1
+  Bi  Bi15  1  0.50002100  0.82234100  0.49995600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn4  0.88381884  -4.39487670  0.88355990
+  Mn5  0.88381884  -4.39487670  0.88355990
+  Mn6  -0.88381884  4.39487670  -0.88355990
+  Mn7  -0.88381884  4.39487670  -0.88355990
+  Bi8  -0.00019344  0.00096189  -0.00019338
+  Bi9  0.00019344  -0.00096189  0.00019338
+  Bi10  0.00019344  -0.00096189  0.00019338
+  Bi11  -0.00019344  0.00096189  -0.00019338

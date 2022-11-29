@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mg(VS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23328783
+_cell_length_b   7.23242461
+_cell_length_c   7.12185608
+_cell_angle_alpha   59.50374733
+_cell_angle_beta   59.49618688
+_cell_angle_gamma   60.01678810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(VS2)4
+_chemical_formula_sum   'Mg1 V4 S8'
+_cell_volume   261.47368911
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.24552100  0.24541200  0.26327100  1
+  V  V1  1  0.62842300  0.11034200  0.63281900  1
+  V  V2  1  0.11014500  0.62861100  0.63274200  1
+  V  V3  1  0.64160000  0.64125300  0.07563400  1
+  V  V4  1  0.62852500  0.62859100  0.63285500  1
+  S  S5  1  0.86897500  0.38465700  0.87741800  1
+  S  S6  1  0.83644200  0.39248100  0.37875100  1
+  S  S7  1  0.39234200  0.39238600  0.37870000  1
+  S  S8  1  0.38375500  0.38400200  0.84853500  1
+  S  S9  1  0.86870100  0.86874300  0.87780300  1
+  S  S10  1  0.86827100  0.86842900  0.39509700  1
+  S  S11  1  0.39246500  0.83636400  0.37875800  1
+  S  S12  1  0.38483500  0.86872800  0.87761700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  -0.00004686  -0.00004591  0.00604673
+  V1  -0.01446299  -0.01417110  1.86642395
+  V2  -0.01445518  -0.01416345  1.86541616
+  V3  -0.01005849  -0.00985549  1.29803134
+  V4  -0.01443956  -0.01414814  1.86340058
+  S5  0.00137445  0.00134671  -0.17737074
+  S6  0.00075751  0.00074222  -0.09775547
+  S7  0.00075751  0.00074222  -0.09775547
+  S8  0.00056228  0.00055093  -0.07256076
+  S9  0.00137445  0.00134671  -0.17737074
+  S10  0.00106208  0.00104064  -0.13705921
+  S11  0.00075751  0.00074222  -0.09775547
+  S12  0.00137445  0.00134671  -0.17737074

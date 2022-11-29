@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Cs(CoSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99058175
+_cell_length_b   3.97345218
+_cell_length_c   15.46019239
+_cell_angle_alpha   90.23971034
+_cell_angle_beta   90.22926749
+_cell_angle_gamma   89.82540441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs(CoSe)2
+_chemical_formula_sum   'Cs2 Co4 Se4'
+_cell_volume   245.13754115
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00196100  0.00087400  0.99836300  1
+  Cs  Cs1  1  0.49798100  0.49913600  0.50164800  1
+  Co  Co2  1  0.50015000  0.99965400  0.75022600  1
+  Co  Co3  1  0.99976900  0.50040400  0.74979200  1
+  Co  Co4  1  0.01267100  0.49246300  0.25058000  1
+  Co  Co5  1  0.48754300  0.00734200  0.24943300  1
+  Se  Se6  1  0.98711200  0.99265900  0.34718800  1
+  Se  Se7  1  0.50143800  0.50105000  0.84772700  1
+  Se  Se8  1  0.51292000  0.50740500  0.15280900  1
+  Se  Se9  1  0.99845600  0.99901200  0.65223500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cs0  -0.00024948  -0.00024939  0.00093347
+  Cs1  -0.00024948  -0.00024939  0.00093347
+  Co2  0.55534815  0.55513827  -2.07791238
+  Co3  0.54836263  0.54815540  -2.05177512
+  Co4  -0.55859142  -0.55838031  2.09004754
+  Co5  -0.55859142  -0.55838031  2.09004754
+  Se6  -0.03817083  -0.03815640  0.14282147
+  Se7  0.03642445  0.03641069  -0.13628716
+  Se8  -0.03817083  -0.03815640  0.14282147
+  Se9  0.03692342  0.03690946  -0.13815410

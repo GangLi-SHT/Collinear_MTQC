@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ca(VS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84475901
+_cell_length_b   7.07555380
+_cell_length_c   7.84629961
+_cell_angle_alpha   64.16536463
+_cell_angle_beta   64.13994514
+_cell_angle_gamma   60.89273567
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(VS2)4
+_chemical_formula_sum   'Ca1 V4 S8'
+_cell_volume   286.42603008
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50003700  0.49998300  0.50000100  1
+  V  V1  1  0.99990800  0.50001400  0.00002200  1
+  V  V2  1  0.49999200  0.00013300  0.99995200  1
+  V  V3  1  0.50005500  0.49999200  0.99998700  1
+  V  V4  1  0.99999100  0.99973200  0.00004300  1
+  S  S5  1  0.73625600  0.24076600  0.79292900  1
+  S  S6  1  0.77201900  0.75805200  0.20759500  1
+  S  S7  1  0.26372600  0.75928300  0.20711100  1
+  S  S8  1  0.76325200  0.26569700  0.20827600  1
+  S  S9  1  0.73647800  0.73160600  0.79718600  1
+  S  S10  1  0.26356000  0.26842900  0.20282300  1
+  S  S11  1  0.23676800  0.73437700  0.79162700  1
+  S  S12  1  0.22795700  0.24193500  0.79244700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00001528  -0.00002902  0.00101875
+  V1  -0.02173508  -0.04126762  1.44865692
+  V2  -0.02930108  -0.05563294  1.95293623
+  V3  -0.02222419  -0.04219629  1.48125680
+  V4  -0.03011118  -0.05717104  2.00692977
+  S5  0.00140621  0.00266992  -0.09372464
+  S6  0.00140621  0.00266992  -0.09372464
+  S7  0.00140621  0.00266992  -0.09372464
+  S8  0.00181890  0.00345348  -0.12123078
+  S9  0.00259843  0.00493354  -0.17318683
+  S10  0.00259843  0.00493354  -0.17318683
+  S11  0.00183418  0.00348250  -0.12224953
+  S12  0.00140621  0.00266992  -0.09372464

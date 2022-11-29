@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_InNi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66260989
+_cell_length_b   3.89385436
+_cell_length_c   7.74241910
+_cell_angle_alpha   89.51785603
+_cell_angle_beta   90.35093696
+_cell_angle_gamma   90.29246662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InNi3
+_chemical_formula_sum   'In2 Ni6'
+_cell_volume   110.41243178
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.00090400  0.00002300  0.99403300  1
+  In  In1  1  0.99841700  0.00050900  0.50567700  1
+  Ni  Ni2  1  0.49999300  0.99929300  0.75034200  1
+  Ni  Ni3  1  0.00229600  0.49966000  0.74432100  1
+  Ni  Ni4  1  0.49949800  0.50036300  0.50927200  1
+  Ni  Ni5  1  0.50004400  0.00033000  0.25116400  1
+  Ni  Ni6  1  0.99904200  0.50075000  0.25641800  1
+  Ni  Ni7  1  0.49980700  0.49907100  0.98877300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  In0  -0.00002352  0.00003406  -0.00800032
+  In1  -0.00002940  0.00004257  -0.01000040
+  Ni2  -0.00112020  0.00162193  -0.38101539
+  Ni3  0.00103788  -0.00150273  0.35301426
+  Ni4  -0.00007056  0.00010217  -0.02400097
+  Ni5  0.00273141  -0.00395479  0.92903752
+  Ni6  0.00282256  -0.00408676  0.96003877
+  Ni7  0.00000294  -0.00000426  0.00100004

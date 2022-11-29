@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_BaMnSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77035492
+_cell_length_b   6.75892474
+_cell_length_c   14.04322995
+_cell_angle_alpha   77.31858422
+_cell_angle_beta   80.86445604
+_cell_angle_gamma   78.49671165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnSi2
+_chemical_formula_sum   'Ba4 Mn4 Si8'
+_cell_volume   429.72707502
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.32775100  0.75814700  0.41151000  1
+  Ba  Ba1  1  0.69115400  0.79694700  0.89602700  1
+  Ba  Ba2  1  0.67221900  0.24185500  0.58848700  1
+  Ba  Ba3  1  0.30882400  0.20304000  0.10398200  1
+  Mn  Mn4  1  0.41097500  0.37944700  0.83280000  1
+  Mn  Mn5  1  0.23453500  0.80227100  0.67947700  1
+  Mn  Mn6  1  0.58902200  0.62049400  0.16718300  1
+  Mn  Mn7  1  0.76545000  0.19779400  0.32051800  1
+  Si  Si8  1  0.03069000  0.52725500  0.26339600  1
+  Si  Si9  1  0.15862300  0.11533500  0.77275700  1
+  Si  Si10  1  0.84132000  0.88465900  0.22724900  1
+  Si  Si11  1  0.96936400  0.47275500  0.73660500  1
+  Si  Si12  1  0.11259900  0.72616700  0.08906700  1
+  Si  Si13  1  0.88742500  0.27383900  0.91093900  1
+  Si  Si14  1  0.77998800  0.72648400  0.60693500  1
+  Si  Si15  1  0.22006100  0.27351000  0.39307000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ba0  -0.00034775  -0.00063022  0.00614604
+  Ba1  0.00069550  0.00126044  -0.01229208
+  Ba2  0.00034775  0.00063022  -0.00614604
+  Ba3  -0.00069550  -0.00126044  0.01229208
+  Mn4  0.25826403  0.46804487  -4.56445837
+  Mn5  0.26104605  0.47308665  -4.61362669
+  Mn6  -0.25826403  -0.46804487  4.56445837
+  Mn7  -0.26104605  -0.47308665  4.61362669
+  Si8  0.00191264  0.00346622  -0.03380322
+  Si9  -0.00144897  -0.00262592  0.02560850
+  Si10  0.00144897  0.00262592  -0.02560850
+  Si11  -0.00191264  -0.00346622  0.03380322
+  Si12  0.00197060  0.00357126  -0.03482755
+  Si13  -0.00197060  -0.00357126  0.03482755
+  Si14  -0.00214447  -0.00388637  0.03790057
+  Si15  0.00214447  0.00388637  -0.03790057

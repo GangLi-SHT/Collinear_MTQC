@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Na(VS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69876204
+_cell_length_b   6.69569303
+_cell_length_c   8.03098907
+_cell_angle_alpha   65.37052100
+_cell_angle_beta   100.79308646
+_cell_angle_gamma   89.98909161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(VS2)2
+_chemical_formula_sum   'Na2 V4 S8'
+_cell_volume   272.58044383
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.34173500  0.99287500  0.50360900  1
+  Na  Na1  1  0.34172900  0.50355800  0.50372100  1
+  V  V2  1  0.51946600  0.26466800  0.01054800  1
+  V  V3  1  0.51978700  0.72469200  0.01056500  1
+  V  V4  1  0.01491900  0.49895400  0.00192900  1
+  V  V5  1  0.96246700  0.99507500  0.01018900  1
+  S  S6  1  0.39295100  0.39311500  0.21376100  1
+  S  S7  1  0.37629000  0.90724200  0.18553100  1
+  S  S8  1  0.60231800  0.09699300  0.80602200  1
+  S  S9  1  0.61738600  0.60095700  0.79795100  1
+  S  S10  1  0.88986400  0.14554600  0.21237600  1
+  S  S11  1  0.89011600  0.64207300  0.21239000  1
+  S  S12  1  0.11554700  0.84584600  0.81576000  1
+  S  S13  1  0.11542800  0.33840900  0.81564600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V2  -0.01532937  -0.48131930  1.15479505
+  V3  -0.01525659  -0.47903384  1.14931170
+  V4  0.01382992  0.43423869  -1.04183789
+  V5  -0.01314570  -0.41275530  0.99029433
+  S6  0.00042218  0.01325571  -0.03180347
+  S7  0.00043673  0.01371280  -0.03290014
+  S8  0.00062599  0.01965501  -0.04715687
+  S9  0.00061143  0.01919792  -0.04606020
+  S10  0.00058231  0.01828373  -0.04386686
+  S11  0.00056775  0.01782664  -0.04277019
+  S12  0.00027660  0.00868477  -0.02083676
+  S13  0.00027660  0.00868477  -0.02083676

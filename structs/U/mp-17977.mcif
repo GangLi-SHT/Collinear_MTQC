@@ -1,0 +1,65 @@
+# generated using pymatgen
+data_Fe12As5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30016587
+_cell_length_b   7.29980438
+_cell_length_c   7.30943684
+_cell_angle_alpha   58.38200704
+_cell_angle_beta   58.29846747
+_cell_angle_gamma   58.29116484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe12As5
+_chemical_formula_sum   'Fe12 As5'
+_cell_volume   264.85946286
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.45137000  0.00454800  0.79041100  1
+  Fe  Fe1  1  0.00490600  0.79102500  0.45082700  1
+  Fe  Fe2  1  0.79106500  0.45023800  0.00511400  1
+  Fe  Fe3  1  0.98869800  0.98855100  0.98851700  1
+  Fe  Fe4  1  0.39718100  0.39760000  0.39716900  1
+  Fe  Fe5  1  0.61962600  0.62076200  0.62003500  1
+  Fe  Fe6  1  0.25149300  0.50285500  0.75732400  1
+  Fe  Fe7  1  0.75714000  0.25134200  0.50342600  1
+  Fe  Fe8  1  0.50297400  0.75780300  0.25115400  1
+  Fe  Fe9  1  0.21881600  0.96614000  0.55156400  1
+  Fe  Fe10  1  0.55165300  0.21881800  0.96609200  1
+  Fe  Fe11  1  0.96559100  0.55183500  0.21918900  1
+  As  As12  1  0.84472300  0.84436900  0.84478800  1
+  As  As13  1  0.14854000  0.14837000  0.14843000  1
+  As  As14  1  0.35570700  0.64091200  0.00941300  1
+  As  As15  1  0.00913500  0.35543200  0.64128000  1
+  As  As16  1  0.64138200  0.00940100  0.35526600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Fe0  0.06368356  -3.24411287  0.06665445
+  Fe1  0.06390406  -3.25534524  0.06688523
+  Fe2  0.06390406  -3.25534524  0.06688523
+  Fe3  -0.06125809  3.12055679  -0.06411583
+  Fe4  -0.06286171  3.20224676  -0.06579426
+  Fe5  -0.06135832  3.12566242  -0.06422073
+  Fe6  -0.06300202  3.20939464  -0.06594112
+  Fe7  -0.06294189  3.20633126  -0.06587818
+  Fe8  -0.06292184  3.20531014  -0.06585720
+  Fe9  -0.06568808  3.34622533  -0.06875248
+  Fe10  -0.06570812  3.34724646  -0.06877346
+  Fe11  -0.06576826  3.35030983  -0.06883640
+  As12  -0.00064145  0.03267599  -0.00067137
+  As13  0.00014032  -0.00714787  0.00014686
+  As14  -0.00022050  0.01123237  -0.00023078
+  As15  -0.00022050  0.01123237  -0.00023078
+  As16  -0.00024054  0.01225350  -0.00025176

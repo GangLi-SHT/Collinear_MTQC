@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CaMnSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40194205
+_cell_length_b   4.40135205
+_cell_length_c   11.28472500
+_cell_angle_alpha   90.00016439
+_cell_angle_beta   89.99962993
+_cell_angle_gamma   89.98352061
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMnSb2
+_chemical_formula_sum   'Ca2 Mn2 Sb4'
+_cell_volume   218.63585739
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000100  0.49999900  0.22182600  1
+  Ca  Ca1  1  0.50000000  0.00000100  0.77817400  1
+  Mn  Mn2  1  0.50000100  0.50000000  0.49994000  1
+  Mn  Mn3  1  0.00000000  0.00000100  0.50005900  1
+  Sb  Sb4  1  0.99991600  0.99993300  0.99999400  1
+  Sb  Sb5  1  0.50008300  0.50006600  0.00000600  1
+  Sb  Sb6  1  0.00000000  0.50000100  0.66268700  1
+  Sb  Sb7  1  0.50000000  0.99999900  0.33731300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn2  0.00001476  -0.00000678  -4.50100000
+  Mn3  -0.00001476  0.00000678  4.50100000
+  Sb4  0.00000002  -0.00000001  -0.00700000
+  Sb5  -0.00000002  0.00000001  0.00700000

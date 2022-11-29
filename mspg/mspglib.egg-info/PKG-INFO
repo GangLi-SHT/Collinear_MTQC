@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: mspglib
+Version: 1.0
+Summary: This is testing module to get magnetic spacegroup informations based on spglib.
+Home-page: UNKNOWN
+Author: suyl
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: all
+Provides: mspglib

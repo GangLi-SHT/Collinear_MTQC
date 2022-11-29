@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Na2CuTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.72009518
+_cell_length_b   11.71374313
+_cell_length_c   51.70555547
+_cell_angle_alpha   90.45726216
+_cell_angle_beta   94.04391086
+_cell_angle_gamma   90.18230618
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CuTe2
+_chemical_formula_sum   'Na4 Cu2 Te4'
+_cell_volume   7080.50997811
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50029800  0.50006100  0.33392900  1
+  Na  Na1  1  0.50030100  0.50007700  0.83397200  1
+  Na  Na2  1  0.49965600  0.49998400  0.16604900  1
+  Na  Na3  1  0.49967700  0.49998200  0.66610500  1
+  Cu  Cu4  1  0.50009000  0.49996600  0.50001100  1
+  Cu  Cu5  1  0.50007700  0.49981800  0.99993800  1
+  Te  Te6  1  0.50039100  0.50018100  0.11188200  1
+  Te  Te7  1  0.50034100  0.50018200  0.61192900  1
+  Te  Te8  1  0.49958200  0.49986400  0.38806400  1
+  Te  Te9  1  0.49958600  0.49988600  0.88812000  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Na0  -0.00021080  -0.00002579  -0.00501059
+  Na1  -0.00021080  -0.00002579  -0.00501059
+  Na2  -0.00021080  -0.00002579  -0.00501059
+  Na3  -0.00021080  -0.00002579  -0.00501059
+  Cu4  -0.00872704  -0.00106765  -0.20743824
+  Cu5  0.00881136  0.00107797  0.20944248
+  Te6  0.01909831  0.00233646  0.45395905
+  Te7  0.01880319  0.00230035  0.44694423
+  Te8  0.01884535  0.00230551  0.44794635
+  Te9  0.01888751  0.00231067  0.44894847

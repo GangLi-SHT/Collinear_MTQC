@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ba(CrAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28785315
+_cell_length_b   4.29974614
+_cell_length_c   12.96260994
+_cell_angle_alpha   89.99997776
+_cell_angle_beta   89.99996959
+_cell_angle_gamma   90.19635474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(CrAs)2
+_chemical_formula_sum   'Ba2 Cr4 As4'
+_cell_volume   238.98608840
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00002400  1
+  Ba  Ba1  1  0.50000000  0.50000000  0.49997600  1
+  Cr  Cr2  1  0.50000000  0.00000000  0.75023800  1
+  Cr  Cr3  1  0.50000000  0.00000000  0.24976100  1
+  Cr  Cr4  1  0.00000000  0.50000000  0.25023800  1
+  Cr  Cr5  1  0.00000000  0.50000000  0.74976300  1
+  As  As6  1  0.00000000  0.00000000  0.36645100  1
+  As  As7  1  0.50000000  0.50000000  0.86646200  1
+  As  As8  1  0.50000000  0.50000000  0.13355300  1
+  As  As9  1  0.00000000  0.00000000  0.63353300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ba0  0.00029042  0.00029042  -0.00091208
+  Ba1  -0.00029042  -0.00029042  0.00091208
+  Cr2  1.10040438  1.10040729  -3.45587059
+  Cr3  1.09953312  1.09953602  -3.45313435
+  Cr4  -1.10011396  -1.10011687  3.45495851
+  Cr5  -1.09953312  -1.09953602  3.45313435
+  As6  0.00029042  0.00029042  -0.00091208
+  As7  -0.00029042  -0.00029042  0.00091208
+  As8  -0.00087126  -0.00087126  0.00273624
+  As9  0.00087126  0.00087126  -0.00273624

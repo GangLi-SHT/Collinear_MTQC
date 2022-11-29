@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Na2CoSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01338873
+_cell_length_b   6.44977944
+_cell_length_c   7.41737688
+_cell_angle_alpha   64.24505207
+_cell_angle_beta   66.08039521
+_cell_angle_gamma   89.99267516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CoSe2
+_chemical_formula_sum   'Na4 Co2 Se4'
+_cell_volume   231.37339846
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.64139500  0.81056300  0.71700400  1
+  Na  Na1  1  0.35842500  0.18944800  0.28299300  1
+  Na  Na2  1  0.14153400  0.47242200  0.71700000  1
+  Na  Na3  1  0.85859100  0.52758900  0.28299500  1
+  Co  Co4  1  0.75002700  0.00000000  0.00002200  1
+  Co  Co5  1  0.24996800  0.00002200  0.99995200  1
+  Se  Se6  1  0.38819300  0.68316200  0.22349900  1
+  Se  Se7  1  0.61171400  0.31684600  0.77648400  1
+  Se  Se8  1  0.88837600  0.09347400  0.22351700  1
+  Se  Se9  1  0.11177700  0.90647300  0.77653300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co4  1.49959212  1.63941830  -1.88777361
+  Co5  -1.49959212  -1.63941830  1.88777361

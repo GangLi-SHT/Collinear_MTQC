@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Na(VS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03104084
+_cell_length_b   7.00422512
+_cell_length_c   8.12656440
+_cell_angle_alpha   64.46779317
+_cell_angle_beta   104.17536930
+_cell_angle_gamma   90.02099237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(VS2)2
+_chemical_formula_sum   'Na2 V4 S8'
+_cell_volume   298.15337870
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.34528900  0.99688100  0.50653900  1
+  Na  Na1  1  0.34536100  0.49653300  0.50654900  1
+  V  V2  1  0.00109100  0.49820400  0.00357400  1
+  V  V3  1  0.00105400  0.99804900  0.00395900  1
+  V  V4  1  0.50189100  0.24471000  0.01116400  1
+  V  V5  1  0.50192500  0.74413700  0.01115000  1
+  S  S6  1  0.40141100  0.39418600  0.21169100  1
+  S  S7  1  0.39181300  0.89585100  0.20826400  1
+  S  S8  1  0.60491400  0.09586200  0.80837800  1
+  S  S9  1  0.59574400  0.59675500  0.80642900  1
+  S  S10  1  0.90338600  0.14153900  0.20405900  1
+  S  S11  1  0.90354700  0.65443200  0.20405000  1
+  S  S12  1  0.10133800  0.85248500  0.80711100  1
+  S  S13  1  0.10123700  0.34037800  0.80708300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V2  -0.04818998  0.88717905  -2.05851500
+  V3  0.03095129  -0.56981418  1.32213565
+  V4  0.04980937  -0.91699211  2.12769003
+  V5  0.04980937  -0.91699211  2.12769003
+  S6  -0.00052238  0.00961712  -0.02231453
+  S7  -0.00125372  0.02308108  -0.05355486
+  S8  -0.00122760  0.02260022  -0.05243914
+  S9  -0.00054850  0.01009797  -0.02343025
+  S10  -0.00109701  0.02019595  -0.04686050
+  S11  -0.00112313  0.02067680  -0.04797623
+  S12  -0.00099253  0.01827252  -0.04239760
+  S13  -0.00101865  0.01875338  -0.04351333

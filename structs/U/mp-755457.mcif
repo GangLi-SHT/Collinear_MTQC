@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Li2Fe2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50853595
+_cell_length_b   6.53030402
+_cell_length_c   7.11704110
+_cell_angle_alpha   89.99977935
+_cell_angle_beta   116.82339339
+_cell_angle_gamma   89.99213403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Fe2S3
+_chemical_formula_sum   'Li4 Fe4 S6'
+_cell_volume   269.94578053
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.87385000  0.34036100  0.06265500  1
+  Li  Li1  1  0.37379300  0.15960900  0.06259200  1
+  Li  Li2  1  0.62610800  0.84041300  0.93730700  1
+  Li  Li3  1  0.12613300  0.65964200  0.93733800  1
+  Fe  Fe4  1  0.92398700  0.11567900  0.65319400  1
+  Fe  Fe5  1  0.42405400  0.38439500  0.65329600  1
+  Fe  Fe6  1  0.57579400  0.61543600  0.34659400  1
+  Fe  Fe7  1  0.07575200  0.88441200  0.34653100  1
+  S  S8  1  0.50002500  0.49997600  0.00003900  1
+  S  S9  1  0.00006200  0.00004600  0.00015400  1
+  S  S10  1  0.69400100  0.95708600  0.32081900  1
+  S  S11  1  0.80626200  0.45724300  0.67942600  1
+  S  S12  1  0.19398500  0.54286500  0.32071800  1
+  S  S13  1  0.30619500  0.04283600  0.67933700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  -0.00000464  0.00000000  0.00099790
+  Li1  -0.00000464  0.00000000  0.00099790
+  Li2  0.00000464  0.00000000  -0.00099790
+  Li3  0.00000464  0.00000000  -0.00099790
+  Fe4  0.01659470  0.00000489  -3.56648109
+  Fe5  0.01659470  0.00000489  -3.56648109
+  Fe6  -0.01659470  -0.00000489  3.56648109
+  Fe7  -0.01659470  -0.00000489  3.56648109
+  S10  -0.00007429  -0.00000002  0.01596634
+  S11  0.00007429  0.00000002  -0.01596634
+  S12  -0.00007429  -0.00000002  0.01596634
+  S13  0.00007429  0.00000002  -0.01596634

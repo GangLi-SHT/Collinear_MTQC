@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MgSnRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.29173623
+_cell_length_b   10.91361439
+_cell_length_c   11.10571615
+_cell_angle_alpha   59.72309901
+_cell_angle_beta   62.36219955
+_cell_angle_gamma   61.82751901
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSnRu2
+_chemical_formula_sum   'Mg1 Sn1 Ru2'
+_cell_volume   906.87808162
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99987000  0.99999900  0.99999700  1
+  Sn  Sn1  1  0.50003400  0.00000200  0.00000600  1
+  Ru  Ru2  1  0.74165900  0.00000500  0.99998000  1
+  Ru  Ru3  1  0.25843700  0.99999400  0.00001600  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Sn1  0.00010098  -0.00003763  0.00297092
+  Ru2  -0.05880572  0.02191250  -1.73006534
+  Ru3  0.05860375  -0.02183724  1.72412351

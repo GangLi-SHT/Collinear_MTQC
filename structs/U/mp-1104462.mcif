@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ca(Al2Fe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18577941
+_cell_length_b   6.89520741
+_cell_length_c   6.88973960
+_cell_angle_alpha   81.93351535
+_cell_angle_beta   68.00647129
+_cell_angle_gamma   67.94913838
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(Al2Fe)4
+_chemical_formula_sum   'Ca1 Al8 Fe4'
+_cell_volume   211.71895095
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000100  0.00000000  0.00000000  1
+  Al  Al1  1  0.00026300  0.65418900  0.34565400  1
+  Al  Al2  1  0.99973500  0.34581100  0.65434600  1
+  Al  Al3  1  0.65510100  0.34537700  0.34535100  1
+  Al  Al4  1  0.34490100  0.65462300  0.65464900  1
+  Al  Al5  1  0.50007700  0.22611500  0.77387100  1
+  Al  Al6  1  0.49992300  0.77388500  0.22613000  1
+  Al  Al7  1  0.72574300  0.77408500  0.77406000  1
+  Al  Al8  1  0.27425800  0.22591500  0.22594000  1
+  Fe  Fe9  1  0.49999900  0.50000000  0.00000000  1
+  Fe  Fe10  1  0.99999900  0.50000000  0.00000000  1
+  Fe  Fe11  1  0.00000000  0.00000000  0.49999900  1
+  Fe  Fe12  1  0.49999900  0.00000000  0.50000100  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ca0  -0.00004614  -0.00000235  -0.00798227
+  Al1  -0.00019034  -0.00000971  -0.03292686
+  Al2  -0.00019034  -0.00000971  -0.03292686
+  Al3  -0.00018457  -0.00000942  -0.03192908
+  Al4  -0.00018457  -0.00000942  -0.03192908
+  Al5  -0.00018457  -0.00000942  -0.03192908
+  Al6  -0.00018457  -0.00000942  -0.03192908
+  Al7  -0.00018457  -0.00000942  -0.03192908
+  Al8  -0.00018457  -0.00000942  -0.03192908
+  Fe9  0.01660584  0.00084728  2.87261931
+  Fe10  0.01660584  0.00084728  2.87261931
+  Fe11  0.01662315  0.00084816  2.87561267
+  Fe12  0.01660007  0.00084699  2.87162153

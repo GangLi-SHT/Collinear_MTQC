@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_RbMnBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81906800
+_cell_length_b   4.81906700
+_cell_length_c   8.76577700
+_cell_angle_alpha   89.99998157
+_cell_angle_beta   89.99993165
+_cell_angle_gamma   90.00007134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMnBi
+_chemical_formula_sum   'Rb2 Mn2 Bi2'
+_cell_volume   203.57124700
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.50000000  0.34244200  1
+  Rb  Rb1  1  0.50000000  0.00000000  0.65755800  1
+  Mn  Mn2  1  0.50000000  0.50000000  0.00000000  1
+  Mn  Mn3  1  0.00000000  0.00000000  0.00000000  1
+  Bi  Bi4  1  0.00000000  0.50000000  0.81983600  1
+  Bi  Bi5  1  0.50000000  0.00000000  0.18016400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn2  0.00000228  0.00000046  -3.99700000
+  Mn3  -0.00000228  -0.00000046  3.99800000

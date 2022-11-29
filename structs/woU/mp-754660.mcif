@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_LiFeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19912880
+_cell_length_b   6.37401398
+_cell_length_c   6.85583394
+_cell_angle_alpha   104.36032058
+_cell_angle_beta   89.97188362
+_cell_angle_gamma   89.95890230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeS2
+_chemical_formula_sum   'Li4 Fe4 S8'
+_cell_volume   262.43259390
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.05093500  0.29076900  0.58943600  1
+  Li  Li1  1  0.44903200  0.79070600  0.58917700  1
+  Li  Li2  1  0.55098000  0.20922800  0.41069900  1
+  Li  Li3  1  0.94905600  0.70917700  0.41057200  1
+  Fe  Fe4  1  0.14935700  0.14193300  0.10866500  1
+  Fe  Fe5  1  0.35081300  0.64174300  0.10847800  1
+  Fe  Fe6  1  0.64913500  0.35830700  0.89149200  1
+  Fe  Fe7  1  0.85076800  0.85812300  0.89142800  1
+  S  S8  1  0.29294400  0.32213200  0.89331400  1
+  S  S9  1  0.20718700  0.82190800  0.89330300  1
+  S  S10  1  0.79288300  0.17807900  0.10688600  1
+  S  S11  1  0.70690500  0.67796200  0.10679700  1
+  S  S12  1  0.75838200  0.05139800  0.66442500  1
+  S  S13  1  0.74152600  0.55133000  0.66445800  1
+  S  S14  1  0.25849800  0.44867800  0.33546700  1
+  S  S15  1  0.24159900  0.94852800  0.33540500  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Li0  -0.00000066  -0.00015218  0.00295863
+  Li1  -0.00000066  -0.00015218  0.00295863
+  Li2  0.00000066  0.00015218  -0.00295863
+  Li3  0.00000066  0.00015218  -0.00295863
+  Fe4  0.00040481  0.09308120  -1.80969732
+  Fe5  0.00040216  0.09247249  -1.79786278
+  Fe6  -0.00040282  -0.09262467  1.80082142
+  Fe7  -0.00040481  -0.09308120  1.80969732
+  S8  -0.00000949  -0.00218119  0.04240708
+  S9  -0.00000949  -0.00218119  0.04240708
+  S10  0.00000949  0.00218119  -0.04240708
+  S11  0.00000949  0.00218119  -0.04240708
+  S12  -0.00000309  -0.00071016  0.01380695
+  S13  -0.00000309  -0.00071016  0.01380695
+  S14  0.00000331  0.00076088  -0.01479317
+  S15  0.00000331  0.00076088  -0.01479317

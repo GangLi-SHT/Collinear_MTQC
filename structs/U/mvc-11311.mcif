@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_CaV2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19898914
+_cell_length_b   6.14091419
+_cell_length_c   14.55975101
+_cell_angle_alpha   89.99474242
+_cell_angle_beta   90.00028663
+_cell_angle_gamma   90.02883266
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaV2S5
+_chemical_formula_sum   'Ca2 V4 S10'
+_cell_volume   375.43233255
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49947900  0.63192100  0.00000500  1
+  Ca  Ca1  1  0.00052200  0.36803800  0.50001500  1
+  V  V2  1  0.50013200  0.91123400  0.65297800  1
+  V  V3  1  0.99987800  0.08866300  0.84700900  1
+  V  V4  1  0.99987700  0.08894600  0.15293900  1
+  V  V5  1  0.50011600  0.91111200  0.34705300  1
+  S  S6  1  0.50017700  0.05829300  0.50001300  1
+  S  S7  1  0.99982600  0.94170100  0.99998600  1
+  S  S8  1  0.49973300  0.90504700  0.17965100  1
+  S  S9  1  0.00025700  0.09502400  0.32034600  1
+  S  S10  1  0.49973400  0.90516200  0.82033100  1
+  S  S11  1  0.00026300  0.09486700  0.67966300  1
+  S  S12  1  0.99929800  0.42765600  0.88196000  1
+  S  S13  1  0.50071500  0.57231100  0.61803000  1
+  S  S14  1  0.50069600  0.57227100  0.38200500  1
+  S  S15  1  0.99929500  0.42775500  0.11801400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  V2  -0.00000363  0.00005953  -1.39800000
+  V3  -0.00000363  0.00005953  -1.39800000
+  V4  0.00000364  -0.00005957  1.39900000
+  V5  0.00000363  -0.00005953  1.39800000
+  S8  -0.00000024  0.00000388  -0.09100000
+  S9  -0.00000024  0.00000388  -0.09100000
+  S10  0.00000024  -0.00000388  0.09100000
+  S11  0.00000024  -0.00000388  0.09100000
+  S12  0.00000046  -0.00000758  0.17800000
+  S13  0.00000046  -0.00000758  0.17800000
+  S14  -0.00000046  0.00000758  -0.17800000
+  S15  -0.00000046  0.00000758  -0.17800000

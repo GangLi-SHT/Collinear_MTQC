@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_NaMnSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40470800
+_cell_length_b   4.40470700
+_cell_length_c   7.46981800
+_cell_angle_alpha   90.00005670
+_cell_angle_beta   89.99985292
+_cell_angle_gamma   89.99992195
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnSb
+_chemical_formula_sum   'Na2 Mn2 Sb2'
+_cell_volume   144.92528670
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.00000000  0.65169000  1
+  Na  Na1  1  0.00000000  0.50000000  0.34831000  1
+  Mn  Mn2  1  0.00000000  0.00000000  0.00000000  1
+  Mn  Mn3  1  0.50000000  0.50000000  0.00000000  1
+  Sb  Sb4  1  0.50000000  0.00000000  0.21675800  1
+  Sb  Sb5  1  0.00000000  0.50000000  0.78324200  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn2  0.00000448  -0.00000199  -3.71900000
+  Mn3  -0.00000448  0.00000199  3.72000000

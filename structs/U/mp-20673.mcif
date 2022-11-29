@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mg(FeGe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27250700
+_cell_length_b   5.27269130
+_cell_length_c   8.59384201
+_cell_angle_alpha   90.00400087
+_cell_angle_beta   90.00175183
+_cell_angle_gamma   120.00049142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(FeGe)6
+_chemical_formula_sum   'Mg1 Fe6 Ge6'
+_cell_volume   206.90231745
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.99999900  0.99999800  0.00000000  1
+  Fe  Fe1  1  0.00001100  0.50000000  0.75060700  1
+  Fe  Fe2  1  0.50002200  0.50002600  0.75059700  1
+  Fe  Fe3  1  0.49999500  0.00001400  0.75059400  1
+  Fe  Fe4  1  0.99998700  0.49999700  0.24939600  1
+  Fe  Fe5  1  0.49998000  0.49997500  0.24940100  1
+  Fe  Fe6  1  0.50000300  0.99998300  0.24940500  1
+  Ge  Ge7  1  0.99999200  0.99997500  0.65718000  1
+  Ge  Ge8  1  0.00001000  0.00002800  0.34283100  1
+  Ge  Ge9  1  0.33333000  0.66666300  0.99999600  1
+  Ge  Ge10  1  0.66667100  0.33333800  0.99999500  1
+  Ge  Ge11  1  0.33333100  0.66667000  0.49999900  1
+  Ge  Ge12  1  0.66666900  0.33333400  0.49999900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  -0.00000066  -0.00000085  -0.01500000
+  Fe1  0.00013642  0.00017632  3.09500001
+  Fe2  0.00013633  0.00017621  3.09300001
+  Fe3  0.00013633  0.00017621  3.09300001
+  Fe4  0.00013642  0.00017632  3.09500001
+  Fe5  0.00013651  0.00017644  3.09700001
+  Fe6  0.00013646  0.00017638  3.09600001
+  Ge7  -0.00000419  -0.00000541  -0.09500000
+  Ge8  -0.00000419  -0.00000541  -0.09500000
+  Ge9  -0.00000304  -0.00000393  -0.06900000
+  Ge10  -0.00000304  -0.00000393  -0.06900000
+  Ge11  -0.00000115  -0.00000148  -0.02600000
+  Ge12  -0.00000115  -0.00000148  -0.02600000

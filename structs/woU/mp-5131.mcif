@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_K2CoS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05676135
+_cell_length_b   7.78935822
+_cell_length_c   12.35088230
+_cell_angle_alpha   81.16672123
+_cell_angle_beta   75.81099774
+_cell_angle_gamma   67.12107290
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CoS2
+_chemical_formula_sum   'K8 Co4 S8'
+_cell_volume   519.36567851
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.35369600  0.38652500  0.90620000  1
+  K  K1  1  0.35366400  0.88647900  0.40613200  1
+  K  K2  1  0.64636900  0.61355000  0.09381800  1
+  K  K3  1  0.64631700  0.11350800  0.59386900  1
+  K  K4  1  0.85372100  0.55267500  0.74005000  1
+  K  K5  1  0.85363900  0.05272200  0.23995800  1
+  K  K6  1  0.14630100  0.44731800  0.25995700  1
+  K  K7  1  0.14622800  0.94730100  0.76000100  1
+  Co  Co8  1  0.24998300  0.50001100  0.49999000  1
+  Co  Co9  1  0.74996000  0.99997800  0.00001100  1
+  Co  Co10  1  0.25006700  0.00001200  0.99998800  1
+  Co  Co11  1  0.75004500  0.49998400  0.50000900  1
+  S  S12  1  0.40227200  0.55775000  0.63794400  1
+  S  S13  1  0.40231400  0.05762700  0.13788400  1
+  S  S14  1  0.59790200  0.44221700  0.36205700  1
+  S  S15  1  0.59776700  0.94236100  0.86211500  1
+  S  S16  1  0.09782500  0.76426100  0.04013200  1
+  S  S17  1  0.09779800  0.26418600  0.54013800  1
+  S  S18  1  0.90210100  0.23571900  0.95988300  1
+  S  S19  1  0.90203100  0.73581600  0.45986300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Co8  1.49937062  -0.97434920  -1.54794453
+  Co9  1.49782885  -0.97334730  -1.54635281
+  Co10  -1.49859973  0.97384825  1.54714867
+  Co11  -1.49782885  0.97334730  1.54635281

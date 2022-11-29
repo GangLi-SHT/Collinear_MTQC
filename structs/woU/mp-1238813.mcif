@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Li(CrS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.37151912
+_cell_length_b   7.10306472
+_cell_length_c   10.50706167
+_cell_angle_alpha   78.49366826
+_cell_angle_beta   80.79556782
+_cell_angle_gamma   76.27394159
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(CrS2)2
+_chemical_formula_sum   'Li2 Cr4 S8'
+_cell_volume   237.84334543
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50014800  0.24984600  0.74982200  1
+  Li  Li1  1  0.49986000  0.75010300  0.25020700  1
+  Cr  Cr2  1  0.24514000  0.14467300  0.36464200  1
+  Cr  Cr3  1  0.75481900  0.85504700  0.63570500  1
+  Cr  Cr4  1  0.24531300  0.64474700  0.86422300  1
+  Cr  Cr5  1  0.75471600  0.35565100  0.13531800  1
+  S  S6  1  0.63147400  0.38080800  0.35598600  1
+  S  S7  1  0.63138700  0.88056100  0.85640200  1
+  S  S8  1  0.36877800  0.61897500  0.64373900  1
+  S  S9  1  0.36833500  0.11964200  0.14389700  1
+  S  S10  1  0.14663900  0.60762900  0.09905200  1
+  S  S11  1  0.14655300  0.10757700  0.59935200  1
+  S  S12  1  0.85340600  0.39255500  0.90068700  1
+  S  S13  1  0.85343100  0.89218600  0.40096700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Cr2  1.11657712  -1.27856829  -1.77382958
+  Cr3  1.11610619  -1.27802903  -1.77308145
+  Cr4  -1.11563526  1.27748978  1.77233331
+  Cr5  -1.11846084  1.28072530  1.77682212
+  S6  -0.01554072  0.01779534  0.02468848
+  S7  0.01554072  -0.01779534  -0.02468848
+  S8  -0.01506979  0.01725609  0.02394034
+  S9  0.01506979  -0.01725609  -0.02394034
+  S10  0.02260468  -0.02588413  -0.03591051
+  S11  -0.02213375  0.02534488  0.03516237
+  S12  0.02260468  -0.02588413  -0.03591051
+  S13  -0.02260468  0.02588413  0.03591051

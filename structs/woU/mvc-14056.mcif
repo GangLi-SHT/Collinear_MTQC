@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ca(FeS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96182700
+_cell_length_b   7.33890530
+_cell_length_c   6.96304837
+_cell_angle_alpha   118.53665986
+_cell_angle_beta   90.09696014
+_cell_angle_gamma   118.17994722
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(FeS2)2
+_chemical_formula_sum   'Ca2 Fe4 S8'
+_cell_volume   263.35743460
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.99910400  0.00029600  0.99937900  1
+  Ca  Ca1  1  0.25089800  0.49971200  0.75062900  1
+  Fe  Fe2  1  0.62500200  0.25000700  0.87499400  1
+  Fe  Fe3  1  0.62500400  0.24999000  0.37499000  1
+  Fe  Fe4  1  0.12499400  0.75000800  0.37501300  1
+  Fe  Fe5  1  0.62498900  0.74999300  0.37499900  1
+  S  S6  1  0.43937600  0.31938400  0.15974400  1
+  S  S7  1  0.37291900  0.17957500  0.58912500  1
+  S  S8  1  0.40956100  0.81939700  0.63028200  1
+  S  S9  1  0.40931900  0.82013800  0.19302600  1
+  S  S10  1  0.84043400  0.68058800  0.11970600  1
+  S  S11  1  0.84065500  0.67985200  0.55700400  1
+  S  S12  1  0.81064500  0.18062400  0.59025900  1
+  S  S13  1  0.87710000  0.32043500  0.16084800  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Fe2  -1.32305613  0.00199661  -0.00020208
+  Fe3  -1.32405542  0.00199812  -0.00020223
+  Fe4  1.32205684  -0.00199510  0.00020192
+  Fe5  1.33504757  -0.00201470  0.00020391
+  S6  0.00099929  -0.00000151  0.00000015
+  S7  -0.00299786  0.00000452  -0.00000046
+  S8  -0.00099929  0.00000151  -0.00000015
+  S9  0.00299786  -0.00000452  0.00000046
+  S10  -0.00099929  0.00000151  -0.00000015
+  S11  0.00299786  -0.00000452  0.00000046
+  S12  0.00099929  -0.00000151  0.00000015
+  S13  -0.00299786  0.00000452  -0.00000046

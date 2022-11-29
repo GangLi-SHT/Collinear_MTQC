@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Mn3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68011969
+_cell_length_b   8.33002099
+_cell_length_c   4.67385529
+_cell_angle_alpha   105.90259533
+_cell_angle_beta   60.23034804
+_cell_angle_gamma   105.80482086
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Ge
+_chemical_formula_sum   'Mn6 Ge2'
+_cell_volume   150.07092446
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.37785100  0.13330800  0.37732100  1
+  Mn  Mn1  1  0.87086700  0.61232000  0.87116300  1
+  Mn  Mn2  1  0.25096600  0.75279000  0.25143500  1
+  Mn  Mn3  1  0.99679400  0.99189400  0.99675600  1
+  Mn  Mn4  1  0.50214900  0.50639900  0.50257800  1
+  Mn  Mn5  1  0.74942800  0.24754300  0.74892800  1
+  Ge  Ge6  1  0.12613900  0.37663700  0.12599400  1
+  Ge  Ge7  1  0.62581100  0.87910800  0.62583200  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn0  -2.22052784  -3.87618550  -2.22824519
+  Mn1  -2.20332588  -3.84615751  -2.21098344
+  Mn2  -2.17826016  -3.80240242  -2.18583061
+  Mn3  2.20283439  3.84529956  2.21049025
+  Mn4  2.20185142  3.84358368  2.20950386
+  Mn5  2.19497064  3.83157248  2.20259916
+  Ge6  -0.02457423  -0.04289714  -0.02465964
+  Ge7  -0.01965939  -0.03431771  -0.01972771

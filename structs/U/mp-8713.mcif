@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_K2MnS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30540404
+_cell_length_b   6.99770038
+_cell_length_c   7.93254298
+_cell_angle_alpha   63.83286395
+_cell_angle_beta   113.42746949
+_cell_angle_gamma   89.99192011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MnS2
+_chemical_formula_sum   'K4 Mn2 S4'
+_cell_volume   281.62257670
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.64744200  0.19465800  0.29496100  1
+  K  K1  1  0.85250100  0.48978100  0.70498300  1
+  K  K2  1  0.35255800  0.80534100  0.70503900  1
+  K  K3  1  0.14749900  0.51021800  0.29501700  1
+  Mn  Mn4  1  0.24998900  0.00000000  0.99999300  1
+  Mn  Mn5  1  0.75001200  0.00000000  0.00000700  1
+  S  S6  1  0.60436600  0.69831100  0.20876200  1
+  S  S7  1  0.89563100  0.90709100  0.79123100  1
+  S  S8  1  0.39563500  0.30168900  0.79123800  1
+  S  S9  1  0.10437000  0.09290900  0.20876900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn4  0.00535642  3.97023856  -4.51353942
+  Mn5  -0.00535642  -3.97023856  4.51353942

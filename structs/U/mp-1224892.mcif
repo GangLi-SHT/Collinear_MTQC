@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_GaFe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.66509714
+_cell_length_b   2.66573793
+_cell_length_c   8.26556278
+_cell_angle_alpha   88.62633573
+_cell_angle_beta   91.39671238
+_cell_angle_gamma   93.90179676
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaFe3
+_chemical_formula_sum   'Ga1 Fe3'
+_cell_volume   58.55410617
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00138400  0.99913000  0.00008700  1
+  Fe  Fe1  1  0.48696500  0.51182800  0.74686800  1
+  Fe  Fe2  1  0.99784700  0.00122900  0.49980100  1
+  Fe  Fe3  1  0.51380400  0.48781300  0.25324400  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Ga0  -0.00083962  0.00075540  -0.07402938
+  Fe1  0.03720428  -0.03347231  3.28030194
+  Fe2  0.03772621  -0.03394188  3.32632020
+  Fe3  0.03718159  -0.03345190  3.27830114

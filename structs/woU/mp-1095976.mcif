@@ -1,0 +1,63 @@
+# generated using pymatgen
+data_Mg2GaCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.49640784
+_cell_length_b   17.63862558
+_cell_length_c   17.98603648
+_cell_angle_alpha   101.23165926
+_cell_angle_beta   73.03271062
+_cell_angle_gamma   90.00195447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2GaCu
+_chemical_formula_sum   'Mg8 Ga4 Cu4'
+_cell_volume   3118.29276560
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.98997300  0.75001500  0.50001400  1
+  Mg  Mg1  1  0.48980600  0.24997200  0.49999500  1
+  Mg  Mg2  1  0.73998100  0.49998300  0.99999200  1
+  Mg  Mg3  1  0.23981400  0.00002400  0.00001000  1
+  Mg  Mg4  1  0.51001600  0.75001800  0.50000800  1
+  Mg  Mg5  1  0.01020300  0.24997500  0.49999000  1
+  Mg  Mg6  1  0.26003000  0.49998500  0.99998600  1
+  Mg  Mg7  1  0.76017800  0.00002700  0.00000500  1
+  Ga  Ga8  1  0.24999900  0.74999600  0.50000000  1
+  Ga  Ga9  1  0.74999300  0.25000800  0.50001800  1
+  Ga  Ga10  1  0.00000100  0.50000400  0.00000000  1
+  Ga  Ga11  1  0.50000600  0.99999100  0.99998400  1
+  Cu  Cu12  1  0.75001500  0.74997200  0.49997100  1
+  Cu  Cu13  1  0.49998600  0.50002800  0.00002800  1
+  Cu  Cu14  1  0.24998600  0.25003000  0.50002700  1
+  Cu  Cu15  1  0.00001500  0.99997200  0.99997300  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mg0  -0.00381954  0.00214936  0.00438666
+  Mg1  -0.00381954  0.00214936  0.00438666
+  Mg2  -0.00381954  0.00214936  0.00438666
+  Mg3  -0.00381954  0.00214936  0.00438666
+  Mg4  -0.00381954  0.00214936  0.00438666
+  Mg5  -0.00381954  0.00214936  0.00438666
+  Mg6  -0.00381954  0.00214936  0.00438666
+  Mg7  -0.00381954  0.00214936  0.00438666
+  Ga8  -0.15430934  0.08683417  0.17722122
+  Ga9  -0.15507325  0.08726404  0.17809855
+  Ga10  -0.15430934  0.08683417  0.17722122
+  Ga11  -0.15507325  0.08726404  0.17809855
+  Cu12  0.00305563  -0.00171949  -0.00350933
+  Cu13  0.00305563  -0.00171949  -0.00350933
+  Cu14  0.00229172  -0.00128962  -0.00263200
+  Cu15  0.00229172  -0.00128962  -0.00263200

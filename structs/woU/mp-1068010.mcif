@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba(MnBi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49484881
+_cell_length_b   4.49485528
+_cell_length_c   7.93965125
+_cell_angle_alpha   106.43846443
+_cell_angle_beta   106.43869826
+_cell_angle_gamma   89.99723185
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(MnBi)2
+_chemical_formula_sum   'Ba1 Mn2 Bi2'
+_cell_volume   147.00481156
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000100  1
+  Mn  Mn1  1  0.75000100  0.24999700  0.49999900  1
+  Mn  Mn2  1  0.24999800  0.75000200  0.50000000  1
+  Bi  Bi3  1  0.36663700  0.36663700  0.73323400  1
+  Bi  Bi4  1  0.63336300  0.63336300  0.26676700  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Mn1  -0.00074796  -0.00074132  -3.84442133
+  Mn2  0.00074816  0.00074152  3.84542144
+  Bi3  -0.00000019  -0.00000019  -0.00100011
+  Bi4  -0.00000019  -0.00000019  -0.00100011

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Rb(CoS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75528163
+_cell_length_b   3.75527616
+_cell_length_c   7.15525556
+_cell_angle_alpha   105.21767897
+_cell_angle_beta   105.21764498
+_cell_angle_gamma   90.00526415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb(CoS)2
+_chemical_formula_sum   'Rb1 Co2 S2'
+_cell_volume   93.69377658
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.00000000  1
+  Co  Co1  1  0.25000600  0.74999400  0.50000000  1
+  Co  Co2  1  0.74999400  0.25000500  0.50000000  1
+  S  S3  1  0.33925600  0.33925500  0.67851100  1
+  S  S4  1  0.66074400  0.66074500  0.32148900  1
+loop_
+ _atom_site_moment_label
+ _atom_site_moment_crystalaxis_x
+ _atom_site_moment_crystalaxis_y
+ _atom_site_moment_crystalaxis_z
+  Rb0  -0.00000211  -0.00000211  0.00699889
+  Co1  -0.00026618  -0.00026602  0.88386024
+  Co2  -0.00026408  -0.00026391  0.87686134
+  S3  -0.00001837  -0.00001836  0.06099036
+  S4  -0.00001837  -0.00001836  0.06099036
